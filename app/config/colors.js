@@ -1,6 +1,6 @@
 export default {
     // colors in stock grading
-    lightNlue: '#32d7ff',
+    lightBlue: '#32d7ff',
     offBlueGreen: '#13ff8b',
     greenYellow: '#80ff4a',
     gold: '#fcde42',
