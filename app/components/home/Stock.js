@@ -49,7 +49,6 @@ const StockInfoModal = ({stock}) => (
   )
 }
 
-
 const StockData = ({stock}) => (
   <View>
   {/*}
@@ -62,47 +61,6 @@ const StockData = ({stock}) => (
     <Text style={[styles.stockInfo, {fontStyle:'italic'}]}>{stock.sector}</Text>
   </View>
 )
-
-
-// comments
-//  {/*}  {*/}
-
-
-const StockRating = ({stock}) => (
-
-  <TouchableOpacity onPress={() => setVisible(true)}>
-  <View style={{width:75, height:75}}>
-          <Image 
-          source={{uri: stock.rating}} 
-          style={{height:'100%', resizeMode:'cover'}} 
-          />
-          {/*} <StockInfoModal stock={stock}/> {*/}
-      </View>
-      
-    </TouchableOpacity>
-    
-)
-
-
-
-
-/*
-
-const StockInfoModal = ({stock}) => (
-  <Modal
-    animationType={'fade'}
-    visible={visible}
-    onRequestClose={() => setVisible(false)}
-  >
-    <View style={styles.modalView}>
-      <Text>Modal Test</Text>
-      <Text>{stock.name}</Text>
-      <Button title="Click here to close" onPress={() => setVisible(false)} />
-    </View>
-
-  </Modal>
-)
-*/
 
 const styles = StyleSheet.create({
   stockGrade: {
