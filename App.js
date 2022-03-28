@@ -1,12 +1,14 @@
 import { StatusBar } from 'expo-status-bar';
 import { StyleSheet, Text, View } from 'react-native';
+import SignInStack from './navigation';
+// fixes 
+//  requireNativeComponent: "RNGestureHandlerRootView" was not found in the UI manager
+import 'react-native-gesture-handler';
+import HomeScreen from './app/screens/HomeScreen';
 
 export default function App() {
   return (
-    <View style={styles.container}>
-      <Text>Open up App.js to start working on your app!</Text>
-      <StatusBar style="auto" />
-    </View>
+      <SignInStack/>
   );
 }
 
