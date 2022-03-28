@@ -1,9 +1,18 @@
+// TODO: dynamically load rating tab (assets folder)
+/*
+    for now:
+A   :   https://i.imgur.com/NeiMN7O.png
+B   :   https://i.imgur.com/ik5OTWs.png
+C   :   https://i.imgur.com/ldeOscg.png
+D   :   https://i.imgur.com/9zZ7Wz4.png
+F   :   https://i.imgur.com/D2hR1cO.png
+*/
 export const STOCK = [
     {
-        ticker: '',
+        ticker: 'AAPL',
         name:'Apple Inc.',
         marketCap:'$2.98T',
-        rating:'B',
+        rating:'https://i.imgur.com/ik5OTWs.png',
         sector:'Electronic Technology',
         favorite:'No',
     },
@@ -11,8 +20,8 @@ export const STOCK = [
         ticker: 'MSFT',
         name:'Microsoft Corporation',
         marketCap:'$2.51T',
-        rating:'B',
-        sector:'',
+        rating:'https://i.imgur.com/ik5OTWs.png',
+        sector:'Technology Services',
         favorite:'No',
     },
     {
@@ -20,7 +29,7 @@ export const STOCK = [
         name:'Alphabet Inc.',
         marketCap:'$1.92T',
         sector:'Technology Services',
-        rating:'C',
+        rating:'https://i.imgur.com/ldeOscg.png',
         favorite:'Yes',
     },
     {
@@ -28,7 +37,7 @@ export const STOCK = [
         name:'Amazon.com, Inc.',
         marketCap:'$1.73T',
         sector:'Retail Trade',
-        rating:'B',
+        rating:'https://i.imgur.com/ik5OTWs.png',
         favorite:'No',
     },
     {
@@ -36,7 +45,7 @@ export const STOCK = [
         name:'Tesla, Inc.',
         marketCap:'$1.20T',
         sector:'Consumer Durables',
-        rating:'A',
+        rating:'https://i.imgur.com/NeiMN7O.png',
         favorite:'Yes',
     },
     {
@@ -44,7 +53,7 @@ export const STOCK = [
         name:'Meta Platforms, Inc.',
         marketCap:'$941B',
         sector:'Technology Services',
-        rating:'C',
+        rating:'https://i.imgur.com/ldeOscg.png',
         favorite:'No',
     },
     {
@@ -52,7 +61,7 @@ export const STOCK = [
         name:'NVIDIA Corporation',
         marketCap:'$753B',
         sector:'Electronic Technology',
-        rating:'A',
+        rating:'https://i.imgur.com/NeiMN7O.png',
         favorite:'Yes',
     },
     {
@@ -60,7 +69,7 @@ export const STOCK = [
         name:'Berkshire Hathaway Inc. New',
         marketCap:'$673B',
         sector:'Finance',
-        rating:'B',
+        rating:'https://i.imgur.com/ik5OTWs.png',
         favorite:'No',
     },
     {
@@ -68,7 +77,7 @@ export const STOCK = [
         name:'JP Morgan Chase & Co.',
         marketCap:'$477B',
         sector:'Finance',
-        rating:'D',
+        rating:'https://i.imgur.com/9zZ7Wz4.png',
         favorite:'No',
     },
     {
@@ -76,7 +85,7 @@ export const STOCK = [
         name:'UnitedHealth Group Incorporated',
         marketCap:'$473B',
         sector:'Health Services',
-        rating:'B',
+        rating:'https://i.imgur.com/ik5OTWs.png',
         favorite:'No',
     },
     {
@@ -84,7 +93,7 @@ export const STOCK = [
         name:'Visa Inc.',
         marketCap:'$466B',
         sector:'Finance',
-        rating:'A',
+        rating:'https://i.imgur.com/NeiMN7O.png',
         favorite:'Yes',
     },
 ]
