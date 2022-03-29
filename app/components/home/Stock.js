@@ -32,8 +32,13 @@ const StockInfoModal = ({stock}) => (
     onRequestClose={() => setVisible(false)}
   >
     <View style={styles.modalView}>
-      <Text>Modal Test</Text>
+    
+
       <Text>{stock.name}</Text>
+      <Image 
+            source={{uri: stock.rating}} 
+            style={styles.stockGrade} 
+            />
       <Button title="Click here to close" onPress={() => setVisible(false)} />
     </View>
 
@@ -46,6 +51,7 @@ const StockInfoModal = ({stock}) => (
       <StockData stock={stock}/>
       <StockInfoModal stock={stock} />
     </View>
+    
   )
 }
 
@@ -72,8 +78,8 @@ const styles = StyleSheet.create({
     marginRight:10,
   },
   modalView: {
-    width:300,
-    height: 240,
+    width:400,
+    height:400,
     backgroundColor: "#FFFFFF",
     justifyContent:'center',
     alignContent:'center',
