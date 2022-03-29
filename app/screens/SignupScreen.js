@@ -1,20 +1,17 @@
 import { Image, StyleSheet, View } from 'react-native'
 import React from 'react'
-import LoginForm from '../components/loginScreen/LoginForm'
+import SignupForm from '../components/signupScreen/SignupForm'
 
 const SB_LOGO = 'https://i.imgur.com/pYiVtix.png'
 
-const LoginScreen = ({navigation}) => (
+const SignupScreen = ({navigation}) => (
   <View style={styles.container}>
       <View style={styles.logoContainer}>
         <Image source={{uri: SB_LOGO, height: 100, width: 100 }}/>
       </View>
-      <LoginForm navigation={navigation}/>
+      <SignupForm navigation={navigation}/>
     </View>
 )
-
-
-export default LoginScreen
 
 const styles = StyleSheet.create({
   container: {
@@ -28,3 +25,5 @@ const styles = StyleSheet.create({
     marginTop: 60,
   },
 })
+
+export default SignupScreen
