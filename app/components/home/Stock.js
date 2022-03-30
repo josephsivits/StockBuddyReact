@@ -32,9 +32,9 @@ const StockInfoModal = ({stock}) => (
     onRequestClose={() => setVisible(false)}
   >
     <View style={styles.modalView}>
-    
 
-      <Text>{stock.name}</Text>
+
+      <Text syle={{justifyContent:'center', fontWeight:'bold'}}>{stock.name}</Text>
       <Image 
             source={{uri: stock.rating}} 
             style={styles.stockGrade} 
