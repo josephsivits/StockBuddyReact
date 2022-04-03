@@ -3,7 +3,9 @@ import React from 'react'
 import { Formik } from 'formik'
 import * as Yup from 'yup'
 import Validator from 'email-validator'
+import {auth} from '../../../firebase'
 import firebase from '../../../firebase'
+
 
 
 const SignupForm = ({ navigation }) => {
@@ -16,6 +18,23 @@ const SignupForm = ({ navigation }) => {
       .min(6, 'Passwords must be at least 8 characters long'),
   })
 
+  const onSignup = async(email, password, username) => {
+    try {
+      const authUser = await firebase 
+      auth
+        .createUserWithEmailAndPassword(email, password)
+      console.log('Created user in firebase successfully!', email, password)
+      navigation.navigate('HomeScreen')
+    }
+    catch(error) {
+      Alert.alert(
+        'Account creation error!',
+        error.message
+      )
+    }
+  }
+
+  /*
   const onSignup = async(email, password, username) => {
     try{
       const authUser = await firebase
@@ -36,6 +55,8 @@ const SignupForm = ({ navigation }) => {
       )
     }
   }
+
+  */
   return (
     <Formik
       initialValues={{ email: '', username: '', password: '' }}

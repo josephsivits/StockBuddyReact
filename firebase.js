@@ -1,13 +1,17 @@
-import * as firebase from "firebase";
+//import * as firebase from "firebase";
+//import * as firebase from 'react-native-firebase'
+import firebase from 'firebase/compat/app';
+import 'firebase/compat/auth';
+import 'firebase/compat/firestore';
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-    apiKey: "AIzaSyCD3YBeTDti7BTuZcU9bekhEZar9bCPARY",
-    authDomain: "rn-stockbuddy.firebaseapp.com",
-    projectId: "rn-stockbuddy",
-    storageBucket: "rn-stockbuddy.appspot.com",
-    messagingSenderId: "811427706431",
-    appId: "1:811427706431:web:32b518dbb53d9f0f642a8a"
+    apiKey: "*",
+    authDomain: "*",
+    projectId: "*",
+    storageBucket: "*",
+    messagingSenderId: "*",
+    appId: "*"
   };
 
 // Initialize Firebase
@@ -21,3 +25,4 @@ if (firebase.apps.length === 0) {
 const auth = firebase.auth()
 
 export { auth };
+// export default firebase
