@@ -41,7 +41,7 @@ const BottomTabs = ({icons}) => {
         var currentIcon = (activeTab === icon.name) ? icon.active : icon.inactive
         return (
             <TouchableOpacity onPress={() => setActiveTab(icon.name)}>
-                <Image source={currIcon} style={styles.icon} />
+                <Image source={currentIcon} style={styles.icon} />
             </TouchableOpacity>
         )
     }
@@ -66,11 +66,12 @@ const styles = StyleSheet.create({
         flexDirection: 'row',
         justifyContent: 'space-around',
         height: 50,
-        paddingTop: 10
+        paddingTop: 10,
+        marginBottom: 10,
     },
     icon: {
-        width: 25,
-        height: 25,
+        width: 35,
+        height: 35,
         resizeMode:'cover'
     }
 })
