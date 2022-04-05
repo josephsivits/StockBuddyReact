@@ -7,10 +7,13 @@ import { STOCK } from '../../data/stockdata'
 import Stock from '../components/home/Stock'
 import BottomTabs, {bottomTabIcons} from '../components/home/BottomTabs'
 
+import PreferenceButton from '../components/PreferenceButton'
+
 const HomeScreen = ({navigation}) => {
     return (
         <SafeAreaView style={[SafeAreaViewAndroid.AndroidSafeArea, styles.container]}>
             <Header/>
+            <PreferenceButton/>
             <ScrollView>
                 {
                     STOCK.map((stock, index) => (
@@ -18,7 +21,7 @@ const HomeScreen = ({navigation}) => {
                     ))
                 }
             </ScrollView>
-
+            <BottomTabs icons={bottomTabIcons} />
         </SafeAreaView>
     )
 }

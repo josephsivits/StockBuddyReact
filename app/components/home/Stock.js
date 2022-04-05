@@ -30,20 +30,41 @@ const StockInfoModal = ({stock}) => (
     animationType={'fade'}
     visible={visible}
     onRequestClose={() => setVisible(false)}
+    transparent={true}
   >
-    <View style={styles.modalView}>
-
-
-      <Text syle={{justifyContent:'center', fontWeight:'bold'}}>{stock.name}</Text>
+  <View style={styles.modalBackground}>
+    <View style={styles.modalContainer}>
+    <View
+      alignItems='center'
+    >
       <Image 
-            source={{uri: stock.rating}} 
-            style={styles.stockGrade} 
-            />
-      <Button title="Click here to close" onPress={() => setVisible(false)} />
+        source={{uri: stock.rating}} 
+        style={{height:105, width:105, resizeMode:'contain'}}
+        />
+      <Text>{stock.name}</Text>
+      <Text>{stock.ticker}</Text>
+      <Text>{stock.sector}</Text>
+      <Text>{stock.marketCap}{' Market Capitalization'}</Text>
     </View>
 
+      
+
+
+      {/*} adding button inside of a view fixes the styling issues{*/}
+      <View style={{margin:10}}>            
+      <Button 
+        title="CLOSE" 
+        color="#8F84F5" 
+        onPress={() => 
+          setVisible(false)} 
+        />
+      </View>
+    </View>
+</View>
   </Modal>
 )
+
+
   return (
     <View style={{flexDirection:'row', margin:10}}>
       <Divider width={1} orientation='horizontal' color='#232124'/>
@@ -57,11 +78,6 @@ const StockInfoModal = ({stock}) => (
 
 const StockData = ({stock}) => (
   <View>
-  {/*}
-    <Text style={{fontWeight:'bold', paddingLeft:'1em'}}>{stock.name}</Text>
-    <Text style={{color:'#170c14', fontWeight:'bold', paddingLeft:'1em'}}>${stock.ticker}{'   '}{stock.marketCap}</Text>
-    <Text style={{fontStyle:'italic', paddingLeft:'1em'}}>{stock.sector}</Text>
-    {*/}
     <Text style={[styles.stockInfo, {fontWeight:'bold'}]}>{stock.name}</Text>
     <Text style={[styles.stockInfo, {fontWeight:'bold'}]}>${stock.ticker}</Text>
     <Text style={[styles.stockInfo, {fontStyle:'italic'}]}>{stock.sector}</Text>
@@ -77,13 +93,26 @@ const styles = StyleSheet.create({
     marginLeft:10,
     marginRight:10,
   },
-  modalView: {
-    width:400,
-    height:400,
-    backgroundColor: "#FFFFFF",
-    justifyContent:'center',
-    alignContent:'center',
+  modalContainer: {
+    width:'80%',
+    backgroundColor: "red",
+    paddingHorizontal: 20,
+    paddingVertical: 20,
+    borderRadius: 10,
     borderRadius:10,
+  },
+  modalBackground: {
+    flex: 1,
+    alignItems: 'center',
+    flexDirection: 'column',
+    justifyContent: 'space-around',
+    backgroundColor: 'rgba(0,0,0,0.1)',
+  },
+  button:{
+    backgroundColor:'#8F84F5',
+    padding:10,
+    borderRadius:10,
+    margin:10,
   }
 })
 
