@@ -18,7 +18,8 @@ const Stock = ({stock}) => {
             source={{uri: stock.rating}} 
             style={{height:'100%', resizeMode:'cover'}} 
             />
-            {/*} <StockInfoModal stock={stock}/> {*/}
+            {/*} {*/}
+            <StockInfoModal stock={stock}/> 
         </View>
         
       </TouchableOpacity>
@@ -46,10 +47,6 @@ const StockInfoModal = ({stock}) => (
       <Text>{stock.sector}</Text>
       <Text>{stock.marketCap}{' Market Capitalization'}</Text>
     </View>
-
-      
-
-
       {/*} adding button inside of a view fixes the styling issues{*/}
       <View style={{margin:10}}>            
       <Button 
