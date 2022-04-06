@@ -1,0 +1,60 @@
+Symbol,Name,Exchange,Last,Industry,SIC Description,Time,1M %Chg
+IVT,Inventrust Pptys Corp,NYSE,31.29,REIT - Equity Trust Other,SIC-6798 Real Estate Investment Trusts,4/5/2022,11.59%
+HDSN,Hudson Tech Inc,NASDAQ,6.37,Industrial Services,"SIC-5080 Wholesale-Machinery, Equipment & Supplies",4/5/2022,48.14%
+VIST,Vista Oil & Gas S.A.B. DE C.V. ADR,NYSE,9.19,Oil - International Integrated,SIC-1311 Crude Petroleum & Natural Gas,4/5/2022,13.04%
+PDS,Precision Drilling Corp,NYSE,77.43,Oil & Gas - Drilling,SIC-1381 Drilling Oil & Gas Wells,4/5/2022,32.34%
+FLNG,Flex Lng Ltd,NYSE,29.4,Transportation - Ship,SIC-4400 Water Transportation,4/5/2022,46.63%
+RRC,Range Resources Corp,NYSE,31.1,Oil - US Exploration & Product,SIC-1311 Crude Petroleum & Natural Gas,4/5/2022,17.45%
+AR,Antero Resources Corp,NYSE,30.42,Oil - US Exploration & Product,SIC-1311 Crude Petroleum & Natural Gas,4/5/2022,19.67%
+ISEE,Iveric Bio Inc,NASDAQ,18.29,Medical - Biomedical,SIC-2834 Pharmaceutical Preparations,4/5/2022,20.81%
+SGLY,Singularity Future Technology Ltd,NASDAQ,17,Technology Services,SIC-4731 Arrangement of Transportation of Freight & C,4/5/2022,201.42%
+NRP,Natural Resource Partners LP,NYSE,42.59,Coal,SIC-1221 Bituminous Coal & Lignite Mining,4/5/2022,11.40%
+KOS,Kosmos Energy Ltd,NYSE,7.56,International E&P,SIC-1311 Crude Petroleum & Natural Gas,4/5/2022,34.28%
+CUTR,Cutera Inc,NASDAQ,71.74,Lasers - Systems & Components,SIC-3845 Electromedical & Electrotherapeutic Apparatu,4/5/2022,77.18%
+NRGV,Energy Vault Hldgs Inc,NYSE,21.64,Other Alt Energy,"SIC-3690 Miscellaneous Electrical Machinery, Equipmen",4/5/2022,66.46%
+LFG,Archaea Energy Inc,NYSE,22.41,Other Alt Energy,N/A,4/5/2022,24.99%
+AMPH,Amphastar Pharma,NASDAQ,36.82,Medical - Generic Drugs,SIC-2834 Pharmaceutical Preparations,4/5/2022,28.61%
+LAND,Gladstone Land Corp,NASDAQ,37.43,REIT - Equity Trust Other,SIC-6798 Real Estate Investment Trusts,4/5/2022,16.64%
+EQT,Eqt Corp,NYSE,36.23,Oil - US Exploration & Product,SIC-1311 Crude Petroleum & Natural Gas,4/5/2022,37.44%
+SST,System1 Inc,NYSE,20.31,Advertising Marketing Services,"SIC-7370 Services-Computer Programming, Data Processi",4/5/2022,42.43%
+GOGO,Gogo Inc,NASDAQ,19.19,Wireless National,"SIC-4899 Communications Services, NEC",4/5/2022,17.08%
+VWTR,Vidler Water Resources Inc,NASDAQ,16.35,Utility - Water Supply,SIC-6500 Real Estate,4/5/2022,25.38%
+TRQ,Turquoise Hill Resources Ltd,NYSE,30.2,Mining - Misc,SIC-1000 Metal Mining,4/5/2022,45.40%
+PBF,PBF Energy Inc,NYSE,25.46,Oil - Refining and Marketing,SIC-2911 Petroleum Refining,4/5/2022,25.98%
+CLF,Cleveland-Cliffs Inc,NYSE,32.54,Mining - Misc,SIC-1000 Metal Mining,4/5/2022,25.39%
+MMI,Marcus & Millichap,NYSE,56.83,Real Estate Developers,SIC-6531 Real Estate Agents & Managers (For Others),4/5/2022,17.20%
+SWN,Southwestern Energy Company,NYSE,7.54,Oil - US Exploration & Product,SIC-1311 Crude Petroleum & Natural Gas,4/5/2022,40.15%
+EXLS,Exlservice Holdings,NASDAQ,149.19,Outsourcing,"SIC-7389 Services-Business Services, NEC",4/5/2022,21.04%
+INVA,Innoviva Inc,NASDAQ,19.61,Large Cap Pharma,SIC-2834 Pharmaceutical Preparations,4/5/2022,13.68%
+BSM,Black Stone Minerals LP,NYSE,14.13,E&P MLP,SIC-1311 Crude Petroleum & Natural Gas,4/5/2022,13.95%
+LLY,Eli Lilly and Company,NYSE,292.49,Large Cap Pharma,SIC-2834 Pharmaceutical Preparations,4/5/2022,11.27%
+AMX,America Movil S.A.B. DE C.V. ADR,NYSE,21.39,Wireless Non-US,SIC-4813 Telephone Communications (No Radiotelephone),4/5/2022,15.81%
+EC,Ecopetrol S.A. ADR,NYSE,19.31,Emerging Markets Integrated,SIC-1311 Crude Petroleum & Natural Gas,4/5/2022,10.22%
+SLCA,U.S. Silica Holdings Inc,NYSE,18.47,Mining - Misc,SIC-1400 Mining & Quarrying of Nonmetallic Minerals (,4/5/2022,30.71%
+MGPI,MGP Ingredients Inc,NASDAQ,93.11,Food - Misc & Diversified,"SIC-5180 Wholesale-Beer, Wine & Distilled Alcoholic B",4/5/2022,15.91%
+CIG,Comp En DE MN Cemig ADR,NYSE,3.24,Utility - Electric Power,SIC-4911 Electric Services,4/5/2022,23.66%
+CALM,Cal-Maine Foods IN,NASDAQ,57.37,Agriculture Products,SIC-0200 Agricultural Production - Livestock,4/5/2022,27.26%
+SBS,Cia DE Saneamento Basico Do Estado ADR,NYSE,10.96,Utility - Water Supply,SIC-4941 Water Supply,4/5/2022,31.26%
+VIV,Telecomunicacoes DE Sao Paulo ADR,NYSE,11.69,Diversified Comm Services,SIC-4813 Telephone Communications (No Radiotelephone),4/5/2022,21.64%
+TGS,Transportadora DE Gas Sa Ord B ADR,NYSE,7.04,Oil - Production & Pipeline,SIC-4922 Natural Gas Transmission,4/5/2022,10.34%
+REGN,Regeneron Pharmaceuticals,NASDAQ,691.47,Medical - Biomedical,SIC-2834 Pharmaceutical Preparations,4/5/2022,11.45%
+MUSA,Murphy USA Inc,NYSE,204.97,Oil - Refining and Marketing,SIC-5500 Retail-Auto Dealers & Gasoline Stations,4/5/2022,13.21%
+PAYX,Paychex Inc,NASDAQ,139.25,Outsourcing,"SIC-8700 Services-Engineering, Accounting, Research,",4/5/2022,12.68%
+VLO,Valero Energy Corp,NYSE,101.46,Oil - Refining and Marketing,SIC-2911 Petroleum Refining,4/5/2022,18.00%
+AZN,Astrazeneca Plc ADR,NASDAQ,67.05,Large Cap Pharma,SIC-2834 Pharmaceutical Preparations,4/5/2022,16.67%
+CVI,Cvr Energy Inc,NYSE,26.33,Oil - Refining and Marketing,SIC-2911 Petroleum Refining,4/5/2022,45.07%
+LLNW,Limelight Networks,NASDAQ,5.07,Internet - Services,"SIC-7389 Services-Business Services, NEC",4/5/2022,34.84%
+HLXA,Helix Acquisition Corp Cl A,NASDAQ,13.25,Unclassified,N/A,4/5/2022,33.17%
+THCA,Tuscan Holdings Corp II,NASDAQ,12.71,Unclassified,SIC-6770 Blank Checks,4/5/2022,24.36%
+VRTX,Vertex Pharmaceutic,NASDAQ,269.96,Medical - Biomedical,SIC-2834 Pharmaceutical Preparations,4/5/2022,13.11%
+BIP,Brookfield Infrastructure Partners LP,NYSE,67.92,Utility - Electric Power,SIC-4400 Water Transportation,4/5/2022,13.81%
+OMAB,Grupo Aeroportuario ADR,NASDAQ,62.49,Transportation - Services,"SIC-4581 Airports, Flying Fields & Airport Terminal S",4/5/2022,12.33%
+ASRT,Assertio Therapeutics Inc,NASDAQ,3.15,Medical - Drugs,SIC-2834 Pharmaceutical Preparations,4/5/2022,43.84%
+MIRM,Mirum Pharmaceuticals Inc,NASDAQ,24.24,Medical - Biomedical,SIC-2834 Pharmaceutical Preparations,4/5/2022,13.86%
+SO,Southern Company,NYSE,74.35,Utility - Electric Power,SIC-4911 Electric Services,4/5/2022,10.02%
+PRPH,Prophase Labs Inc,NASDAQ,7.4,Medical - Drugs,SIC-2834 Pharmaceutical Preparations,4/5/2022,12.98%
+IRTC,Irhythm Technologies Inc,NASDAQ,160.26,Medical Information Systems,SIC-3841 Surgical & Medical Instruments & Apparatus,4/5/2022,18.76%
+TEO,Telecom Argentina Stet France Telecom ADR,NYSE,6.19,Wireline Non-US,SIC-4813 Telephone Communications (No Radiotelephone),4/5/2022,26.07%
+CHNG,Change Healthcare Inc,NASDAQ,23.73,Medical Information Systems,SIC-7374 Services-Computer Processing & Data Preparat,4/5/2022,10.89%
+BBAI,Bigbear.Ai Holdings Inc,NYSE,10.34,IT Services,SIC-7372 Services-Prepackaged Software,4/5/2022,33.42%
+ORA,Ormat Technologies,NYSE,81.79,Other Alt Energy,SIC-4911 Electric Services,4/5/2022,14.58%

@@ -1,0 +1,189 @@
+[
+    {
+      "Symbol": "AGI",
+      "Name": "Alamos Gold Inc",
+      "Exchange": "NYSE",
+      "Last": 8.5,
+      "Industry": "Mining - Gold",
+      "SIC Description": "SIC-1040 Gold and Silver Ores",
+      "Time": "4/5/2022",
+      "New 50-200D MACD": "Buy",
+      "20D Avg Vol": 3709775
+    },
+    {
+      "Symbol": "AVID",
+      "Name": "Avid Tech Inc",
+      "Exchange": "NASDAQ",
+      "Last": 35.31,
+      "Industry": "Computer - Software",
+      "SIC Description": "SIC-7372 Services-Prepackaged Software",
+      "Time": "4/5/2022",
+      "New 50-200D MACD": "Buy",
+      "20D Avg Vol": 360560
+    },
+    {
+      "Symbol": "COLI",
+      "Name": "Colicity Inc Cl A",
+      "Exchange": "NASDAQ",
+      "Last": 9.77,
+      "Industry": "Unclassified",
+      "SIC Description": "SIC-6770 Blank Checks",
+      "Time": "4/5/2022",
+      "New 50-200D MACD": "Buy",
+      "20D Avg Vol": 39620
+    },
+    {
+      "Symbol": "CTS",
+      "Name": "Cts Corp",
+      "Exchange": "NYSE",
+      "Last": 35.12,
+      "Industry": "Electronics - Misc Components",
+      "SIC Description": "SIC-3672 Printed Circuit Boards",
+      "Time": "4/5/2022",
+      "New 50-200D MACD": "Buy",
+      "20D Avg Vol": 83875
+    },
+    {
+      "Symbol": "DAR",
+      "Name": "Darling International Inc",
+      "Exchange": "NYSE",
+      "Last": 80.08,
+      "Industry": "Food - Misc & Diversified",
+      "SIC Description": "SIC-2070 Fats & Oils",
+      "Time": "4/5/2022",
+      "New 50-200D MACD": "Buy",
+      "20D Avg Vol": 1496130
+    },
+    {
+      "Symbol": "FTI",
+      "Name": "Technipfmc Plc",
+      "Exchange": "NYSE",
+      "Last": 7.57,
+      "Industry": "Oil - Field Services",
+      "SIC Description": "SIC-3533 Oil & Gas Field Machinery & Equipment",
+      "Time": "4/5/2022",
+      "New 50-200D MACD": "Buy",
+      "20D Avg Vol": 10024650
+    },
+    {
+      "Symbol": "HLXA",
+      "Name": "Helix Acquisition Corp Cl A",
+      "Exchange": "NASDAQ",
+      "Last": 13.25,
+      "Industry": "Unclassified",
+      "SIC Description": "N/A",
+      "Time": "4/5/2022",
+      "New 50-200D MACD": "Buy",
+      "20D Avg Vol": 141395
+    },
+    {
+      "Symbol": "NFE",
+      "Name": "New Fortress Energy Llc",
+      "Exchange": "NASDAQ",
+      "Last": 45.11,
+      "Industry": "Oil - International Integrated",
+      "SIC Description": "SIC-4924 Natural Gas Distribution",
+      "Time": "4/5/2022",
+      "New 50-200D MACD": "Buy",
+      "20D Avg Vol": 1685555
+    },
+    {
+      "Symbol": "NVOS",
+      "Name": "Novo Integrated Sciences Inc",
+      "Exchange": "NASDAQ",
+      "Last": 2.13,
+      "Industry": "Medical - Outpatient & Hm Care",
+      "SIC Description": "SIC-3510 Engines & Turbines",
+      "Time": "4/5/2022",
+      "New 50-200D MACD": "Buy",
+      "20D Avg Vol": 133525
+    },
+    {
+      "Symbol": "PERI",
+      "Name": "Perion Network Ltd",
+      "Exchange": "NASDAQ",
+      "Last": 25.88,
+      "Industry": "Internet - Content",
+      "SIC Description": "SIC-7371 Services-Computer Programming Services",
+      "Time": "4/5/2022",
+      "New 50-200D MACD": "Buy",
+      "20D Avg Vol": 411380
+    },
+    {
+      "Symbol": "PRVB",
+      "Name": "Provention Bio Inc",
+      "Exchange": "NASDAQ",
+      "Last": 7.13,
+      "Industry": "Medical - Biomedical",
+      "SIC Description": "SIC-2834 Pharmaceutical Preparations",
+      "Time": "4/5/2022",
+      "New 50-200D MACD": "Buy",
+      "20D Avg Vol": 588705
+    },
+    {
+      "Symbol": "RMGC",
+      "Name": "Rmg Acquisition Corp III Cl A",
+      "Exchange": "NASDAQ",
+      "Last": 9.79,
+      "Industry": "Unclassified",
+      "SIC Description": "SIC-6770 Blank Checks",
+      "Time": "4/5/2022",
+      "New 50-200D MACD": "Buy",
+      "20D Avg Vol": 91915
+    },
+    {
+      "Symbol": "SAIC",
+      "Name": "Science Applications International",
+      "Exchange": "NYSE",
+      "Last": 90.01,
+      "Industry": "IT Services",
+      "SIC Description": "SIC-7373 Services-Computer Integrated Systems Design",
+      "Time": "4/5/2022",
+      "New 50-200D MACD": "Buy",
+      "20D Avg Vol": 546170
+    },
+    {
+      "Symbol": "TNK",
+      "Name": "Teekay Tankers Ltd",
+      "Exchange": "NYSE",
+      "Last": 14.27,
+      "Industry": "Transportation - Ship",
+      "SIC Description": "SIC-4400 Water Transportation",
+      "Time": "4/5/2022",
+      "New 50-200D MACD": "Buy",
+      "20D Avg Vol": 285875
+    },
+    {
+      "Symbol": "VWTR",
+      "Name": "Vidler Water Resources Inc",
+      "Exchange": "NASDAQ",
+      "Last": 16.35,
+      "Industry": "Utility - Water Supply",
+      "SIC Description": "SIC-6500 Real Estate",
+      "Time": "4/5/2022",
+      "New 50-200D MACD": "Buy",
+      "20D Avg Vol": 83970
+    },
+    {
+      "Symbol": "YPF",
+      "Name": "Ypf Sociedad Anonima ADR",
+      "Exchange": "NYSE",
+      "Last": 5.19,
+      "Industry": "Oil - International Integrated",
+      "SIC Description": "SIC-2911 Petroleum Refining",
+      "Time": "4/5/2022",
+      "New 50-200D MACD": "Buy",
+      "20D Avg Vol": 2411800
+    },
+    {
+      "Symbol": "ZIVO",
+      "Name": "Zivo Bioscience",
+      "Exchange": "NASDAQ",
+      "Last": 4,
+      "Industry": "Medical - Biomedical",
+      "SIC Description": "SIC-2000 Food and Kindred Products",
+      "Time": "4/5/2022",
+      "New 50-200D MACD": "Buy",
+      "20D Avg Vol": 17355
+    }
+  ]

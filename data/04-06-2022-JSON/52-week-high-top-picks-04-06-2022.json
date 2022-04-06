@@ -1,0 +1,592 @@
+[
+    {
+      "Symbol": "IVT",
+      "Name": "Inventrust Pptys Corp",
+      "Exchange": "NYSE",
+      "Last": 31.29,
+      "Industry": "REIT - Equity Trust Other",
+      "SIC Description": "SIC-6798 Real Estate Investment Trusts",
+      "Time": "4/5/2022",
+      "1M %Chg": "11.59%"
+    },
+    {
+      "Symbol": "HDSN",
+      "Name": "Hudson Tech Inc",
+      "Exchange": "NASDAQ",
+      "Last": 6.37,
+      "Industry": "Industrial Services",
+      "SIC Description": "SIC-5080 Wholesale-Machinery, Equipment & Supplies",
+      "Time": "4/5/2022",
+      "1M %Chg": "48.14%"
+    },
+    {
+      "Symbol": "VIST",
+      "Name": "Vista Oil & Gas S.A.B. DE C.V. ADR",
+      "Exchange": "NYSE",
+      "Last": 9.19,
+      "Industry": "Oil - International Integrated",
+      "SIC Description": "SIC-1311 Crude Petroleum & Natural Gas",
+      "Time": "4/5/2022",
+      "1M %Chg": "13.04%"
+    },
+    {
+      "Symbol": "PDS",
+      "Name": "Precision Drilling Corp",
+      "Exchange": "NYSE",
+      "Last": 77.43,
+      "Industry": "Oil & Gas - Drilling",
+      "SIC Description": "SIC-1381 Drilling Oil & Gas Wells",
+      "Time": "4/5/2022",
+      "1M %Chg": "32.34%"
+    },
+    {
+      "Symbol": "FLNG",
+      "Name": "Flex Lng Ltd",
+      "Exchange": "NYSE",
+      "Last": 29.4,
+      "Industry": "Transportation - Ship",
+      "SIC Description": "SIC-4400 Water Transportation",
+      "Time": "4/5/2022",
+      "1M %Chg": "46.63%"
+    },
+    {
+      "Symbol": "RRC",
+      "Name": "Range Resources Corp",
+      "Exchange": "NYSE",
+      "Last": 31.1,
+      "Industry": "Oil - US Exploration & Product",
+      "SIC Description": "SIC-1311 Crude Petroleum & Natural Gas",
+      "Time": "4/5/2022",
+      "1M %Chg": "17.45%"
+    },
+    {
+      "Symbol": "AR",
+      "Name": "Antero Resources Corp",
+      "Exchange": "NYSE",
+      "Last": 30.42,
+      "Industry": "Oil - US Exploration & Product",
+      "SIC Description": "SIC-1311 Crude Petroleum & Natural Gas",
+      "Time": "4/5/2022",
+      "1M %Chg": "19.67%"
+    },
+    {
+      "Symbol": "ISEE",
+      "Name": "Iveric Bio Inc",
+      "Exchange": "NASDAQ",
+      "Last": 18.29,
+      "Industry": "Medical - Biomedical",
+      "SIC Description": "SIC-2834 Pharmaceutical Preparations",
+      "Time": "4/5/2022",
+      "1M %Chg": "20.81%"
+    },
+    {
+      "Symbol": "SGLY",
+      "Name": "Singularity Future Technology Ltd",
+      "Exchange": "NASDAQ",
+      "Last": 17,
+      "Industry": "Technology Services",
+      "SIC Description": "SIC-4731 Arrangement of Transportation of Freight & C",
+      "Time": "4/5/2022",
+      "1M %Chg": "201.42%"
+    },
+    {
+      "Symbol": "NRP",
+      "Name": "Natural Resource Partners LP",
+      "Exchange": "NYSE",
+      "Last": 42.59,
+      "Industry": "Coal",
+      "SIC Description": "SIC-1221 Bituminous Coal & Lignite Mining",
+      "Time": "4/5/2022",
+      "1M %Chg": "11.40%"
+    },
+    {
+      "Symbol": "KOS",
+      "Name": "Kosmos Energy Ltd",
+      "Exchange": "NYSE",
+      "Last": 7.56,
+      "Industry": "International E&P",
+      "SIC Description": "SIC-1311 Crude Petroleum & Natural Gas",
+      "Time": "4/5/2022",
+      "1M %Chg": "34.28%"
+    },
+    {
+      "Symbol": "CUTR",
+      "Name": "Cutera Inc",
+      "Exchange": "NASDAQ",
+      "Last": 71.74,
+      "Industry": "Lasers - Systems & Components",
+      "SIC Description": "SIC-3845 Electromedical & Electrotherapeutic Apparatu",
+      "Time": "4/5/2022",
+      "1M %Chg": "77.18%"
+    },
+    {
+      "Symbol": "NRGV",
+      "Name": "Energy Vault Hldgs Inc",
+      "Exchange": "NYSE",
+      "Last": 21.64,
+      "Industry": "Other Alt Energy",
+      "SIC Description": "SIC-3690 Miscellaneous Electrical Machinery, Equipmen",
+      "Time": "4/5/2022",
+      "1M %Chg": "66.46%"
+    },
+    {
+      "Symbol": "LFG",
+      "Name": "Archaea Energy Inc",
+      "Exchange": "NYSE",
+      "Last": 22.41,
+      "Industry": "Other Alt Energy",
+      "SIC Description": "N/A",
+      "Time": "4/5/2022",
+      "1M %Chg": "24.99%"
+    },
+    {
+      "Symbol": "AMPH",
+      "Name": "Amphastar Pharma",
+      "Exchange": "NASDAQ",
+      "Last": 36.82,
+      "Industry": "Medical - Generic Drugs",
+      "SIC Description": "SIC-2834 Pharmaceutical Preparations",
+      "Time": "4/5/2022",
+      "1M %Chg": "28.61%"
+    },
+    {
+      "Symbol": "LAND",
+      "Name": "Gladstone Land Corp",
+      "Exchange": "NASDAQ",
+      "Last": 37.43,
+      "Industry": "REIT - Equity Trust Other",
+      "SIC Description": "SIC-6798 Real Estate Investment Trusts",
+      "Time": "4/5/2022",
+      "1M %Chg": "16.64%"
+    },
+    {
+      "Symbol": "EQT",
+      "Name": "Eqt Corp",
+      "Exchange": "NYSE",
+      "Last": 36.23,
+      "Industry": "Oil - US Exploration & Product",
+      "SIC Description": "SIC-1311 Crude Petroleum & Natural Gas",
+      "Time": "4/5/2022",
+      "1M %Chg": "37.44%"
+    },
+    {
+      "Symbol": "SST",
+      "Name": "System1 Inc",
+      "Exchange": "NYSE",
+      "Last": 20.31,
+      "Industry": "Advertising Marketing Services",
+      "SIC Description": "SIC-7370 Services-Computer Programming, Data Processi",
+      "Time": "4/5/2022",
+      "1M %Chg": "42.43%"
+    },
+    {
+      "Symbol": "GOGO",
+      "Name": "Gogo Inc",
+      "Exchange": "NASDAQ",
+      "Last": 19.19,
+      "Industry": "Wireless National",
+      "SIC Description": "SIC-4899 Communications Services, NEC",
+      "Time": "4/5/2022",
+      "1M %Chg": "17.08%"
+    },
+    {
+      "Symbol": "VWTR",
+      "Name": "Vidler Water Resources Inc",
+      "Exchange": "NASDAQ",
+      "Last": 16.35,
+      "Industry": "Utility - Water Supply",
+      "SIC Description": "SIC-6500 Real Estate",
+      "Time": "4/5/2022",
+      "1M %Chg": "25.38%"
+    },
+    {
+      "Symbol": "TRQ",
+      "Name": "Turquoise Hill Resources Ltd",
+      "Exchange": "NYSE",
+      "Last": 30.2,
+      "Industry": "Mining - Misc",
+      "SIC Description": "SIC-1000 Metal Mining",
+      "Time": "4/5/2022",
+      "1M %Chg": "45.40%"
+    },
+    {
+      "Symbol": "PBF",
+      "Name": "PBF Energy Inc",
+      "Exchange": "NYSE",
+      "Last": 25.46,
+      "Industry": "Oil - Refining and Marketing",
+      "SIC Description": "SIC-2911 Petroleum Refining",
+      "Time": "4/5/2022",
+      "1M %Chg": "25.98%"
+    },
+    {
+      "Symbol": "CLF",
+      "Name": "Cleveland-Cliffs Inc",
+      "Exchange": "NYSE",
+      "Last": 32.54,
+      "Industry": "Mining - Misc",
+      "SIC Description": "SIC-1000 Metal Mining",
+      "Time": "4/5/2022",
+      "1M %Chg": "25.39%"
+    },
+    {
+      "Symbol": "MMI",
+      "Name": "Marcus & Millichap",
+      "Exchange": "NYSE",
+      "Last": 56.83,
+      "Industry": "Real Estate Developers",
+      "SIC Description": "SIC-6531 Real Estate Agents & Managers (For Others)",
+      "Time": "4/5/2022",
+      "1M %Chg": "17.20%"
+    },
+    {
+      "Symbol": "SWN",
+      "Name": "Southwestern Energy Company",
+      "Exchange": "NYSE",
+      "Last": 7.54,
+      "Industry": "Oil - US Exploration & Product",
+      "SIC Description": "SIC-1311 Crude Petroleum & Natural Gas",
+      "Time": "4/5/2022",
+      "1M %Chg": "40.15%"
+    },
+    {
+      "Symbol": "EXLS",
+      "Name": "Exlservice Holdings",
+      "Exchange": "NASDAQ",
+      "Last": 149.19,
+      "Industry": "Outsourcing",
+      "SIC Description": "SIC-7389 Services-Business Services, NEC",
+      "Time": "4/5/2022",
+      "1M %Chg": "21.04%"
+    },
+    {
+      "Symbol": "INVA",
+      "Name": "Innoviva Inc",
+      "Exchange": "NASDAQ",
+      "Last": 19.61,
+      "Industry": "Large Cap Pharma",
+      "SIC Description": "SIC-2834 Pharmaceutical Preparations",
+      "Time": "4/5/2022",
+      "1M %Chg": "13.68%"
+    },
+    {
+      "Symbol": "BSM",
+      "Name": "Black Stone Minerals LP",
+      "Exchange": "NYSE",
+      "Last": 14.13,
+      "Industry": "E&P MLP",
+      "SIC Description": "SIC-1311 Crude Petroleum & Natural Gas",
+      "Time": "4/5/2022",
+      "1M %Chg": "13.95%"
+    },
+    {
+      "Symbol": "LLY",
+      "Name": "Eli Lilly and Company",
+      "Exchange": "NYSE",
+      "Last": 292.49,
+      "Industry": "Large Cap Pharma",
+      "SIC Description": "SIC-2834 Pharmaceutical Preparations",
+      "Time": "4/5/2022",
+      "1M %Chg": "11.27%"
+    },
+    {
+      "Symbol": "AMX",
+      "Name": "America Movil S.A.B. DE C.V. ADR",
+      "Exchange": "NYSE",
+      "Last": 21.39,
+      "Industry": "Wireless Non-US",
+      "SIC Description": "SIC-4813 Telephone Communications (No Radiotelephone)",
+      "Time": "4/5/2022",
+      "1M %Chg": "15.81%"
+    },
+    {
+      "Symbol": "EC",
+      "Name": "Ecopetrol S.A. ADR",
+      "Exchange": "NYSE",
+      "Last": 19.31,
+      "Industry": "Emerging Markets Integrated",
+      "SIC Description": "SIC-1311 Crude Petroleum & Natural Gas",
+      "Time": "4/5/2022",
+      "1M %Chg": "10.22%"
+    },
+    {
+      "Symbol": "SLCA",
+      "Name": "U.S. Silica Holdings Inc",
+      "Exchange": "NYSE",
+      "Last": 18.47,
+      "Industry": "Mining - Misc",
+      "SIC Description": "SIC-1400 Mining & Quarrying of Nonmetallic Minerals (",
+      "Time": "4/5/2022",
+      "1M %Chg": "30.71%"
+    },
+    {
+      "Symbol": "MGPI",
+      "Name": "MGP Ingredients Inc",
+      "Exchange": "NASDAQ",
+      "Last": 93.11,
+      "Industry": "Food - Misc & Diversified",
+      "SIC Description": "SIC-5180 Wholesale-Beer, Wine & Distilled Alcoholic B",
+      "Time": "4/5/2022",
+      "1M %Chg": "15.91%"
+    },
+    {
+      "Symbol": "CIG",
+      "Name": "Comp En DE MN Cemig ADR",
+      "Exchange": "NYSE",
+      "Last": 3.24,
+      "Industry": "Utility - Electric Power",
+      "SIC Description": "SIC-4911 Electric Services",
+      "Time": "4/5/2022",
+      "1M %Chg": "23.66%"
+    },
+    {
+      "Symbol": "CALM",
+      "Name": "Cal-Maine Foods IN",
+      "Exchange": "NASDAQ",
+      "Last": 57.37,
+      "Industry": "Agriculture Products",
+      "SIC Description": "SIC-0200 Agricultural Production - Livestock",
+      "Time": "4/5/2022",
+      "1M %Chg": "27.26%"
+    },
+    {
+      "Symbol": "SBS",
+      "Name": "Cia DE Saneamento Basico Do Estado ADR",
+      "Exchange": "NYSE",
+      "Last": 10.96,
+      "Industry": "Utility - Water Supply",
+      "SIC Description": "SIC-4941 Water Supply",
+      "Time": "4/5/2022",
+      "1M %Chg": "31.26%"
+    },
+    {
+      "Symbol": "VIV",
+      "Name": "Telecomunicacoes DE Sao Paulo ADR",
+      "Exchange": "NYSE",
+      "Last": 11.69,
+      "Industry": "Diversified Comm Services",
+      "SIC Description": "SIC-4813 Telephone Communications (No Radiotelephone)",
+      "Time": "4/5/2022",
+      "1M %Chg": "21.64%"
+    },
+    {
+      "Symbol": "TGS",
+      "Name": "Transportadora DE Gas Sa Ord B ADR",
+      "Exchange": "NYSE",
+      "Last": 7.04,
+      "Industry": "Oil - Production & Pipeline",
+      "SIC Description": "SIC-4922 Natural Gas Transmission",
+      "Time": "4/5/2022",
+      "1M %Chg": "10.34%"
+    },
+    {
+      "Symbol": "REGN",
+      "Name": "Regeneron Pharmaceuticals",
+      "Exchange": "NASDAQ",
+      "Last": 691.47,
+      "Industry": "Medical - Biomedical",
+      "SIC Description": "SIC-2834 Pharmaceutical Preparations",
+      "Time": "4/5/2022",
+      "1M %Chg": "11.45%"
+    },
+    {
+      "Symbol": "MUSA",
+      "Name": "Murphy USA Inc",
+      "Exchange": "NYSE",
+      "Last": 204.97,
+      "Industry": "Oil - Refining and Marketing",
+      "SIC Description": "SIC-5500 Retail-Auto Dealers & Gasoline Stations",
+      "Time": "4/5/2022",
+      "1M %Chg": "13.21%"
+    },
+    {
+      "Symbol": "PAYX",
+      "Name": "Paychex Inc",
+      "Exchange": "NASDAQ",
+      "Last": 139.25,
+      "Industry": "Outsourcing",
+      "SIC Description": "SIC-8700 Services-Engineering, Accounting, Research,",
+      "Time": "4/5/2022",
+      "1M %Chg": "12.68%"
+    },
+    {
+      "Symbol": "VLO",
+      "Name": "Valero Energy Corp",
+      "Exchange": "NYSE",
+      "Last": 101.46,
+      "Industry": "Oil - Refining and Marketing",
+      "SIC Description": "SIC-2911 Petroleum Refining",
+      "Time": "4/5/2022",
+      "1M %Chg": "18.00%"
+    },
+    {
+      "Symbol": "AZN",
+      "Name": "Astrazeneca Plc ADR",
+      "Exchange": "NASDAQ",
+      "Last": 67.05,
+      "Industry": "Large Cap Pharma",
+      "SIC Description": "SIC-2834 Pharmaceutical Preparations",
+      "Time": "4/5/2022",
+      "1M %Chg": "16.67%"
+    },
+    {
+      "Symbol": "CVI",
+      "Name": "Cvr Energy Inc",
+      "Exchange": "NYSE",
+      "Last": 26.33,
+      "Industry": "Oil - Refining and Marketing",
+      "SIC Description": "SIC-2911 Petroleum Refining",
+      "Time": "4/5/2022",
+      "1M %Chg": "45.07%"
+    },
+    {
+      "Symbol": "LLNW",
+      "Name": "Limelight Networks",
+      "Exchange": "NASDAQ",
+      "Last": 5.07,
+      "Industry": "Internet - Services",
+      "SIC Description": "SIC-7389 Services-Business Services, NEC",
+      "Time": "4/5/2022",
+      "1M %Chg": "34.84%"
+    },
+    {
+      "Symbol": "HLXA",
+      "Name": "Helix Acquisition Corp Cl A",
+      "Exchange": "NASDAQ",
+      "Last": 13.25,
+      "Industry": "Unclassified",
+      "SIC Description": "N/A",
+      "Time": "4/5/2022",
+      "1M %Chg": "33.17%"
+    },
+    {
+      "Symbol": "THCA",
+      "Name": "Tuscan Holdings Corp II",
+      "Exchange": "NASDAQ",
+      "Last": 12.71,
+      "Industry": "Unclassified",
+      "SIC Description": "SIC-6770 Blank Checks",
+      "Time": "4/5/2022",
+      "1M %Chg": "24.36%"
+    },
+    {
+      "Symbol": "VRTX",
+      "Name": "Vertex Pharmaceutic",
+      "Exchange": "NASDAQ",
+      "Last": 269.96,
+      "Industry": "Medical - Biomedical",
+      "SIC Description": "SIC-2834 Pharmaceutical Preparations",
+      "Time": "4/5/2022",
+      "1M %Chg": "13.11%"
+    },
+    {
+      "Symbol": "BIP",
+      "Name": "Brookfield Infrastructure Partners LP",
+      "Exchange": "NYSE",
+      "Last": 67.92,
+      "Industry": "Utility - Electric Power",
+      "SIC Description": "SIC-4400 Water Transportation",
+      "Time": "4/5/2022",
+      "1M %Chg": "13.81%"
+    },
+    {
+      "Symbol": "OMAB",
+      "Name": "Grupo Aeroportuario ADR",
+      "Exchange": "NASDAQ",
+      "Last": 62.49,
+      "Industry": "Transportation - Services",
+      "SIC Description": "SIC-4581 Airports, Flying Fields & Airport Terminal S",
+      "Time": "4/5/2022",
+      "1M %Chg": "12.33%"
+    },
+    {
+      "Symbol": "ASRT",
+      "Name": "Assertio Therapeutics Inc",
+      "Exchange": "NASDAQ",
+      "Last": 3.15,
+      "Industry": "Medical - Drugs",
+      "SIC Description": "SIC-2834 Pharmaceutical Preparations",
+      "Time": "4/5/2022",
+      "1M %Chg": "43.84%"
+    },
+    {
+      "Symbol": "MIRM",
+      "Name": "Mirum Pharmaceuticals Inc",
+      "Exchange": "NASDAQ",
+      "Last": 24.24,
+      "Industry": "Medical - Biomedical",
+      "SIC Description": "SIC-2834 Pharmaceutical Preparations",
+      "Time": "4/5/2022",
+      "1M %Chg": "13.86%"
+    },
+    {
+      "Symbol": "SO",
+      "Name": "Southern Company",
+      "Exchange": "NYSE",
+      "Last": 74.35,
+      "Industry": "Utility - Electric Power",
+      "SIC Description": "SIC-4911 Electric Services",
+      "Time": "4/5/2022",
+      "1M %Chg": "10.02%"
+    },
+    {
+      "Symbol": "PRPH",
+      "Name": "Prophase Labs Inc",
+      "Exchange": "NASDAQ",
+      "Last": 7.4,
+      "Industry": "Medical - Drugs",
+      "SIC Description": "SIC-2834 Pharmaceutical Preparations",
+      "Time": "4/5/2022",
+      "1M %Chg": "12.98%"
+    },
+    {
+      "Symbol": "IRTC",
+      "Name": "Irhythm Technologies Inc",
+      "Exchange": "NASDAQ",
+      "Last": 160.26,
+      "Industry": "Medical Information Systems",
+      "SIC Description": "SIC-3841 Surgical & Medical Instruments & Apparatus",
+      "Time": "4/5/2022",
+      "1M %Chg": "18.76%"
+    },
+    {
+      "Symbol": "TEO",
+      "Name": "Telecom Argentina Stet France Telecom ADR",
+      "Exchange": "NYSE",
+      "Last": 6.19,
+      "Industry": "Wireline Non-US",
+      "SIC Description": "SIC-4813 Telephone Communications (No Radiotelephone)",
+      "Time": "4/5/2022",
+      "1M %Chg": "26.07%"
+    },
+    {
+      "Symbol": "CHNG",
+      "Name": "Change Healthcare Inc",
+      "Exchange": "NASDAQ",
+      "Last": 23.73,
+      "Industry": "Medical Information Systems",
+      "SIC Description": "SIC-7374 Services-Computer Processing & Data Preparat",
+      "Time": "4/5/2022",
+      "1M %Chg": "10.89%"
+    },
+    {
+      "Symbol": "BBAI",
+      "Name": "Bigbear.Ai Holdings Inc",
+      "Exchange": "NYSE",
+      "Last": 10.34,
+      "Industry": "IT Services",
+      "SIC Description": "SIC-7372 Services-Prepackaged Software",
+      "Time": "4/5/2022",
+      "1M %Chg": "33.42%"
+    },
+    {
+      "Symbol": "ORA",
+      "Name": "Ormat Technologies",
+      "Exchange": "NYSE",
+      "Last": 81.79,
+      "Industry": "Other Alt Energy",
+      "SIC Description": "SIC-4911 Electric Services",
+      "Time": "4/5/2022",
+      "1M %Chg": "14.58%"
+    }
+  ]
