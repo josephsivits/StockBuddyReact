@@ -2,7 +2,8 @@
 The Stock Investment Visualization Interface Tool Software (SIVITS) Mobile Application was designed to allow users to make more educated financial decisions with the aim to allow users to make educated financial decisions by configurating them to a set of criteria deemed appropriate and applicable for stock option investments for the New York Stock Exchange (NYSE) and National Association of Securities Dealers Automated Quotations (NASDAQ) markets.
 
 [View Symposium Poster](http://https://1drv.ms/b/s!ArgrUg_JEuCXgtdG5eY3TAtjRBBnzA "View Symposium Poster")
-*Above poster presented at Associated Colleges of the Chicago Area (ACCA) 2022 Student Sympsoium at North Park University, Chicago*
+*Poster presented at Associated Colleges of the Chicago Area (ACCA) 2022 Student Sympsoium at North Park University, Chicago*
+
 [View Project Video as of 04/08/2022](https://youtube.com/shorts/NJO3LAzKYk8?feature=share "View Project Video as of 04/08/2022")
 
 ⚠️This app is currently a work in progress!⚠️
