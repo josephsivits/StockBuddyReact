@@ -1,6 +1,8 @@
 import { View, Text, StyleSheet, TouchableHighlight } from 'react-native'
 import React, {useState} from 'react'
 
+// unused component for future implementation
+
 const PreferenceButton = () => {
     var [isPress, setIsPress] = useState(false)
 

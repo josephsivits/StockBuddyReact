@@ -5,7 +5,6 @@ import 'firebase/compat/auth';
 import 'firebase/compat/firestore';
 
 // Your web app's Firebase configuration
-// no peeking
 const firebaseConfig = {
   apiKey: "AIzaSyCD3YBeTDti7BTuZcU9bekhEZar9bCPARY",
   authDomain: "rn-stockbuddy.firebaseapp.com",

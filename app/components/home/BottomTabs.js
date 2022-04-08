@@ -1,28 +1,12 @@
 import { StyleSheet, Text, View, Image, Modal, Button, TouchableOpacity } from 'react-native'
-import React, {Fragment, useState} from 'react'
-//import { TouchableOpacity } from 'react-native-gesture-handler'
+import React, {useState} from 'react'
 import {Divider} from 'react-native-elements'
-import SignupScreen from '../../screens/SignupScreen'
-import LoginScreen from '../../screens/LoginScreen';
 import * as WebBrowser from 'expo-web-browser';
 
-// for signout button
+// for signout button, future implementation
 import firebase from 'firebase/compat/app';
 import 'firebase/compat/auth';
 import 'firebase/compat/firestore';
-
-import AuthNavigation from '../../../AuthNavigation';
-import navigation from '../../../navigation'
-
-const handleSignOut = async () => {
-try {
-    await firebase.auth().signOut()
-    console.log('Signed Out')
-}
-catch (error) {
-    console.log(error);
-}
-}
 
 export const bottomTabIcons = [
     {
@@ -51,8 +35,6 @@ export const bottomTabIcons = [
         inactive: require('../../assets/icons/search-off.png')
     },
 ]
-
-
 
 const BottomTabs = ({icons}) => {
     // set the default tab to be home
@@ -103,11 +85,9 @@ const BottomTabs = ({icons}) => {
             <TouchableOpacity onPress={() => setActiveTab(icon.name)
             }>
             {activeTab === 'Information' ? setVisible(true) : null}
-                <Text>{activeTab}</Text>
                 <View>
                     <AboutModal visible={visible} setVisible={setVisible}/>
                 </View>
-            {activeTab === 'Logout' ? handleSignOut : null}
                 <Image source={currentIcon} style={styles.icon} />
             </TouchableOpacity>
         )

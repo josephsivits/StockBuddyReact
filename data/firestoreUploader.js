@@ -1,8 +1,8 @@
 const admin = require('./../node_modules/firebase-admin');
 const serviceAccount = require("./serviceAccountKey.json");
 /*
-C:\Users\josep\OneDrive\Desktop\StockBuddyReact\StockBuddy\node_modules\firebase-admin
-C:\Users\josep\OneDrive\Desktop\StockBuddyReact\StockBuddy\data\firestoreUploader.js
+StockBuddyReact\StockBuddy\node_modules\firebase-admin
+StockBuddyReact\StockBuddy\data\firestoreUploader.js
 */
 
 admin.initializeApp({
@@ -12,10 +12,9 @@ admin.initializeApp({
 
 const data = require("./04-06-2022-JSON/hot-prospects-04-06-2022.json");
 
-/**
- * Data is a collection if
- *  - it has a odd depth
- *  - contains only objects or contains no objects.
+/*
+currently buggy, uploads data  by character, not strings.
+
  */
 function isCollection(data, path, depth) {
   if (

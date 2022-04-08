@@ -5,8 +5,6 @@ import LoginForm from '../components/loginScreen/LoginForm'
 //Package for web linking
 import * as WebBrowser from 'expo-web-browser';
 
-
-
 const SB_LOGO = 'https://i.imgur.com/pYiVtix.png'
 
 const LoginScreen = ({navigation}) => {

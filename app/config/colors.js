@@ -9,8 +9,8 @@ export default {
     red: '#ff0909',
 
     // color palette
-    primary: '#ccbbff',
-    secondary: '#ffd1fc',
+    primary: '#8F84F5',
+    secondary: '#78AEF5',
     dark: '#141414',
     light: '#f5f5f5',
     blueComplementary: '#497cd5',

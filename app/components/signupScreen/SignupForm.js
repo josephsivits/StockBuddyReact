@@ -9,10 +9,9 @@ import firebase from '../../../firebase'
 
 
 const SignupForm = ({ navigation }) => {
-  //shcema for form validation
+  //schmea for form validation
   const SignupFormSchema = Yup.object().shape({
     email: Yup.string().required('An email is required'),
-    //username: Yup.string().required().min(2, 'A username is required'),
     password: Yup.string()
       .required()
       .min(6, 'Passwords must be at least 8 characters long'),
@@ -36,30 +35,6 @@ const SignupForm = ({ navigation }) => {
       )
     }
   }
-
-  /*
-  const onSignup = async(email, password, username) => {
-    try{
-      const authUser = await firebase
-        .auth()
-        .createUserWithEmailAndPassword(email, password)
-      console.log('Firebase User created successfully', email, password)
-      navigation.navigate('HomeScreen')
-      // db.collection('users').add({
-      //   owner_uid: authUser.user.uid,
-      //   username: username,
-      //   email: authUser.user.email,
-      //   profile_picture: await getRandomProfilePicture(),
-      // })
-    } catch(error) {
-      Alert.alert(
-        'Account Creation Fail',
-        error.message
-      )
-    }
-  }
-
-  */
   return (
     <Formik
       initialValues={{ email: '', password: '', password_confirm: '' }}
@@ -89,24 +64,6 @@ const SignupForm = ({ navigation }) => {
               value={values.email}
             />
 
-            {/* if email is not valid, show error message 
-            <TextInput
-              placeholderTextColor={'#444'}
-              placeholder='Username'
-              autoCapitalize='none'
-              autoCorrect={false}
-              textContentType='username'
-              autoFocus={true}
-              style={[styles.inputField,
-              { borderColor: 1 > values.username.length || values.username.length >= 2 ? '#ccc' : 'red' }
-              ]}
-              
-              //formik stuff
-              onChangeText={handleChange('username')}
-              onBlur={handleBlur('username')}
-              value={values.username}
-            />
-          */}
             {/*} Original Password {*/}
               <TextInput
               placeholderTextColor={'#444'}

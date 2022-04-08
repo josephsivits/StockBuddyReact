@@ -4,11 +4,8 @@ import * as Yup from 'yup'
 import Validator from 'email-validator'
 import React from 'react'
 
-// this was causintg me a lot of trouble, I had to import {auth} like a dummy
-import firebase from '../../../firebase'
+// Importing Firebase was an issue. Had to import {auth} from '../../../firebase/config'
 import {auth} from '../../../firebase'
-//import {auth} from '../../../firebase'
-
 
 const LoginForm = ({navigation}) => {
     //schema for form validation
@@ -41,34 +38,7 @@ const LoginForm = ({navigation}) => {
           ]
         )
       }
-
-    }
-
-    /*
-    const onLogin = async(email, password) => {
-      try {
-        await firebase.auth().signInWithEmailAndPassword(email, password)
-        console.log('Firebase login Successful', email, password)
-        navigation.push('HomeScreen')
-      } catch(error) {
-        Alert.alert(
-          'Login Error',
-          `${error.message}\n\nTry to login again or create a new account`,
-          [
-            {
-              text: 'OK',
-              onPress: ()=> console.log('OK pressed'),
-              style: 'cancel',
-            },
-            {
-              text: 'Sign Up',
-              onPress: ()=> navigation.push('SignupScreen')
-            }
-          ]
-        )
-      }
-    }
-    */
+}
 
     return (
       <Formik
@@ -79,7 +49,6 @@ const LoginForm = ({navigation}) => {
         validationSchema={LoginFormSchema}
         validateOnMount={true}
       >
-        {/* anon fn that can wrap around one child */}
         {({ handleChange, handleBlur, handleSubmit, values, isValid }) => (
           <View>
             <View style={styles.wrapper}>

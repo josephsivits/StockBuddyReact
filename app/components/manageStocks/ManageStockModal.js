@@ -1,6 +1,8 @@
 import { StyleSheet, Text, View, Modal } from 'react-native'
 import React from 'react'
 
+// future implementation
+
 const ManageStockModal = () => {
   return (
     <View>

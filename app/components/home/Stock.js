@@ -1,29 +1,21 @@
-import { View, Text,StyleSheet,Image, Modal, Button } from 'react-native'
+import { View, Text,StyleSheet,Image, Modal, Button, TouchableOpacity } from 'react-native'
 import {Divider} from 'react-native-elements' // after doing the npm install react-native-elements
 
 import React, {useState} from 'react'
-import { setStatusBarNetworkActivityIndicatorVisible } from 'expo-status-bar'
-import { TouchableOpacity } from 'react-native-gesture-handler';
-
-
 
 const Stock = ({stock}) => {
   const [visible, setVisible] = useState(false);
 
   const StockRating = ({stock}) => (
-
     <TouchableOpacity onPress={() => setVisible(true)}>
     <View style={{width:75, height:75}}>
             <Image 
             source={{uri: stock.rating}} 
             style={{height:'100%', resizeMode:'cover'}} 
             />
-            {/*} {*/}
             <StockInfoModal stock={stock}/> 
-        </View>
-        
-      </TouchableOpacity>
-      
+        </View>    
+      </TouchableOpacity>   
   )
 
 const StockInfoModal = ({stock}) => (
