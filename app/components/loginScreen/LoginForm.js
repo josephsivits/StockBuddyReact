@@ -85,7 +85,7 @@ const LoginForm = ({navigation}) => {
             <View style={styles.wrapper}>
               <TextInput
                 placeholderTextColor={'#444'}
-                placeholder='Phone number, username, or email'
+                placeholder='Email'
                 autoCapitalize='none'
                 keyboardType='email-address'
                 textContentType='emailAddress'

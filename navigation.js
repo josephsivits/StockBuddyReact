@@ -17,17 +17,28 @@ const screenOptions = {
     headerShown: false,
 }
 
-const SignInStack = () => (
+// Uses two stacks, one where the user is login and one whre the user is not
+export const SignedInStack = () => (
+    <NavigationContainer>
+        <Stack.Navigator
+            initialRouteName='HomeScreen'
+            screenOptions={screenOptions}
+            >
+                <Stack.Screen name='HomeScreen' component={HomeScreen} />
+            </Stack.Navigator>
+    </NavigationContainer>
+)
+
+export const SignedOutStack = () => (
     <NavigationContainer>
         <Stack.Navigator
             initialRouteName='LoginScreen'
             screenOptions={screenOptions}
             >
-                <Stack.Screen name='HomeScreen' component={HomeScreen} />
                 <Stack.Screen name='LoginScreen' component={LoginScreen} />
                 <Stack.Screen name='SignupScreen' component={SignupScreen} />
             </Stack.Navigator>
     </NavigationContainer>
 )
 
-export default SignInStack
+//export default SignedInStack

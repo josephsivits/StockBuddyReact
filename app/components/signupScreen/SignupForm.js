@@ -12,13 +12,16 @@ const SignupForm = ({ navigation }) => {
   //shcema for form validation
   const SignupFormSchema = Yup.object().shape({
     email: Yup.string().required('An email is required'),
-    username: Yup.string().required().min(2, 'A username is required'),
+    //username: Yup.string().required().min(2, 'A username is required'),
     password: Yup.string()
       .required()
       .min(6, 'Passwords must be at least 8 characters long'),
+    password_confirm: Yup.string()
+      .required()
+      .oneOf([Yup.ref('password'), null], 'Passwords must match'),
   })
 
-  const onSignup = async(email, password, username) => {
+  const onSignup = async(email, password, password_confirm) => {
     try {
       const authUser = await firebase 
       auth
@@ -59,9 +62,9 @@ const SignupForm = ({ navigation }) => {
   */
   return (
     <Formik
-      initialValues={{ email: '', username: '', password: '' }}
+      initialValues={{ email: '', password: '', password_confirm: '' }}
       onSubmit={(values) => {
-        onSignup(values.email, values.password, values.username)
+        onSignup(values.email, values.password, values.password_confirm)
       }}
       validationSchema={SignupFormSchema}
       validateOnMount={true}
@@ -85,6 +88,8 @@ const SignupForm = ({ navigation }) => {
               onBlur={handleBlur('email')}
               value={values.email}
             />
+
+            {/* if email is not valid, show error message 
             <TextInput
               placeholderTextColor={'#444'}
               placeholder='Username'
@@ -95,12 +100,15 @@ const SignupForm = ({ navigation }) => {
               style={[styles.inputField,
               { borderColor: 1 > values.username.length || values.username.length >= 2 ? '#ccc' : 'red' }
               ]}
+              
               //formik stuff
               onChangeText={handleChange('username')}
               onBlur={handleBlur('username')}
               value={values.username}
             />
-            <TextInput
+          */}
+            {/*} Original Password {*/}
+              <TextInput
               placeholderTextColor={'#444'}
               placeholder='Password'
               autoCapitalize='none'
@@ -115,6 +123,25 @@ const SignupForm = ({ navigation }) => {
               onChangeText={handleChange('password')}
               onBlur={handleBlur('password')}
               value={values.password}
+            />
+
+
+            {/*} Repeat Password TextInput, {*/}
+            <TextInput
+              placeholderTextColor={'#444'}
+              placeholder='Confirm Password'
+              autoCapitalize='none'
+              autoCorrect={false}
+              secureTextEntry={true}
+              textContentType='password'
+              autoFocus={true}
+              style={[styles.inputField,
+              { borderColor: 1 > values.password_confirm.length || values.password_confirm.length >= 6 || values.password == values.password_confirm  ? '#ccc' : 'red' }
+              ]}
+              //formik stuff
+              onChangeText={handleChange('password_confirm')}
+              onBlur={handleBlur('password_confirm')}
+              value={values.password_confirm}
             />
 
           </View>
@@ -170,3 +197,5 @@ const styles = StyleSheet.create({
 })
 
 export default SignupForm
+
+// broken version
