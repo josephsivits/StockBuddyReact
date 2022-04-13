@@ -8,6 +8,12 @@ export default {
     redOrange: '#fc5b0c',
     red: '#ff0909',
 
+    // Google Color Guide
+    googBlue: '#4285F4',
+    googGreen: '#0F9D58',
+    googYellow: '#F4B400',
+    googRed:'#DB4437',   
+
     // color palette
     primary: '#8F84F5',
     secondary: '#78AEF5',

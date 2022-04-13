@@ -5,6 +5,8 @@ import LoginForm from '../components/loginScreen/LoginForm'
 //Package for web linking
 import * as WebBrowser from 'expo-web-browser';
 
+import AboutModal from './../components/AboutModal'
+
 const SB_LOGO = 'https://i.imgur.com/pYiVtix.png'
 
 const LoginScreen = ({navigation}) => {
@@ -12,7 +14,7 @@ const LoginScreen = ({navigation}) => {
   // AboutModal, look into exporting this as its own separate function for DRY
   const [visible, setVisible] = useState(false);
 
-  const AboutModal = ({visible, setVisible}) => (
+  const AboutModal2 = ({visible, setVisible}) => (
     <Modal
       animationType={'fade'}
       visible={visible}
