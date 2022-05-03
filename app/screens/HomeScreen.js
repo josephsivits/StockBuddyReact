@@ -25,9 +25,6 @@ const HomeScreen = ({navigation}) => {
                     ))
                 }
             </ScrollView>
-
-
-
             <View>
             <Divider/>
             <SearchBar
