@@ -1,0 +1,10 @@
+Symbol,Name,Exchange,Last,Industry,"SIC Description",Time,"New 50-200D MACD","20D Avg Vol"
+AXSM,"Axsome Thera",NASDAQ,30.37,"Medical - Biomedical","SIC-2834 Pharmaceutical Preparations","11:30 ET",Buy,1533798
+BNFT,Benefitfocus,NASDAQ,11.06,"Internet - Software","SIC-7372 Services-Prepackaged Software","11:29 ET",Buy,89182
+CBD,"Companhia Brasileira DE Distribuicao ADR",NYSE,4.2,"Retail - Supermarket","SIC-5411 Retail-Grocery Stores","11:29 ET",Buy,655770
+HALO,"Halozyme Therapeutic",NASDAQ,41.52,"Medical - Biomedical","SIC-2836 Biological Products, (No Disgnostic Substanc","11:31 ET",Buy,852580
+HCII,"Hudson Executive Investment Corp II Cl A",NASDAQ,9.83,Unclassified,"SIC-6770 Blank Checks","09:30 ET",Buy,24425
+PBPB,"Potbelly Corp",NASDAQ,6.5,"Retail - Restaurants","SIC-5812 Retail-Eating Places","11:15 ET",Buy,25847
+PING,"Ping Identity Holding Corp",NYSE,26.75,"IT Services","SIC-7372 Services-Prepackaged Software","11:30 ET",Buy,1042106
+WSO,"Watsco Inc",NYSE,278.53,"Building Prdcts - Air Heating","SIC-5070 Wholesale-Hardware & Plumbing & Heating Equi","11:31 ET",Buy,294171
+"Downloaded from Barchart.com as of 04-28-2022 10:31am CDT"

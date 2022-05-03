@@ -1,0 +1,90 @@
+[
+  {
+    "Symbol": "ALIM",
+    "Name": "Alimera Sciences Inc",
+    "Exchange": "NASDAQ",
+    "Last": 5.45,
+    "Industry": "Medical - Biomedical",
+    "SIC Description": "SIC-2834 Pharmaceutical Preparations",
+    "Time": "09:53 ET",
+    "New 50-200D MACD": "Buy",
+    "20D Avg Vol": 20063
+  },
+  {
+    "Symbol": "CYBR",
+    "Name": "Cyberark Soft Ord",
+    "Exchange": "NASDAQ",
+    "Last": 157.15,
+    "Industry": "Security",
+    "SIC Description": "SIC-7372 Services-Prepackaged Software",
+    "Time": "10:32 ET",
+    "New 50-200D MACD": "Buy",
+    "20D Avg Vol": 363608
+  },
+  {
+    "Symbol": "ICCC",
+    "Name": "Immucell Cp",
+    "Exchange": "NASDAQ",
+    "Last": 9.367,
+    "Industry": "Medical Products",
+    "SIC Description": "SIC-2835 In Vitro & In Vivo Diagnostic Substances",
+    "Time": "10:01 ET",
+    "New 50-200D MACD": "Buy",
+    "20D Avg Vol": 12763
+  },
+  {
+    "Symbol": "LCA",
+    "Name": "Landcadia Holdings IV Inc Cl A",
+    "Exchange": "NASDAQ",
+    "Last": 9.78,
+    "Industry": "Unclassified",
+    "SIC Description": "SIC-6770 Blank Checks",
+    "Time": "2022-04-29",
+    "New 50-200D MACD": "Buy",
+    "20D Avg Vol": 109165
+  },
+  {
+    "Symbol": "OFC",
+    "Name": "Corporate Office Properties",
+    "Exchange": "NYSE",
+    "Last": 26.84,
+    "Industry": "REIT - Equity Trust Other",
+    "SIC Description": "SIC-6798 Real Estate Investment Trusts",
+    "Time": "10:32 ET",
+    "New 50-200D MACD": "Buy",
+    "20D Avg Vol": 600098
+  },
+  {
+    "Symbol": "OSG",
+    "Name": "Overseas Shipholding Group Inc",
+    "Exchange": "NYSE",
+    "Last": 2.04,
+    "Industry": "Transportation - Ship",
+    "SIC Description": "SIC-4412 Deep Sea Foreign Transportation of Freight",
+    "Time": "10:23 ET",
+    "New 50-200D MACD": "Buy",
+    "20D Avg Vol": 259986
+  },
+  {
+    "Symbol": "VERU",
+    "Name": "Veru Inc",
+    "Exchange": "NASDAQ",
+    "Last": 11.79,
+    "Industry": "Medical Products",
+    "SIC Description": "SIC-2834 Pharmaceutical Preparations",
+    "Time": "10:32 ET",
+    "New 50-200D MACD": "Buy",
+    "20D Avg Vol": 51377645
+  },
+  {
+    "Symbol": "Downloaded from Barchart.com as of 05-02-2022 09:32am CDT",
+    "Name": "",
+    "Exchange": "",
+    "Last": "",
+    "Industry": "",
+    "SIC Description": "",
+    "Time": "",
+    "New 50-200D MACD": "",
+    "20D Avg Vol": ""
+  }
+]

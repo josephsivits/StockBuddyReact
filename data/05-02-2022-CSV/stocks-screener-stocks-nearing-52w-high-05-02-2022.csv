@@ -1,0 +1,21 @@
+Symbol,Name,Exchange,Last,Industry,"SIC Description",Time,"20D MA","50D MA","50D Avg Vol","52W %/High","20D Avg Vol","Prev Vol"
+APSG,"Apollo Strategic Growth Capital Cl A",NYSE,9.98,"Transportation - Services","SIC-4700 Transportation Services","10:25 ET",9.97,9.93,735468,-0.45%,1090631,68800
+ASH,"Ashland Global Holdings Inc",NYSE,105.69,"Chemical - Specialty","SIC-5160 Wholesale-Chemicals & Allied Products","10:33 ET",103.3,97.1,514381,-4.86%,479078,406300
+ASZ,"Austerlitz Acquisition Corp II Cl A",NYSE,9.81,Unclassified,"SIC-6770 Blank Checks","10:11 ET",9.81,9.78,586191,-1.01%,318574,26400
+ATRS,"Antares Pharma",NASDAQ,5.57,"Medical - Dental Suppliers","SIC-3841 Surgical & Medical Instruments & Apparatus","10:31 ET",4.99,4.29,5028087,-0.36%,11180768,6489200
+BSM,"Black Stone Minerals LP",NYSE,15.9,"E&P MLP","SIC-1311 Crude Petroleum & Natural Gas","10:28 ET",15.11,13.52,780891,-1.96%,802862,613400
+CDK,"Cdk Global Inc",NASDAQ,54.39,"IT Services","SIC-7389 Services-Business Services, NEC","10:32 ET",53.63,49.62,2081817,-0.96%,3906933,1933400
+CVII,"Churchill Capital Corp Vii Cl A",NYSE,9.8,Unclassified,"SIC-6770 Blank Checks","10:07 ET",9.79,9.76,335788,-1.70%,381699,100500
+ECOL,"US Ecology Inc",NASDAQ,47.99,"Waste Removal Svcs","SIC-4953 Refuse Systems",2022-04-29,47.95,47.66,799516,-0.21%,999025,772800
+LRN,"Stride Inc",NYSE,39.5,Schools,"SIC-8200 Services-Educational Services","10:29 ET",36.46,34.98,500362,-4.93%,695371,641900
+MGP,"MGM Growth Properties Llc",NYSE,41.64,"REIT - Equity Trust Other","SIC-6798 Real Estate Investment Trusts",2022-04-28,39.64,38.44,1076466,-3.59%,1313435,1238400
+MSP,"Datto Holding Corp",NYSE,34.78,"Internet - Software","SIC-7372 Services-Prepackaged Software","10:31 ET",33.09,28.04,1491947,-0.13%,3075309,957500
+MTOR,"Meritor Inc",NYSE,36.03,"Auto - Truck Original Parts","SIC-3714 Motor Vehicle Parts & Accessories","10:32 ET",35.8,35.43,2016754,-0.66%,1300191,671700
+NTUS,"Natus Medical Inc",NASDAQ,33.36,"Medical Instruments","SIC-3845 Electromedical & Electrotherapeutic Apparatu","10:31 ET",29.86,27.38,418476,-1.80%,822975,421900
+PBF,"PBF Energy Inc",NYSE,28.89,"Oil - Refining and Marketing","SIC-2911 Petroleum Refining","10:33 ET",27.21,23.44,3667275,-4.05%,3345062,2991000
+PPC,"Pilgrim's Pride",NASDAQ,28.97,"Food - Meat Products","SIC-2015 Poultry Slaughtering and Processing","10:33 ET",27.08,25.01,1411307,-3.54%,1017487,920500
+SAIL,"Sailpoint Technologies Holdings Inc",NYSE,63.82,"Technology Services","SIC-7372 Services-Prepackaged Software","10:33 ET",60.76,51.51,4086466,-1.02%,8130689,6238800
+SLVM,"Sylvamo Corp",NYSE,45.09,"Paper & Related Products","SIC-2621 Paper Mills","10:28 ET",38.54,36.05,485553,-0.51%,372337,307900
+SRRA,"Sierra Oncology Inc",NASDAQ,54.53,"Medical - Drugs","SIC-2834 Pharmaceutical Preparations","10:32 ET",48.71,38.86,652236,-0.85%,1200240,381700
+VRNT,"Verint Systems Inc",NASDAQ,54.59,"Computer - Software","SIC-7373 Services-Computer Integrated Systems Design","10:32 ET",53.29,51.42,459552,-3.39%,508346,458900
+"Downloaded from Barchart.com as of 05-02-2022 09:33am CDT"

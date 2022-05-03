@@ -1,0 +1,156 @@
+[
+  {
+    "Symbol": "BMRC",
+    "Name": "Bank of Marin Bancrp",
+    "Last": 32.03,
+    "Change": 0.77,
+    "%Chg": "+2.46%",
+    "High": 31.92,
+    "Low": 31.145,
+    "Volume": 5589,
+    "Time": "10:31 ET"
+  },
+  {
+    "Symbol": "CLAR",
+    "Name": "Clarus Corp",
+    "Last": 22.55,
+    "Change": 0.2,
+    "%Chg": "+0.89%",
+    "High": 22.915,
+    "Low": 22.13,
+    "Volume": 59480,
+    "Time": "10:34 ET"
+  },
+  {
+    "Symbol": "CVAC",
+    "Name": "Curevac N.V.",
+    "Last": 17.39,
+    "Change": 0.3,
+    "%Chg": "+1.76%",
+    "High": 17.72,
+    "Low": 17.045,
+    "Volume": 61372,
+    "Time": "10:34 ET"
+  },
+  {
+    "Symbol": "DADA",
+    "Name": "Dada Nexus Ltd ADR",
+    "Last": 8.04,
+    "Change": 0.41,
+    "%Chg": "+5.37%",
+    "High": 8.11,
+    "Low": 7.49,
+    "Volume": 203175,
+    "Time": "10:34 ET"
+  },
+  {
+    "Symbol": "GAME",
+    "Name": "Engine Gaming and Media Inc",
+    "Last": 1.3699,
+    "Change": 0.0199,
+    "%Chg": "+1.47%",
+    "High": 1.39,
+    "Low": 1.25,
+    "Volume": 29577,
+    "Time": "10:02 ET"
+  },
+  {
+    "Symbol": "ISO",
+    "Name": "Isoplexis Corp",
+    "Last": 2.2,
+    "Change": 0.02,
+    "%Chg": "+0.92%",
+    "High": 2.44,
+    "Low": 2.115,
+    "Volume": 19374,
+    "Time": "10:12 ET"
+  },
+  {
+    "Symbol": "IVA",
+    "Name": "Inventiva S.A. ADR",
+    "Last": 9.96,
+    "Change": 0.56,
+    "%Chg": "+5.96%",
+    "High": 9.92,
+    "Low": 9.51,
+    "Volume": 333,
+    "Time": "09:30 ET"
+  },
+  {
+    "Symbol": "JWEL",
+    "Name": "Jowell Global Ltd",
+    "Last": 2.09,
+    "Change": 0.13,
+    "%Chg": "+6.63%",
+    "High": 2.09,
+    "Low": 2,
+    "Volume": 13582,
+    "Time": "10:19 ET"
+  },
+  {
+    "Symbol": "MOMO",
+    "Name": "Hello Group Inc ADR",
+    "Last": 5.43,
+    "Change": 0.11,
+    "%Chg": "+2.07%",
+    "High": 5.5968,
+    "Low": 5.17,
+    "Volume": 1346410,
+    "Time": "10:33 ET"
+  },
+  {
+    "Symbol": "MOXC",
+    "Name": "Moxian [Bvi] Inc",
+    "Last": 1.41,
+    "Change": 0,
+    "%Chg": "0.00%",
+    "High": 1.48,
+    "Low": 1.4,
+    "Volume": 3518,
+    "Time": "10:19 ET"
+  },
+  {
+    "Symbol": "PDSB",
+    "Name": "Pds Biotechnology Corp",
+    "Last": 5.71,
+    "Change": 0.18,
+    "%Chg": "+3.25%",
+    "High": 5.83,
+    "Low": 5.33,
+    "Volume": 68523,
+    "Time": "10:25 ET"
+  },
+  {
+    "Symbol": "TGTX",
+    "Name": "Tg Therapeuticscmn",
+    "Last": 7.56,
+    "Change": 0.62,
+    "%Chg": "+8.93%",
+    "High": 7.46,
+    "Low": 6.91,
+    "Volume": 608237,
+    "Time": "10:35 ET"
+  },
+  {
+    "Symbol": "YMM",
+    "Name": "Full Truck Alliance Co. Ltd ADR",
+    "Last": 6.5,
+    "Change": 0.47,
+    "%Chg": "+7.79%",
+    "High": 6.4,
+    "Low": 5.8,
+    "Volume": 1448819,
+    "Time": "10:35 ET"
+  },
+  {
+    "Symbol": "Downloaded from Barchart.com as of 05-02-2022 09:35am CDT",
+    "Name": "",
+    "Last": "",
+    "Change": "",
+    "%Chg": "",
+    "High": "",
+    "Low": "",
+    "Volume": "",
+    "Time": ""
+  }
+]

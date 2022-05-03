@@ -1,0 +1,88 @@
+Symbol,Name,Exchange,Last,Industry,"SIC Description",Time,"Sales %(q)","Sales %(a)","Cash Flow %(q)","Cash Flow %(q-1)","Shareholders Equity %(a)","Wtd Alpha"
+ADM,"Archer Daniels Midland",NYSE,90.11,"Agriculture Operations","SIC-2070 Fats & Oils","10:35 ET",+13.52%,+32.47%,+12.68%,+94.65%,+12.42%,+44.76
+AMR,"Alpha Metallurgical Resources Inc",NYSE,152.26,"Mining - Misc","SIC-1221 Bituminous Coal & Lignite Mining","10:32 ET",+27.65%,+59.48%,+147.90%,+377.29%,+173.32%,+810.23
+ANET,"Arista Networks Inc",NYSE,117.24,"Communications Components","SIC-3576 Computer Communications Equipment","10:35 ET",+10.12%,+27.21%,+28.49%,+52.62%,+19.83%,+21.82
+ARCH,"Arch Resources Inc",NYSE,165.56,Coal,"SIC-1221 Bituminous Coal & Lignite Mining","10:34 ET",+35.55%,+50.45%,+160.19%,+250.75%,+141.17%,+167.54
+ARLP,"Alliance Resource Pt",NASDAQ,17.49,Coal,"SIC-1221 Bituminous Coal & Lignite Mining","10:31 ET",+13.97%,+18.21%,+36.73%,+96.55%,+14.34%,+180.68
+ASR,"Grupo Aeroportuario Del Sureste ADR",NYSE,220.57,"Transportation - Services","SIC-4581 Airports, Flying Fields & Airport Terminal S","10:29 ET",+35.07%,+56.41%,+179.53%,-4.36%,+15.40%,+25.46
+AZN,"Astrazeneca Plc ADR",NASDAQ,66.35,"Large Cap Pharma","SIC-2834 Pharmaceutical Preparations","10:35 ET",+21.74%,+40.58%,+31.20%,+60.83%,+151.23%,+23.81
+BBW,"Build-A-Bear Workshop",NYSE,18.55,"Retail - Misc & Diversified","SIC-5945 Retail-Hobby, Toy & Game Shops","10:32 ET",+36.60%,+61.18%,+62.88%,-6.25%,+39.18%,+51.81
+BTU,"Peabody Energy Corp",NYSE,21.71,Coal,"SIC-1221 Bituminous Coal & Lignite Mining","10:35 ET",+86.24%,+15.17%,"+2,382.61%",+19.30%,+85.55%,+103.83
+CCB,"Coastal Financial Corp",NASDAQ,41.19,"Banks - West","SIC-6022 State Commercial Banks","10:16 ET",+54.51%,+56.14%,+62.14%,+119.17%,+43.50%,+29.07
+CEIX,"Consol Energy Inc",NYSE,46.46,Coal,"SIC-1220 Bituminous","10:35 ET",+222.55%,+23.23%,+20.71%,+46.65%,+21.55%,+183.70
+CHK,"Chesapeake Energy Corp",NASDAQ,83.28,"Other Alt Energy","SIC-1311 Crude Petroleum & Natural Gas","10:35 ET",+246.74%,+11.50%,+45.96%,+56.65%,+206.18%,+66.31
+CIVI,"Civitas Resources Inc",NYSE,58.62,"Oil - US Exploration & Product","SIC-1311 Crude Petroleum & Natural Gas","10:35 ET",+168.72%,+326.71%,+42.84%,+141.63%,+345.35%,+43.48
+CLR,"Continental Resources",NYSE,55.99,"Oil - US Exploration & Product","SIC-1311 Crude Petroleum & Natural Gas","10:35 ET",+43.65%,+121.12%,+45.63%,+59.28%,+22.32%,+69.52
+CNP,"Centerpoint Energy Inc",NYSE,30.7,"Utility - Electric Power","SIC-4911 Electric Services","10:35 ET",+32.30%,+12.59%,+103.99%,+48.79%,+12.78%,+26.13
+CNQ,"Canadian Natural Resources",NYSE,61.06,"Oil - C$ Exploration & Product","SIC-1311 Crude Petroleum & Natural Gas","10:35 ET",+19.58%,+90.18%,+48.90%,+74.00%,+21.95%,+85.20
+COP,Conocophillips,NYSE,94.75,"Oil - US Integrated","SIC-2911 Petroleum Refining","10:35 ET",+37.42%,+151.09%,+52.73%,+75.77%,+52.12%,+64.80
+CTRA,"Coterra Energy Inc",NYSE,28.91,"Oil - US Exploration & Product","SIC-1311 Crude Petroleum & Natural Gas","10:35 ET",+405.05%,+135.17%,+133.26%,+52.23%,+429.76%,+75.46
+CYXT,"Cyxtera Technologies Inc",NASDAQ,11.86,"Technology Services","SIC-7370 Services-Computer Programming, Data Processi","10:20 ET",+197.35%,0.00%,"+3,125.00%",+169.57%,"+12,018.00%",+20.94
+DMLP,"Dorchester Minerals",NASDAQ,25.56,"Oil - US Royalty Trusts","SIC-1311 Crude Petroleum & Natural Gas","10:12 ET",+26.41%,+99.06%,+48.15%,+68.24%,+68.41%,+71.04
+DVN,"Devon Energy Corp",NYSE,58.19,"Oil - US Exploration & Product","SIC-1311 Crude Petroleum & Natural Gas","10:35 ET",+31.59%,+152.82%,+49.22%,+94.84%,+211.33%,+118.55
+EDRY,"Eurodry Ltd",NASDAQ,35.7,"Transportation - Ship","SIC-4400 Water Transportation","10:17 ET",+14.70%,+189.10%,+63.63%,+140.16%,+128.09%,+66.31
+EQNR,"Equinor ASA ADR",NYSE,33.63,"Other Alt Energy","SIC-2911 Petroleum Refining","10:35 ET",+40.34%,+98.45%,+39.44%,+63.66%,+15.14%,+55.06
+ERF,"Enerplus Corp",NYSE,12.07,"Oil - C$ Exploration & Product","SIC-1311 Crude Petroleum & Natural Gas","10:35 ET",+40.39%,+91.29%,+89.97%,+124.54%,+52.37%,+91.06
+ESTE,"Earthstone Energy",NYSE,13.73,"Oil - US Exploration & Product","SIC-1311 Crude Petroleum & Natural Gas","10:29 ET",+30.48%,+190.37%,+56.72%,+57.65%,+28.29%,+45.81
+ET,"Energy Transfer LP",NYSE,11.15,"Oil Gas Prod Pipeline MLP","SIC-4922 Natural Gas Transmission","10:35 ET",+11.96%,+73.07%,+18.45%,+31.61%,+25.35%,+17.43
+FDUS,"Fidus Investment Cor",NASDAQ,20.04,"Finance - SBIC & Commercial","SIC-6282 Investment Advice","10:23 ET",+13.52%,+6.26%,+69.82%,+124.96%,+18.75%,+16.05
+GNK,"Genco Shipping & Trading Ltd",NYSE,22.14,"Transportation - Ship","SIC-4412 Deep Sea Foreign Transportation of Freight","10:34 ET",+18.05%,+53.88%,+71.21%,+115.81%,+23.05%,+37.55
+GPOR,"Gulfport Energy Corp",NYSE,95.37,"Oil - US Exploration & Product","SIC-1311 Crude Petroleum & Natural Gas","10:31 ET",+418.55%,-6.66%,+38.11%,+59.98%,+282.86%,+55.75
+GSL,"Global Ship Lease Inc",NYSE,22.43,"Transportation - Ship","SIC-4412 Deep Sea Foreign Transportation of Freight","10:34 ET",+10.80%,+58.39%,+155.59%,+76.20%,+53.32%,+21.74
+H,"Hyatt Hotels Corp",NYSE,94.31,"Hotels & Motels","SIC-7011 Hotels & Motels","10:35 ET",+26.44%,+46.56%,+50.72%,+460.34%,+10.95%,+19.48
+HCC,"Warrior Met Coal Inc",NYSE,33.52,Coal,,"10:35 ET",+105.24%,+35.32%,+98.80%,+55.25%,+20.23%,+95.31
+HES,"Hess Corp",NYSE,102.54,"Oil - US Integrated","SIC-2911 Petroleum Refining","10:35 ET",+24.52%,+57.85%,+45.15%,+44.69%,+10.91%,+30.62
+HPK,"Highpeak Energy Inc",NASDAQ,29,"Oil - US Exploration & Product","SIC-1381 Drilling Oil & Gas Wells","10:35 ET",+107.84%,+794.07%,+67.56%,+85.58%,+16.62%,+169.47
+HRMY,"Harmony Biosciences Holdings Inc",NASDAQ,45.2,"Medical - Biomedical","SIC-2834 Pharmaceutical Preparations","10:35 ET",+12.98%,+91.21%,+61.52%,+99.41%,+91.92%,+58.69
+HSON,"Hudson Global",NASDAQ,32.85,Outsourcing,"SIC-7363 Services-Help Supply Services","10:09 ET",+11.22%,+66.79%,+198.81%,+159.57%,+14.70%,+65.75
+ICL,"Israel Chemicals Ltd",NYSE,11.16,"Chemical - Specialty","SIC-2870 Agricultural Chemicals","10:35 ET",+13.85%,+37.91%,+47.71%,+60.94%,+15.85%,+57.60
+IPI,"Intrepid Potash Inc",NYSE,77.6,Fertilizers,"SIC-1400 Mining & Quarrying of Nonmetallic Minerals (","10:35 ET",+21.44%,+37.26%,+33.07%,+15.51%,+61.31%,+107.66
+KIM,"Kimco Realty Corp",NYSE,25.11,"REIT - Equity Trust Retail","SIC-6798 Real Estate Investment Trusts","10:35 ET",+15.20%,+28.99%,+48.32%,+42.09%,+78.30%,+18.27
+KNSL,"Kinsale Capital Group Inc",NYSE,229.33,"Insurance - Proprty & Casualty","SIC-6331 Fire, Marine & Casualty Insurance","10:35 ET",+11.35%,+39.12%,+34.84%,+54.85%,+21.36%,+35.45
+LAND,"Gladstone Land Corp",NASDAQ,37.07,"REIT - Equity Trust Other","SIC-6798 Real Estate Investment Trusts","10:34 ET",+16.39%,+32.07%,+59.04%,+19.98%,+53.49%,+66.84
+LLY,"Eli Lilly and Company",NYSE,290.62,"Large Cap Pharma","SIC-2834 Pharmaceutical Preparations","10:35 ET",+18.12%,+15.40%,+42.25%,+46.97%,+57.16%,+44.30
+LPI,"Laredo Petroleum Holdings Inc",NYSE,70.4,"Oil - US Exploration & Product","SIC-1311 Crude Petroleum & Natural Gas","10:31 ET",+23.99%,+105.86%,+72.99%,+52.96%,"+2,496.36%",+28.93
+MAR,"Marriot Int Cl A",NASDAQ,179.13,"Hotels & Motels","SIC-7011 Hotels & Motels","10:35 ET",+12.67%,+31.09%,+57.99%,+491.27%,+228.84%,+25.68
+MATX,"Matson Inc",NYSE,88.92,"Transportation - Services","SIC-4400 Water Transportation","10:35 ET",+18.23%,+64.70%,+68.71%,+144.26%,+73.47%,+30.67
+MEOH,"Methanex Cp",NASDAQ,51.12,"Chemical - Diversified","SIC-2860 Industrial Organic Chemicals","10:35 ET",+16.20%,+66.59%,+39.79%,+73.25%,+35.61%,+30.50
+MERC,"Mercer Intl Inc",NASDAQ,15.72,"Paper & Related Products","SIC-2611 Pulp Mills","10:29 ET",+10.48%,+26.71%,+20.21%,+36.02%,+15.47%,+16.38
+METC,"Ramaco Resources Inc",NASDAQ,15.67,Coal,"SIC-1220 Bituminous","10:33 ET",+14.57%,+67.77%,+41.26%,+14.70%,+24.82%,+126.86
+MGY,"Magnolia Oil & Gas Corp",NYSE,23.06,"Oil - US Exploration & Product",,"10:35 ET",+18.62%,+101.75%,+49.35%,+72.51%,+24.52%,+76.26
+MMI,"Marcus & Millichap",NYSE,45.46,"Real Estate Developers","SIC-6531 Real Estate Agents & Managers (For Others)","10:35 ET",+48.97%,+80.84%,+156.95%,+197.55%,+27.33%,+15.90
+MNRL,"Brigham Minerals Inc",NYSE,24.57,"Mining - Misc","SIC-1311 Crude Petroleum & Natural Gas","10:35 ET",+13.61%,+75.77%,+50.89%,+60.36%,+38.37%,+25.17
+MOS,"Mosaic Company",NYSE,63.14,Fertilizers,"SIC-2870 Agricultural Chemicals","10:35 ET",+12.36%,+42.34%,+24.50%,+31.69%,+10.18%,+85.44
+MTDR,"Matador Resources Company",NYSE,48.8,"Oil - US Exploration & Product","SIC-1311 Crude Petroleum & Natural Gas","10:35 ET",+19.90%,+92.89%,+46.54%,+68.11%,+40.60%,+63.92
+NREF,"Nexpoint Real Estate Finance Inc",NYSE,23.24,"REIT - Mortgage Trusts","SIC-6798 Real Estate Investment Trusts","10:32 ET",+10.86%,+43.23%,+32.42%,+63.00%,+91.27%,+17.28
+NRP,"Natural Resource Partners LP",NYSE,46.6206,Coal,"SIC-1221 Bituminous Coal & Lignite Mining","10:20 ET",+47.73%,+54.19%,+82.77%,+82.18%,+25.18%,+158.43
+OVV,"Ovintiv Inc",NYSE,51.54,"Oil - C$ Exploration & Product","SIC-1311 Crude Petroleum & Natural Gas","10:35 ET",+86.64%,+42.24%,+30.98%,+51.49%,+32.24%,+98.09
+PANL,"Pangaea Logistics So",NASDAQ,4.79,"Transportation - Ship","SIC-4412 Deep Sea Foreign Transportation of Freight","10:34 ET",+10.11%,+87.54%,+44.68%,+118.54%,+28.26%,+20.45
+PBF,"PBF Energy Inc",NYSE,28.83,"Oil - Refining and Marketing","SIC-2911 Petroleum Refining","10:35 ET",+14.71%,+80.30%,+46.55%,+403.40%,+15.01%,+105.69
+PCRX,"Pacira Pharm Inc",NASDAQ,74.57,"Medical - Drugs","SIC-2834 Pharmaceutical Preparations","10:35 ET",+24.64%,+26.04%,+22.65%,+142.78%,+17.87%,+26.71
+PDCE,"Pdc Energy Inc",NASDAQ,68.91,"Oil - US Exploration & Product","SIC-1311 Crude Petroleum & Natural Gas","10:35 ET",+75.72%,+38.58%,+50.59%,+78.02%,+11.27%,+64.36
+PEP,"Pepsico Inc",NASDAQ,170.55,"Beverages - Soft","SIC-2080 Beverages","10:35 ET",+25.06%,+12.93%,+75.10%,+183.50%,+19.18%,+15.85
+PLYA,"Playa Hotels & Resorts N.V.",NASDAQ,9.3,"Hotels & Motels","SIC-7011 Hotels & Motels","10:35 ET",+16.86%,+95.70%,+311.26%,-3.31%,+11.03%,+31.70
+PTNR,"Partner Comm Ltd ADR",NASDAQ,7.43,"Wireless Non-US","SIC-4812 Radiotelephone Communications","10:14 ET",+21.24%,+8.97%,+31.75%,+58.82%,+11.57%,+62.70
+REGN,"Regeneron Pharmaceuticals",NASDAQ,653.58,"Medical - Biomedical","SIC-2834 Pharmaceutical Preparations","10:35 ET",+43.41%,+89.14%,+50.38%,+263.56%,+70.23%,+25.72
+ROCC,"Ranger Oil Corp",NASDAQ,31.47,"Oil - US Exploration & Product",,"10:35 ET",+59.63%,+112.06%,+41.63%,+66.31%,+214.56%,+47.68
+RRC,"Range Resources Corp",NYSE,30.15,"Oil - US Exploration & Product","SIC-1311 Crude Petroleum & Natural Gas","10:35 ET",+417.72%,+48.84%,+66.84%,+67.69%,+27.37%,+153.26
+SBOW,"Silverbow Resources Inc",NYSE,35.88,"Oil - US Exploration & Product","SIC-1311 Crude Petroleum & Natural Gas","10:35 ET",+52.49%,+129.55%,+61.41%,+43.36%,+221.36%,+157.67
+SD,"Sandridge Energy Inc",NYSE,18.35,"Oil - US Integrated","SIC-1311 Crude Petroleum & Natural Gas","10:32 ET",+16.96%,+46.88%,+66.25%,+99.58%,+91.55%,+245.19
+SFL,"Ship Finance International",NYSE,10,"Transportation - Ship","SIC-4412 Deep Sea Foreign Transportation of Freight","10:35 ET",+12.26%,+8.99%,+45.27%,+61.73%,+23.46%,+26.94
+SIRE,"Sisecam Resources LP",NYSE,19.5,"E&P MLP","SIC-1400 Mining & Quarrying of Nonmetallic Minerals (","10:18 ET",+15.04%,+37.71%,+91.52%,+53.80%,+12.91%,+41.31
+SITM,"Sitime Corp",NASDAQ,172.69,"Electronics Products - Misc","SIC-3674 Semiconductors & Related Devices","10:35 ET",+20.17%,+88.37%,+71.69%,+231.18%,+475.63%,+17.72
+SPLP,"Steel Partners Hlds",NYSE,41.7,"Conglomerates - Div Operations","SIC-3390 Miscellaneous Primary Metal Products","10:23 ET",+10.14%,+16.35%,+31.77%,+290.09%,+24.08%,+90.71
+SQM,"Sociedad Quimica Y Minera S.A. ADR",NYSE,73.04,Fertilizers,"SIC-1400 Mining & Quarrying of Nonmetallic Minerals (","10:35 ET",+63.90%,+57.51%,+96.38%,+80.62%,+48.71%,+37.33
+SWKH,"Swk Holdings Corp",NASDAQ,19.49,"Finance - Misc Services","SIC-6159 Miscellaneous Business Credit Institution","10:26 ET",+56.49%,+52.98%,+48.68%,+19.84%,+11.11%,+19.68
+SWN,"Southwestern Energy Company",NYSE,7.56,"Oil - US Exploration & Product","SIC-1311 Crude Petroleum & Natural Gas","10:35 ET",+84.42%,+188.86%,+64.22%,+34.52%,+412.47%,+58.99
+SWX,"Southwest Gas Corp",NYSE,87.41,"Utility - Gas Distribution",,"10:35 ET",+22.02%,+11.57%,+116.19%,"+3,688.23%",+10.43%,+34.95
+SYNL,"Synalloy Cp",NASDAQ,15.7134,"Steel - Pipe & Tube","SIC-3317 Steel Pipe & Tubes","10:18 ET",+11.01%,+30.75%,+17.73%,+223.80%,+38.97%,+70.94
+TECK,"Teck Resources Ltd",NYSE,39,"Mining - Misc","SIC-1400 Mining & Quarrying of Nonmetallic Minerals (","10:35 ET",+11.24%,+61.03%,+80.26%,+122.05%,+22.71%,+60.40
+TGS,"Transportadora DE Gas Sa Ord B ADR",NYSE,6.5,"Oil - Production & Pipeline","SIC-4922 Natural Gas Transmission","10:24 ET",+36.49%,+17.76%,+61.23%,+37.78%,+35.05%,+46.01
+VET,"Vermilion Energy Inc",NYSE,19.26,"International E&P","SIC-1311 Crude Petroleum & Natural Gas","10:35 ET",+42.27%,+91.20%,+43.49%,+52.97%,+138.64%,+149.37
+VHI,"Valhi Inc",NYSE,32.35,"Chemical - Diversified","SIC-2810 Industrial Inorganic Chemicals","10:23 ET",+17.28%,+24.35%,+142.97%,+146.68%,+15.05%,+16.26
+VIST,"Vista Energy S.A.B. DE C.V. ADR",NYSE,8.42,"Oil - International Integrated","SIC-1311 Crude Petroleum & Natural Gas","10:24 ET",+11.99%,+138.08%,+52.88%,+72.06%,+11.16%,+170.43
+VNOM,"Viper Energy LP",NASDAQ,28.51,"Oil - US Exploration & Product","SIC-1311 Crude Petroleum & Natural Gas","10:34 ET",+29.52%,+101.46%,+53.81%,+53.97%,+19.99%,+50.27
+WLK,"Westlake Corp",NYSE,126.84,"Chemical - Plastics","SIC-2860 Industrial Organic Chemicals","10:35 ET",+14.80%,+56.96%,+46.24%,+85.60%,+29.64%,+34.73
+ZETA,"Zeta Global Holdings Corp Cl A",NYSE,10.97,"Technology Services","SIC-7372 Services-Prepackaged Software","10:34 ET",+17.13%,+24.51%,+89.52%,+77.05%,+206.45%,+19.99
+ZIM,"Zim Integrated Shipping Services Ltd",NYSE,56.5,"Transportation - Ship","SIC-4412 Deep Sea Foreign Transportation of Freight","10:35 ET",+39.91%,+168.78%,+50.54%,+102.57%,"+1,575.85%",+29.16
+"Downloaded from Barchart.com as of 05-02-2022 09:35am CDT"

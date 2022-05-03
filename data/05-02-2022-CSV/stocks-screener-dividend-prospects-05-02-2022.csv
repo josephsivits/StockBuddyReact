@@ -1,0 +1,15 @@
+Symbol,Name,Exchange,Last,Industry,"SIC Description",Time,"Div Payout%","5Y Div%","Cash Flow %(q)","Cash Flow %(a)",Signal,Direction,"1M High Date"
+AIT,"Applied Industrial Technologies",NYSE,104.015,"Machinery - General Industrial","SIC-5080 Wholesale-Machinery, Equipment & Supplies","10:19 ET",22.85%,18.18%,+67.06%,-18.54%,Buy,Average,2022-04-29
+CHMG,"Chemung Financial Cp",NASDAQ,47.48,"Banks - Southeast","SIC-6022 State Commercial Banks",2022-04-29,21.67%,14.42%,+33.41%,+23.73%,Buy,"Top 1%",2022-04-25
+CPB,"Campbell Soup Company",NYSE,47.41,"Food - Misc & Diversified","SIC-2000 Food and Kindred Products","10:35 ET",54.65%,16.80%,+165.97%,-25.86%,Buy,Strongest,2022-04-29
+CVLY,"Codorus Valley Bncp",NASDAQ,23.9,"Banks - Northeast","SIC-6035 Savings Institution, Federally Chartered",2022-04-29,35.77%,25.58%,+11.27%,+133.75%,Buy,Strengthening,2022-04-26
+DDS,Dillard's,NYSE,307.74,"Retail - Regional Dept Stores","SIC-5311 Retail-Department Stores","10:34 ET",35.05%,"5,507.14%",+75.81%,+406.04%,Buy,Strengthening,2022-04-28
+FCFS,"Firstcash Holdings Inc",NASDAQ,78.06,"Financial Transaction Services","SIC-5900 Retail-Miscellaneous Retail","10:35 ET",29.40%,105.26%,+61.99%,+0.47%,Buy,Average,2022-04-29
+GCBC,"Greene County Bncp",NASDAQ,51.9,"Finance - Savings & Loan","SIC-6036 Savings Institutions, Not Federally Chartere","10:32 ET",15.11%,29.73%,+93.62%,+3.85%,Buy,Strongest,2022-04-28
+GPK,"Graphic Packaging Holding Company",NYSE,22.09,"Containers - Paper Products","SIC-2650 Paperboard Containers & Boxes","10:35 ET",26.44%,30.43%,+32.68%,-26.16%,Buy,Strongest,2022-04-29
+JNJ,"Johnson & Johnson",NYSE,180.8,"Large Cap Pharma","SIC-2834 Pharmaceutical Preparations","10:35 ET",42.27%,33.02%,+32.42%,-0.54%,Buy,Average,2022-04-25
+MRTN,"Marten Transport L",NASDAQ,17.63,"Transportation - Truck","SIC-4213 Trucking (No Local)","10:32 ET",59.42%,"1,550.00%",+33.84%,-9.70%,Buy,Average,2022-04-29
+OPOF,"Old Point Finl Cp",NASDAQ,25.99,"Banks - Southeast","SIC-6021 National Commercial Banks",2022-04-29,31.04%,25.00%,+31.63%,+368.29%,Buy,Average,2022-04-26
+ULH,"Universal Logis Holdings",NASDAQ,20.51,"Transportation - Services","SIC-4213 Trucking (No Local)","10:14 ET",13.05%,50.00%,+54.94%,-16.17%,Buy,Average,2022-04-29
+WM,"Waste Management",NYSE,163.02,"Waste Removal Svcs","SIC-4953 Refuse Systems","10:35 ET",47.21%,40.24%,+29.61%,+27.48%,Buy,Average,2022-04-28
+"Downloaded from Barchart.com as of 05-02-2022 09:35am CDT"

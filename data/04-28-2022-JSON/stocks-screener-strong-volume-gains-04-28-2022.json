@@ -1,0 +1,167 @@
+[
+  {
+    "Symbol": "AACI",
+    "Name": "Armada Acquisition Corp I",
+    "Last": 9.86,
+    "Change": 0.01,
+    "%Chg": "+0.10%",
+    "High": 9.88,
+    "Low": 9.85,
+    "Volume": 28800,
+    "Time": "2022-04-27"
+  },
+  {
+    "Symbol": "AGAC",
+    "Name": "African Gold Acquisition Corp Cl A",
+    "Last": 9.82,
+    "Change": 0.01,
+    "%Chg": "+0.10%",
+    "High": 9.82,
+    "Low": 9.8,
+    "Volume": 23200,
+    "Time": "2022-04-27"
+  },
+  {
+    "Symbol": "BON",
+    "Name": "Bon Natural Life Ltd",
+    "Last": 4.77,
+    "Change": 0.23,
+    "%Chg": "+5.07%",
+    "High": 5.16,
+    "Low": 4.42,
+    "Volume": 97866,
+    "Time": "11:14 ET"
+  },
+  {
+    "Symbol": "BWFG",
+    "Name": "Bankwell Financial",
+    "Last": 33.52,
+    "Change": 0.11000000000001,
+    "%Chg": "+0.33%",
+    "High": 33.9548,
+    "Low": 33.39,
+    "Volume": 138927,
+    "Time": "11:29 ET"
+  },
+  {
+    "Symbol": "CDR",
+    "Name": "Cedar Realty Trust Inc",
+    "Last": 28.45,
+    "Change": 0.009999999999998,
+    "%Chg": "+0.04%",
+    "High": 28.53,
+    "Low": 28.45,
+    "Volume": 471990,
+    "Time": "11:30 ET"
+  },
+  {
+    "Symbol": "COOL",
+    "Name": "Corner Growth Acquisition Corp Cl A",
+    "Last": 9.86,
+    "Change": 0.01,
+    "%Chg": "+0.10%",
+    "High": 9.86,
+    "Low": 9.85,
+    "Volume": 184100,
+    "Time": "2022-04-27"
+  },
+  {
+    "Symbol": "ENTF",
+    "Name": "Enterprise 4.0 Technology Acquisition Corp Cl A",
+    "Last": 9.99,
+    "Change": 0.03,
+    "%Chg": "+0.30%",
+    "High": 9.99,
+    "Low": 9.95,
+    "Volume": 522600,
+    "Time": "2022-04-27"
+  },
+  {
+    "Symbol": "ESBK",
+    "Name": "Elmira Sav Bk",
+    "Last": 23.04,
+    "Change": -0.029900000000001,
+    "%Chg": "-0.13%",
+    "High": 23.04,
+    "Low": 23.04,
+    "Volume": 1550,
+    "Time": "11:12 ET"
+  },
+  {
+    "Symbol": "FSNB",
+    "Name": "Fusion Acquisition Corp II Cl A",
+    "Last": 9.8,
+    "Change": 0.01,
+    "%Chg": "+0.10%",
+    "High": 9.8,
+    "Low": 9.79,
+    "Volume": 2337200,
+    "Time": "2022-04-27"
+  },
+  {
+    "Symbol": "IDAI",
+    "Name": "T Stamp Inc",
+    "Last": 5.64,
+    "Change": 3.54,
+    "%Chg": "+168.57%",
+    "High": 8.0499,
+    "Low": 5.28,
+    "Volume": 46045240,
+    "Time": "11:29 ET"
+  },
+  {
+    "Symbol": "LYTS",
+    "Name": "L S I Industries",
+    "Last": 6.7899,
+    "Change": 0.9399,
+    "%Chg": "+16.07%",
+    "High": 6.97,
+    "Low": 6.575,
+    "Volume": 148314,
+    "Time": "11:15 ET"
+  },
+  {
+    "Symbol": "PHYT",
+    "Name": "Pyrophyte Acquisition Corp Cl A",
+    "Last": 10.03,
+    "Change": 0.02,
+    "%Chg": "+0.16%",
+    "High": 10.03,
+    "Low": 10.01,
+    "Volume": 44400,
+    "Time": "2022-04-27"
+  },
+  {
+    "Symbol": "TRAQ",
+    "Name": "Trine II Acquisition Corp Cl A",
+    "Last": 9.96,
+    "Change": 0.02,
+    "%Chg": "+0.20%",
+    "High": 9.96,
+    "Low": 9.95,
+    "Volume": 500500,
+    "Time": "2022-04-26"
+  },
+  {
+    "Symbol": "TSIB",
+    "Name": "Tishman Speyer Innovation Corp II Cl A",
+    "Last": 9.84,
+    "Change": 0.029999999999999,
+    "%Chg": "+0.31%",
+    "High": 9.81,
+    "Low": 9.8,
+    "Volume": 152300,
+    "Time": "2022-04-28"
+  },
+  {
+    "Symbol": "Downloaded from Barchart.com as of 04-28-2022 10:30am CDT",
+    "Name": "",
+    "Last": "",
+    "Change": "",
+    "%Chg": "",
+    "High": "",
+    "Low": "",
+    "Volume": "",
+    "Time": ""
+  }
+]

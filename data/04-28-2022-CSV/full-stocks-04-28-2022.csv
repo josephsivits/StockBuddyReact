@@ -1,0 +1,1001 @@
+Symbol,Name,Exchange,Last,Industry,SIC Description,Time
+BRK.A,Berkshire Hathaway Cl A,NYSE,499000,Insurance - Proprty & Casualty,N/A,4/28/2022
+NVR,NVR Inc,NYSE,4492.8101,Building - Residential & Comm,SIC-1531 Operative Builders,4/28/2022
+AMZN,Amazon.com Inc,NASDAQ,2891.93,Internet Commerce,SIC-5961 Retail-Catalog & Mail-Order Houses,4/28/2022
+GOOG,Alphabet Cl C,NASDAQ,2388.23,Internet - Services,"SIC-7370 Services-Computer Programming, Data Processi",4/28/2022
+GOOGL,Alphabet Cl A,NASDAQ,2370.45,Internet - Services,"SIC-7370 Services-Computer Programming, Data Processi",4/28/2022
+BKNG,Booking Holdings Inc,NASDAQ,2317.8,Internet Commerce,SIC-4700 Transportation Services,4/28/2022
+AZO,Autozone,NYSE,2014.4399,Retail - Wholesale Auto Parts,SIC-5531 Retail-Auto & Home Supply Stores,4/28/2022
+CMG,Chipotle Mexican Grill,NYSE,1500.8199,Retail - Restaurants,SIC-5812 Retail-Eating Places,4/28/2022
+MKL,Markel Corp,NYSE,1397.83,Insurance - Proprty & Casualty,"SIC-6331 Fire, Marine & Casualty Insurance",4/28/2022
+TPL,Texas Pacific Land Trust,NYSE,1375.98,Other Alt Energy,SIC-6792 Oil Royalty Traders,4/28/2022
+MTD,Mettler-Toledo International,NYSE,1293.51,Industrial Scientific,SIC-3826 Laboratory Analytical Instruments,4/28/2022
+CABO,Cable One Inc,NYSE,1252.39,Cable TV,SIC-4841 Cable & Other Pay Television Services,4/28/2022
+WTM,White Mountains Insurance Group,NYSE,1071.9301,Insurance - Proprty & Casualty,"SIC-6331 Fire, Marine & Casualty Insurance",4/28/2022
+MELI,Mercadolibre Inc,NASDAQ,1040,Internet Commerce,"SIC-7389 Services-Business Services, NEC",4/28/2022
+TSLA,Tesla Inc,NASDAQ,877.51,Auto - Domestic,SIC-3711 Motor Vehicles & Passenger Car Bodies,4/28/2022
+Y,Alleghany Corp,NYSE,841.69,Insurance - Proprty & Casualty,"SIC-6331 Fire, Marine & Casualty Insurance",4/28/2022
+EQIX,Equinix Inc,NASDAQ,756.45,REIT - Equity Trust Retail,SIC-6798 Real Estate Investment Trusts,4/28/2022
+BH.A,Biglari Holdings Inc Cl A,NYSE,697.5,Retail - Restaurants,N/A,4/26/2022
+REGN,Regeneron Pharmaceuticals,NASDAQ,675.58,Medical - Biomedical,SIC-2834 Pharmaceutical Preparations,4/28/2022
+FCNCA,First Citizens Bancs,NASDAQ,664.66,Banks - Southeast,SIC-6022 State Commercial Banks,4/28/2022
+ATRI,Atrion Corp,NASDAQ,652.9,Medical - Dental Suppliers,SIC-3841 Surgical & Medical Instruments & Apparatus,4/28/2022
+ORLY,O'Reilly Automotive,NASDAQ,623.28,Retail - Wholesale Auto Parts,SIC-5531 Retail-Auto & Home Supply Stores,4/28/2022
+TDG,Transdigm Group Inc,NYSE,618.83,Aerospace - Defense Equipment,"SIC-3728 Aircraft Parts & Auxiliary Equipment, NEC",4/28/2022
+GHC,Graham Holdings Company,NYSE,606.28,Schools,SIC-8200 Services-Educational Services,4/28/2022
+ASML,Asml Holdings NY Reg ADR,NASDAQ,590.54,Semi-Eqpt Wafer Fabrication,"SIC-3559 Special Industry Machinery, NEC",4/28/2022
+PANW,Palo Alto Networks Inc,NASDAQ,588.74,Security,"SIC-3577 Computer Peripheral Equipment, NEC",4/28/2022
+AVGO,Broadcom Ltd,NASDAQ,578.94,Electronics - Semiconductors,SIC-3674 Semiconductors & Related Devices,4/28/2022
+COST,Costco Wholesale,NASDAQ,562,Retail - Discount,SIC-5331 Retail-Variety Stores,4/28/2022
+TMO,Thermo Fisher Scientific Inc,NYSE,558.89,Medical Instruments,"SIC-3829 Measuring & Controlling Devices, NEC",4/28/2022
+UHAL,A M E R C O,NASDAQ,546.68,Transportation - Equip & Lease,SIC-7510 Services-Auto Rental & Leasing (No Drivers),4/28/2022
+CACC,Credit Acceptance,NASDAQ,537.85,Finance - Consumer Loans,SIC-6141 Personal Credit Institutions,4/28/2022
+UNH,Unitedhealth Group Inc,NYSE,524.42,Medical - HMO,SIC-6324 Hospital & Medical Service Plans,4/28/2022
+ANTM,Anthem Inc,NYSE,516.74,Medical - HMO,SIC-6324 Hospital & Medical Service Plans,4/28/2022
+SIVB,Svb Financial Group,NASDAQ,515.32,Banks - West,SIC-6022 State Commercial Banks,4/28/2022
+GWW,W.W. Grainger,NYSE,514.93,Industrial Services,SIC-5000 Wholesale-Durable Goods,4/28/2022
+BIO,Bio-Rad Laboratories,NYSE,513.11,Medical Products,SIC-3826 Laboratory Analytical Instruments,4/28/2022
+BIO.B,Bio Rad Labs Cl B,NYSE,507.99,Medical - Biomedical,N/A,4/27/2022
+NOW,Servicenow Inc,NYSE,504.02,IT Services,SIC-7372 Services-Prepackaged Software,4/28/2022
+CHE,Chemed Inc,NYSE,499.51,Medical - Outpatient & Hm Care,SIC-8082 Services-Home Health Care Services,4/28/2022
+LRCX,Lam Research Corp,NASDAQ,484.49,Semi-Eqpt Wafer Fabrication,"SIC-3559 Special Industry Machinery, NEC",4/28/2022
+ROP,Roper Industries,NYSE,483.39,Machinery - General Industrial,"SIC-3823 Industrial Instruments For Measurement, Disp",4/28/2022
+CHTR,Charter Communicatio,NASDAQ,461.49,Cable TV,SIC-4841 Cable & Other Pay Television Services,4/28/2022
+COKE,Coca Cola Bot Cons,NASDAQ,461,Beverages - Soft,SIC-2086 Bottled & Canned Soft Drinks & Carbonated Wa,4/28/2022
+HUM,Humana Inc,NYSE,458.99,Medical - HMO,SIC-6324 Hospital & Medical Service Plans,4/28/2022
+TDY,Teledyne Technologies Inc,NYSE,452.89,Aerospace - Defense Equipment,"SIC-3812 Search, Detection, Navigation, Guidance, Aer",4/28/2022
+IDXX,Idexx Laboratories,NASDAQ,448.35,Medical Instruments,SIC-2835 In Vitro & In Vivo Diagnostic Substances,4/28/2022
+NOC,Northrop Grumman Corp,NYSE,445.17,Aerospace - Defense,"SIC-3812 Search, Detection, Navigation, Guidance, Aer",4/28/2022
+INTU,Intuit Inc,NASDAQ,444.58,Computer - Software,SIC-7372 Services-Prepackaged Software,4/28/2022
+SHOP,Shopify Inc,NYSE,443.28,Internet - Services,SIC-7372 Services-Prepackaged Software,4/28/2022
+LMT,Lockheed Martin Corp,NYSE,441.71,Aerospace - Defense,SIC-3760 Guided Missiles & Space Vehicles & Parts,4/28/2022
+MSCI,MSCI Inc,NYSE,433.38,Business Software Services,"SIC-7389 Services-Business Services, NEC",4/28/2022
+FDS,Factset Research Systems Inc,NYSE,419.37,Business Information,"SIC-7370 Services-Computer Programming, Data Processi",4/28/2022
+POOL,Pool Corp,NASDAQ,417.66,Leisure & Recreational Prdcts,SIC-5090 Wholesale-Misc Durable Goods,4/28/2022
+ULTA,Ulta Beauty Inc,NASDAQ,417.42,Retail - Misc & Diversified,"SIC-5990 Retail-Retail Stores, NEC",4/28/2022
+DXCM,Dexcom,NASDAQ,413.23,Medical Instruments,SIC-3841 Surgical & Medical Instruments & Apparatus,4/28/2022
+MPWR,Monolithic Power Sys,NASDAQ,412.49,Semi Analog & Mixed,SIC-3674 Semiconductors & Related Devices,4/28/2022
+CTAS,Cintas Corp,NASDAQ,410.7,Uniform & Related,"SIC-2320 Mens & Boys Furnishings, Work Clothg, & Alli",4/28/2022
+ADBE,Adobe Systems Inc,NASDAQ,410.53,Computer - Software,SIC-7372 Services-Prepackaged Software,4/28/2022
+TYL,Tyler Technologies,NYSE,403.66,Business Software Services,SIC-7372 Services-Prepackaged Software,4/28/2022
+MSTR,Microstrategy Cl A,NASDAQ,400.49,Computer - Software,SIC-7372 Services-Prepackaged Software,4/28/2022
+PSA,Public Storage,NYSE,398.97,REIT - Equity Trust Other,SIC-6798 Real Estate Investment Trusts,4/28/2022
+HUBS,Hubspot Inc,NYSE,398.48,Internet - Software,SIC-7372 Services-Prepackaged Software,4/28/2022
+TECH,Bio-Techne Cp,NASDAQ,386.89,Medical - Biomedical,"SIC-2836 Biological Products, (No Disgnostic Substanc",4/28/2022
+SPGI,S&P Global Inc,NYSE,386.55,Business Information,"SIC-7320 Services-Consumer Credit Reporting, Collecti",4/28/2022
+FICO,Fair Isaac and Company,NYSE,385.38,IT Services,"SIC-7389 Services-Business Services, NEC",4/28/2022
+DE,Deere & Company,NYSE,384.82,Machinery - Farm,SIC-3523 Farm Machinery & Equipment,4/28/2022
+ZBRA,Zebra Technologies,NASDAQ,382.98,Machinery - Thermal Processing,SIC-3560 General Industrial Machinery & Equipment,4/28/2022
+MA,Mastercard Inc,NYSE,378.83,Financial Transaction Services,"SIC-7389 Services-Business Services, NEC",4/28/2022
+MDB,Mongodb Inc Cl A,NASDAQ,377.65,Internet - Software,SIC-7372 Services-Prepackaged Software,4/28/2022
+SAM,Boston Beer Company,NYSE,377.22,Beverages - Alcohol,SIC-2082 Malt Beverages,4/28/2022
+COO,Cooper Companies,NYSE,373.16,Medical - Dental Suppliers,SIC-3851 Ophthalmic Goods,4/28/2022
+MLM,Martin Marietta Materials,NYSE,365.86,Building - CMT & CNT & AG,SIC-1400 Mining & Quarrying of Nonmetallic Minerals (,4/28/2022
+LULU,Lululemon Athletica,NASDAQ,362.43,Textile - Apparel,SIC-2300 Apparel & Other Finished Prods of Fabrics &,4/28/2022
+SBAC,SBA Communications,NASDAQ,359.24,REIT - Equity Trust Other,SIC-6798 Real Estate Investment Trusts,4/28/2022
+DPZ,Domino's Pizza Inc,NYSE,353.88,Retail - Restaurants,SIC-5140 Wholesale-Groceries & Related Products,4/28/2022
+RH,Restoration Hardware Holdings,NYSE,353,Retail - Home Furniture,SIC-5712 Retail-Furniture Stores,4/28/2022
+ESS,Essex Property Trust,NYSE,345.11,REIT - Equity Trust Resident,SIC-6798 Real Estate Investment Trusts,4/28/2022
+KLAC,K L A-Tencor Corp,NASDAQ,332.76,Electronics Products - Misc,SIC-3827 Optical Instruments & Lenses,4/28/2022
+NEU,Newmarket Corp,NYSE,331.98,Chemical - Specialty,SIC-2860 Industrial Organic Chemicals,4/28/2022
+BRK.B,Berkshire Hathaway Cl B,NYSE,331.27,Insurance - Proprty & Casualty,"SIC-6331 Fire, Marine & Casualty Insurance",4/28/2022
+HIFS,Hingham Inst For Svg,NASDAQ,329.05,Banks - Northeast,"SIC-6036 Savings Institutions, Not Federally Chartere",4/28/2022
+MCO,Moody's Corp,NYSE,326.6,Finance - Misc Services,"SIC-7320 Services-Consumer Credit Reporting, Collecti",4/28/2022
+WST,West Pharmaceutical Services,NYSE,325.36,Medical - Dental Suppliers,"SIC-3060 Fabricated Rubber Products, NEC",4/28/2022
+MCK,Mckesson Corp,NYSE,320.6,Medical - Dental Suppliers,"SIC-5122 Wholesale-Drugs, Proprietaries & Druggists",4/28/2022
+URI,United Rentals,NYSE,318.5,Building & Construction - Misc,"SIC-7359 Services-Equipment Rental & Leasing, NEC",4/28/2022
+GS,Goldman Sachs Group,NYSE,318.41,Finance - Investment Brokers,"SIC-6211 Security Brokers, Dealers & Flotation Compan",4/28/2022
+AON,AON Plc,NYSE,318,Insurance - Brokers,"SIC-6411 Insurance Agents, Brokers & Service",4/28/2022
+MOH,Molina Healthcare Inc,NYSE,315.38,Medical - HMO,SIC-6324 Hospital & Medical Service Plans,4/28/2022
+LIN,Linde Plc,NYSE,315.19,Oil - Field Services,SIC-2810 Industrial Inorganic Chemicals,4/28/2022
+ACN,Accenture Plc,NYSE,313.84,Consulting,"SIC-7389 Services-Business Services, NEC",4/28/2022
+HD,Home Depot,NYSE,311.76,Building Prds Retail - Wsale,SIC-5211 Retail-Lumber & Other Building Materials Dea,4/28/2022
+FTNT,Fortinet Inc,NASDAQ,308.65,Security,"SIC-3577 Computer Peripheral Equipment, NEC",4/28/2022
+DDS,Dillard's,NYSE,307.96,Retail - Regional Dept Stores,SIC-5311 Retail-Department Stores,4/28/2022
+WAT,Waters Corp,NYSE,306.12,Industrial Scientific,SIC-3826 Laboratory Analytical Instruments,4/28/2022
+ALGN,Align Technology,NASDAQ,304.66,Medical - Dental Suppliers,"SIC-3842 Orthopedic, Prosthetic & Surgical Appliances",4/28/2022
+ILMN,Illumina Inc,NASDAQ,303.06,Medical - Biomedical,SIC-3826 Laboratory Analytical Instruments,4/28/2022
+SNPS,Synopsys Inc,NASDAQ,301.86,Computer - Software,SIC-7372 Services-Prepackaged Software,4/28/2022
+IT,Gartner Inc,NYSE,298.57,Consulting,SIC-8741 Services-Management Services,4/28/2022
+LLY,Eli Lilly and Company,NYSE,297.27,Large Cap Pharma,SIC-2834 Pharmaceutical Preparations,4/28/2022
+TFX,Teleflex Inc,NYSE,295.5,Medical Instruments,SIC-3841 Surgical & Medical Instruments & Apparatus,4/28/2022
+PAYC,Paycom Software Inc,NYSE,295.34,Internet - Software,SIC-7372 Services-Prepackaged Software,4/28/2022
+ODFL,Old Dominion Freight Line Inc,NASDAQ,292.26,Transportation - Truck,SIC-4213 Trucking (No Local),4/28/2022
+MSFT,Microsoft Corp,NASDAQ,289.63,Computer - Software,SIC-7372 Services-Prepackaged Software,4/28/2022
+UI,Ubiquiti Networks,NYSE,289.36,Wireless Equipment,SIC-3663 Radio & Tv Broadcasting & Communications Equ,4/28/2022
+ARGX,Argenx Se ADR,NASDAQ,287.93,Medical - Biomedical,"SIC-2836 Biological Products, (No Disgnostic Substanc",4/28/2022
+ANSS,Ansys Inc,NASDAQ,287.31,Computer - Software,SIC-7372 Services-Prepackaged Software,4/28/2022
+ABMD,Abiomed Inc,NASDAQ,287.22,Medical Instruments,SIC-3841 Surgical & Medical Instruments & Apparatus,4/28/2022
+LAD,Lithia Motors,NYSE,286.95,Retail - Wsale Auto & Trucks,SIC-5500 Retail-Auto Dealers & Gasoline Stations,4/28/2022
+RE,Everest Re Group,NYSE,282.66,Insurance - Proprty & Casualty,"SIC-6331 Fire, Marine & Casualty Insurance",4/28/2022
+SHW,Sherwin-Williams Company,NYSE,281.31,Paint & Related Products,"SIC-5200 Retail-Building Materials, Hardware, Garden",4/28/2022
+EPAM,Epam Systems Inc,NYSE,281,IT Services,SIC-7371 Services-Computer Programming Services,4/28/2022
+WSO,Watsco Inc,NYSE,279.54,Building Prdcts - Air Heating,SIC-5070 Wholesale-Hardware & Plumbing & Heating Equi,4/28/2022
+PH,Parker-Hannifin Corp,NYSE,276.36,Machinery - General Industrial,SIC-3490 Miscellaneous Fabricated Metal Products,4/28/2022
+DECK,Deckers Outdoor Corp,NYSE,273.32,Shoes and Related Apparel,SIC-3021 Rubber & Plastics Footwear,4/28/2022
+CAR,Avis Budget Group,NASDAQ,273.05,Business Services,SIC-7510 Services-Auto Rental & Leasing (No Drivers),4/28/2022
+ROG,Rogers Corp,NYSE,272.5,Electronics - Misc Components,"SIC-2821 Plastic Materials, Synth Resins & Nonvulcan",4/28/2022
+EL,Estee Lauder Companies,NYSE,272.33,Cosmetics & Toiletries,"SIC-2844 Perfumes, Cosmetics & Other Toilet Preparati",4/28/2022
+MKTX,Marketaxess Holdings,NASDAQ,271.53,Securities Exchanges,"SIC-6211 Security Brokers, Dealers & Flotation Compan",4/28/2022
+COHR,Coherent Inc,NASDAQ,270.24,Semi-Eqpt Wafer Companies,SIC-3826 Laboratory Analytical Instruments,4/28/2022
+STZ.B,Constellation Brd Cl B,NYSE,269.66,Beverages - Alcohol,N/A,4/28/2022
+VRTX,Vertex Pharmaceutic,NASDAQ,268.64,Medical - Biomedical,SIC-2834 Pharmaceutical Preparations,4/28/2022
+CACI,Caci International,NYSE,268.37,Computer - Services,SIC-7373 Services-Computer Integrated Systems Design,4/28/2022
+MORN,Morningstar Inc,NASDAQ,268.31,Business Information,SIC-6282 Investment Advice,4/28/2022
+DJCO,Daily Journal Cp,NASDAQ,267.4,Publishing - Newspapers,SIC-2711 Newspapers: Publishing or Publishing & Print,4/28/2022
+NSC,Norfolk Southern Corp,NYSE,265.85,Transportation - Rail,"SIC-4011 Railroads, Line-Haul Operating",4/28/2022
+ROK,Rockwell Automation Inc,NYSE,263.35,Industrial Robotics,"SIC-3829 Measuring & Controlling Devices, NEC",4/28/2022
+TEAM,Atlassian Cls A Ord,NASDAQ,259.98,Internet - Software,SIC-7372 Services-Prepackaged Software,4/28/2022
+FLT,Fleetcor Technologies,NYSE,259.07,Financial Transaction Services,"SIC-7389 Services-Business Services, NEC",4/28/2022
+MTN,Vail Resorts,NYSE,258.03,Leisure & Recreation Services,SIC-7990 Services-Miscellaneous Amusement & Recreatio,4/28/2022
+DHR,Danaher Corp,NYSE,257,Conglomerates - Div Operations,"SIC-3823 Industrial Instruments For Measurement, Disp",4/28/2022
+ALX,Alexander's Inc,NYSE,256.99,REIT - Equity Trust Other,SIC-6798 Real Estate Investment Trusts,4/28/2022
+SEDG,Solaredge Tech,NASDAQ,254.41,Solar,SIC-3674 Semiconductors & Related Devices,4/28/2022
+CI,Cigna Corp,NYSE,254.24,Insurance - Multi Line,SIC-6324 Hospital & Medical Service Plans,4/28/2022
+MCD,McDonald's Corp,NYSE,254.19,Retail - Restaurants,SIC-5812 Retail-Eating Places,4/28/2022
+BDX,Becton Dickinson and Company,NYSE,253.16,Medical - Dental Suppliers,SIC-3841 Surgical & Medical Instruments & Apparatus,4/28/2022
+VMI,Valmont Industries,NYSE,252.47,Steel - Pipe & Tube,SIC-3440 Fabricated Structural Metal Products,4/28/2022
+AMT,American Tower Corp,NYSE,252.18,REIT - Equity Trust Other,SIC-6798 Real Estate Investment Trusts,4/28/2022
+SYK,Stryker Corp,NYSE,252.1,Medical Products,SIC-3841 Surgical & Medical Instruments & Apparatus,4/28/2022
+SBNY,Signature Bank,NASDAQ,251.54,Banks - Northeast,SIC-6022 State Commercial Banks,4/28/2022
+STZ,Constellation Brands Inc,NYSE,250.18,Beverages - Alcohol,SIC-2080 Beverages,4/28/2022
+CSL,Carlisle Companies Inc,NYSE,249.93,Conglomerates - Div Operations,"SIC-3060 Fabricated Rubber Products, NEC",4/28/2022
+DG,Dollar General Corp,NYSE,246.58,Retail - Discount,SIC-5331 Retail-Variety Stores,4/28/2022
+ISRG,Intuitive Surg Inc,NASDAQ,243.26,Medical Instruments,"SIC-3842 Orthopedic, Prosthetic & Surgical Appliances",4/28/2022
+CRL,Charles River Laboratories Intl,NYSE,242.17,Medical Services,SIC-8731 Services-Commercial Physical & Biological Re,4/28/2022
+GD,General Dynamics Corp,NYSE,241.2,Aerospace - Defense,SIC-3730 Ship & Boat Building & Repairing,4/28/2022
+LH,Laboratory Corp of America Holdings,NYSE,240.66,Medical - Dental Suppliers,SIC-8071 Services-Medical Laboratories,4/28/2022
+APD,Air Products and Chemicals,NYSE,240.48,Chemical - Diversified,SIC-2810 Industrial Inorganic Chemicals,4/28/2022
+AVB,Avalonbay Communities,NYSE,239.5,REIT - Equity Trust Resident,SIC-6798 Real Estate Investment Trusts,4/28/2022
+UNP,Union Pacific Corp,NYSE,239.25,Transportation - Rail,"SIC-4011 Railroads, Line-Haul Operating",4/28/2022
+LHX,L3Harris Technologies Inc,NYSE,239.09,Aerospace - Defense,"SIC-3812 Search, Detection, Navigation, Guidance, Aer",4/28/2022
+CVCO,Cavco Inds Inc,NASDAQ,239.04,Building - Mobile Homes & RV,SIC-2451 Mobile Homes,4/28/2022
+MUSA,Murphy USA Inc,NYSE,238.35,Oil - Refining and Marketing,SIC-5500 Retail-Auto Dealers & Gasoline Stations,4/28/2022
+AMGN,Amgen Inc,NASDAQ,238.13,Medical - Biomedical,"SIC-2836 Biological Products, (No Disgnostic Substanc",4/28/2022
+PODD,Insulet Corp,NASDAQ,237.96,Medical Products,SIC-3841 Surgical & Medical Instruments & Apparatus,4/28/2022
+TGT,Target Corp,NYSE,236.39,Retail - Discount,SIC-5331 Retail-Variety Stores,4/28/2022
+ESGR,Enstar Group Ltd,NASDAQ,235.19,Insurance - Multi Line,"SIC-6331 Fire, Marine & Casualty Insurance",4/28/2022
+PXD,Pioneer Natural Resources Company,NYSE,234.98,Oil - US Exploration & Product,SIC-1311 Crude Petroleum & Natural Gas,4/28/2022
+GNRC,Generac Holdings Inc,NYSE,233.32,Electrical Power,SIC-3621 Motors & Generators,4/28/2022
+STE,Steris Corp,NYSE,231.73,Medical Instruments,"SIC-3842 Orthopedic, Prosthetic & Surgical Appliances",4/28/2022
+LFUS,Littelfuse Inc,NASDAQ,231.64,Electronics - Misc Components,SIC-3613 Switchgear & Switchboard Apparatus,4/28/2022
+KNSL,Kinsale Capital Group Inc,NYSE,231,Insurance - Proprty & Casualty,"SIC-6331 Fire, Marine & Casualty Insurance",4/28/2022
+ADP,Automatic Data Procs,NASDAQ,229.68,Outsourcing,SIC-7374 Services-Computer Processing & Data Preparat,4/28/2022
+WTW,Willis Towers Watson Public Ltd CO,NASDAQ,228.9,Insurance - Brokers,"SIC-6411 Insurance Agents, Brokers & Service",4/28/2022
+HSY,Hershey Foods Corp,NYSE,227.98,Food - Confectionery,SIC-2060 Sugar & Confectionery Products,4/28/2022
+CME,CME Group Inc,NASDAQ,225.72,Securities Exchanges,"SIC-6200 Security & Commodity Brokers, Dealers, Excha",4/28/2022
+JLL,Jones Lang Lasalle Inc,NYSE,225.25,Real Estate Operations,SIC-6531 Real Estate Agents & Managers (For Others),4/28/2022
+ICLR,Icon Plc,NASDAQ,225.05,Medical Services,SIC-8731 Services-Commercial Physical & Biological Re,4/28/2022
+MSI,Motorola Solutions,NYSE,223.16,Wireless Equipment,SIC-3663 Radio & Tv Broadcasting & Communications Equ,4/28/2022
+LII,Lennox International,NYSE,222.99,Building Prdcts - Air Heating,SIC-3585 Air-Cond & Warm Air Heatg Equip & Comm & Ind,4/28/2022
+ASR,Grupo Aeroportuario Del Sureste ADR,NYSE,221,Transportation - Services,"SIC-4581 Airports, Flying Fields & Airport Terminal S",4/28/2022
+V,Visa Inc,NYSE,220.66,Financial Transaction Services,"SIC-7389 Services-Business Services, NEC",4/28/2022
+NDSN,Nordson Corp,NASDAQ,220.64,Machinery - General Industrial,"SIC-3569 General Industrial Machinery & Equipment, NE",4/28/2022
+SNA,Snap-On Inc,NYSE,220.24,Tools - Hand Held,"SIC-3420 Cutlery, Handtools & General Hardware",4/28/2022
+HELE,Helen of Troy Ltd,NASDAQ,219.86,Cosmetics & Toiletries,SIC-3634 Electric Housewares & Fans,4/28/2022
+GLOB,Globant S.A.,NYSE,219.58,Internet Software Services,SIC-7374 Services-Computer Processing & Data Preparat,4/28/2022
+IQV,Iqvia Holdings Inc,NYSE,219.4,Technology Services,SIC-8731 Services-Commercial Physical & Biological Re,4/28/2022
+HCA,Hca Holdings Inc,NYSE,218.94,Medical - Hospitals,SIC-8062 Services-General Medical & Surgical Hospital,4/28/2022
+ESLT,Elbit Systems Ltd,NASDAQ,218.47,Aerospace - Defense Equipment,"SIC-3728 Aircraft Parts & Auxiliary Equipment, NEC",4/28/2022
+HII,Huntington Ingalls Industries,NYSE,218.08,Aerospace - Defense,SIC-3730 Ship & Boat Building & Repairing,4/28/2022
+ICUI,I C U Medical Inc,NASDAQ,217.5,Medical Products,SIC-3841 Surgical & Medical Instruments & Apparatus,4/28/2022
+MLAB,Mesa Labs Inc,NASDAQ,217.08,Medical Instruments,"SIC-3823 Industrial Instruments For Measurement, Disp",4/28/2022
+WDAY,Workday Inc,NASDAQ,215.46,Internet - Software,SIC-7374 Services-Computer Processing & Data Preparat,4/28/2022
+RACE,Ferrari N.V.,NYSE,214.04,Auto - Truck Original Parts,SIC-3711 Motor Vehicles & Passenger Car Bodies,4/28/2022
+ZS,Zscaler Inc,NASDAQ,213.59,Internet - Services,SIC-7371 Services-Computer Programming Services,4/28/2022
+BURL,Burlington Stores Inc,NYSE,213.54,Retail - Discount,SIC-5311 Retail-Department Stores,4/28/2022
+RMD,Resmed Inc,NYSE,213.51,Medical Products,SIC-3841 Surgical & Medical Instruments & Apparatus,4/28/2022
+SAIA,Saia Inc,NASDAQ,212.72,Transportation - Truck,SIC-4213 Trucking (No Local),4/28/2022
+VRSK,Verisk Analytics Inc,NASDAQ,212.69,Business Information,SIC-7374 Services-Computer Processing & Data Preparat,4/28/2022
+CAT,Caterpillar Inc,NYSE,212.44,Machinery - Construct & Mining,SIC-3531 Construction Machinery & Equip,4/28/2022
+INSP,Inspire Medical Systems Inc,NYSE,211.29,Medical Information Systems,SIC-3841 Surgical & Medical Instruments & Apparatus,4/28/2022
+CB,Chubb Ltd,NYSE,211.17,Insurance - Proprty & Casualty,"SIC-6331 Fire, Marine & Casualty Insurance",4/28/2022
+BIIB,Biogen Inc,NASDAQ,210.41,Medical - Biomedical,"SIC-2836 Biological Products, (No Disgnostic Substanc",4/28/2022
+CHDN,Churchill Downs IN,NASDAQ,209.88,Gaming,"SIC-7948 Services-Racing, Including Track Operation",4/28/2022
+AAP,Advance Auto Parts Inc,NYSE,209.39,Retail - Wholesale Auto Parts,SIC-5531 Retail-Auto & Home Supply Stores,4/28/2022
+WINA,Winmark Corp,NASDAQ,208.69,Retail - Misc & Diversified,SIC-5900 Retail-Miscellaneous Retail,4/28/2022
+NICE,Nice Ltd ADR,NASDAQ,208.61,Internet - Software,SIC-7372 Services-Prepackaged Software,4/28/2022
+TSCO,Tractor Supply Company,NASDAQ,208.48,Retail - Misc & Diversified,"SIC-5200 Retail-Building Materials, Hardware, Garden",4/28/2022
+VRSN,Verisign Inc,NASDAQ,208.42,Internet Software Services,SIC-7371 Services-Computer Programming Services,4/28/2022
+EXR,Extra Space Storage Inc,NYSE,208.04,REIT - Equity Trust Other,SIC-6798 Real Estate Investment Trusts,4/28/2022
+CRWD,Crowdstrike Holdings Inc,NASDAQ,207.06,Internet - Software,SIC-7372 Services-Prepackaged Software,4/28/2022
+FDX,Fedex Corp,NYSE,206.85,Transportation - Air Freight,SIC-4513 Air Courier Services,4/28/2022
+CASY,Casey's General Stor,NASDAQ,206.73,Retail - Convenience Stores,SIC-5500 Retail-Auto Dealers & Gasoline Stations,4/28/2022
+EFX,Equifax Inc,NYSE,206.33,Financial Transaction Services,"SIC-7320 Services-Consumer Credit Reporting, Collecti",4/28/2022
+MAA,Mid-America Apartment Communities,NYSE,206.13,REIT - Equity Trust Resident,SIC-6798 Real Estate Investment Trusts,4/28/2022
+EGP,Eastgroup Properties,NYSE,205.76,REIT - Equity Trust Other,SIC-6798 Real Estate Investment Trusts,4/28/2022
+FB,Meta Platforms Inc,NASDAQ,205.73,Internet - Software,"SIC-7370 Services-Computer Programming, Data Processi",4/28/2022
+LOW,Lowe's Companies,NYSE,205.14,Building Prds Retail - Wsale,SIC-5211 Retail-Lumber & Other Building Materials Dea,4/28/2022
+HUBB,Hubbell Inc B,NYSE,203.71,Machinery - Elect Utilities,SIC-3670 Electronic Components & Accessories,4/28/2022
+ITW,Illinois Tool Works Inc,NYSE,202.72,Machinery - General Industrial,SIC-3560 General Industrial Machinery & Equipment,4/28/2022
+NWLI,Natl Wstrn Life Gp A,NASDAQ,202.5,Insurance - Life,SIC-6311 Life Insurance,4/28/2022
+DEO,Diageo Plc ADR,NYSE,201.65,Beverages - Alcohol,SIC-2080 Beverages,4/28/2022
+NFLX,Netflix Inc,NASDAQ,199.52,Broadcast - Radio & TV,SIC-7841 Services-Video Tape Rental,4/28/2022
+RS,Reliance Steel & Aluminum Company,NYSE,199.13,Metal Products - Distribution,SIC-5051 Wholesale-Metals Service Centers & offices,4/28/2022
+NVDA,Nvidia Corp,NASDAQ,197.82,Semi General,SIC-3674 Semiconductors & Related Devices,4/28/2022
+PCTY,Paylocity Holdings Corp,NASDAQ,197.03,Internet - Software,SIC-7372 Services-Prepackaged Software,4/28/2022
+IEX,Idex Corp,NYSE,195.94,Machinery - General Industrial,SIC-3561 Pumps & Pumping Equipment,4/28/2022
+ADSK,Autodesk Inc,NASDAQ,195.84,Computer - Software,SIC-7372 Services-Prepackaged Software,4/28/2022
+ALB,Albemarle Corp,NYSE,195.26,Chemical - Diversified,"SIC-2821 Plastic Materials, Synth Resins & Nonvulcan",4/28/2022
+JKHY,Jack Henry & Assoc,NASDAQ,194.63,Electronic Misc Services,SIC-7373 Services-Computer Integrated Systems Design,4/28/2022
+CMI,Cummins Inc,NYSE,194.48,Engines - Internal Combustion,SIC-3510 Engines & Turbines,4/28/2022
+LPLA,Lpl Financial Holdings,NASDAQ,193.23,Finance - Investment Brokers,"SIC-6200 Security & Commodity Brokers, Dealers, Excha",4/28/2022
+CCI,Crown Castle International Corp,NYSE,192.07,REIT - Equity Trust Other,SIC-6798 Real Estate Investment Trusts,4/28/2022
+WRLD,World Acceptance Cp,NASDAQ,191.7,Finance - Consumer Loans,SIC-6141 Personal Credit Institutions,4/28/2022
+SAFM,Sanderson Farms IN,NASDAQ,191.41,Food - Meat Products,SIC-2015 Poultry Slaughtering and Processing,4/28/2022
+ARE,Alexandria Real Estate Equities,NYSE,190.44,REIT - Equity Trust Other,SIC-6798 Real Estate Investment Trusts,4/28/2022
+UPS,United Parcel Service,NYSE,190.16,Transportation - Air Freight,SIC-4210 Trucking & Courier Services (No Air),4/28/2022
+ITIC,Investors Title Company,NASDAQ,189.95,Insurance - Proprty & Casualty,SIC-6361 Title Insurance,4/28/2022
+HON,Honeywell International Inc,NASDAQ,189.92,Conglomerates - Div Operations,SIC-3724 Aircraft Engines & Engine Parts,4/28/2022
+KAI,Kadant Inc,NYSE,188.74,Machinery - General Industrial,SIC-3550 Special Industry Machinery (No Metalworking,4/28/2022
+ANAT,Amer Natl Insurance,NASDAQ,188.67,Insurance - Multi Line,SIC-6311 Life Insurance,4/28/2022
+PSB,Business Parks,NYSE,188.46,REIT - Equity Trust Other,SIC-6798 Real Estate Investment Trusts,4/28/2022
+WDFC,W D 40 Company,NASDAQ,187.44,Consumer Prdts - Misc Staple,SIC-2890 Miscellaneous Chemical Products,4/28/2022
+AIZ,Assurant Inc,NYSE,186.22,Insurance - Multi Line,"SIC-6399 Insurance Carriers, NEC",4/28/2022
+BLD,Topbuild Corp,NYSE,186.01,Building & Construction - Misc,SIC-1700 Construction - Special Trade Contractors,4/28/2022
+CRM,Salesforce Inc,NYSE,185.74,Computer - Software,SIC-7372 Services-Prepackaged Software,4/28/2022
+SNOW,Snowflake Inc Cl A,NYSE,185.71,Internet - Software,SIC-7372 Services-Prepackaged Software,4/28/2022
+WHR,Whirlpool Corp,NYSE,185.28,Appliances - Household,SIC-3630 Household Appliances,4/28/2022
+VEEV,Veeva Systems Inc,NYSE,185,Internet - Software,SIC-7372 Services-Prepackaged Software,4/28/2022
+MAR,Marriot Int Cl A,NASDAQ,184.56,Hotels & Motels,SIC-7011 Hotels & Motels,4/28/2022
+AVY,Avery Dennison Corp,NYSE,183.57,Office Supply & Forms,SIC-2670 Converted Paper & Paperboard Prods (No Conta,4/28/2022
+JNJ,Johnson & Johnson,NYSE,183.46,Large Cap Pharma,SIC-2834 Pharmaceutical Preparations,4/28/2022
+EXPE,Expedia Group Inc,NASDAQ,183.4,Internet Commerce,SIC-4700 Transportation Services,4/28/2022
+SUI,Sun Communities,NYSE,183.33,REIT - Equity Trust Resident,SIC-6798 Real Estate Investment Trusts,4/28/2022
+BILL,Bill.com Holdings Inc,NYSE,182.7,Internet - Software,SIC-7372 Services-Prepackaged Software,4/28/2022
+AXP,American Express Company,NYSE,181.98,Finance - Misc Services,SIC-6199 Finance Services,4/28/2022
+ZTS,Zoetis Inc Cl A,NYSE,181.31,Medical - Drugs,SIC-2834 Pharmaceutical Preparations,4/28/2022
+CCMP,Cabot Microelectron,NASDAQ,180.76,Electronics Products - Misc,SIC-3674 Semiconductors & Related Devices,4/28/2022
+UTHR,United Therapeutic,NASDAQ,179.34,Medical - Drugs,SIC-2834 Pharmaceutical Preparations,4/28/2022
+AJG,Arthur J. Gallagher & Company,NYSE,179.33,Insurance - Brokers,"SIC-6411 Insurance Agents, Brokers & Service",4/28/2022
+MED,Medifast Inc,NYSE,178.53,Food - Misc & Diversified,SIC-2090 Miscellaneous Food Preparations & Kindred Pr,4/28/2022
+AYI,Acuity Brands Inc,NYSE,177.95,Building Products - Ltg FX,SIC-3640 Electric Lighting & Wiring Equipment,4/28/2022
+GPI,Group 1 Automotive,NYSE,177.94,Retail - Wsale Auto & Trucks,SIC-5500 Retail-Auto Dealers & Gasoline Stations,4/28/2022
+VMC,Vulcan Materials Company,NYSE,177.88,Building - CMT & CNT & AG,SIC-1400 Mining & Quarrying of Nonmetallic Minerals (,4/28/2022
+PEP,Pepsico Inc,NASDAQ,177.5,Beverages - Soft,SIC-2080 Beverages,4/28/2022
+NXPI,Nxp Semiconductors,NASDAQ,177.25,Semi Analog & Mixed,SIC-3674 Semiconductors & Related Devices,4/28/2022
+SITM,Sitime Corp,NASDAQ,176.74,Electronics Products - Misc,SIC-3674 Semiconductors & Related Devices,4/28/2022
+FFIV,F5 Inc,NASDAQ,175.91,Internet - Software,SIC-3576 Computer Communications Equipment,4/28/2022
+TXN,Texas Instruments,NASDAQ,175.85,Semi General,SIC-3674 Semiconductors & Related Devices,4/28/2022
+ECL,Ecolab Inc,NYSE,175.31,Chemical - Specialty,"SIC-2840 Soap, Detergents, Cleaning Preparations, Per",4/28/2022
+PEN,Penumbra Inc,NYSE,175.07,Medical Instruments,SIC-3841 Surgical & Medical Instruments & Apparatus,4/28/2022
+UNF,Unifirst Corp,NYSE,174.81,Uniform & Related,SIC-7200 Services-Personal Services,4/28/2022
+JBHT,J B Hunt Transport,NASDAQ,174.59,Transportation - Truck,SIC-4213 Trucking (No Local),4/28/2022
+TRV,The Travelers Companies Inc,NYSE,174.5,Insurance - Proprty & Casualty,"SIC-6331 Fire, Marine & Casualty Insurance",4/28/2022
+ABG,Asbury Automotive Group Inc,NYSE,173.77,Retail - Wsale Auto & Trucks,SIC-5500 Retail-Auto Dealers & Gasoline Stations,4/28/2022
+ROLL,RBC Bearings Incorp,NASDAQ,173.68,Machinery - General Industrial,SIC-3562 Ball & Roller Bearings,4/28/2022
+PLD,Prologis Inc,NYSE,173.01,REIT - Equity Trust Other,SIC-6798 Real Estate Investment Trusts,4/28/2022
+TM,Toyota Motor Corp Ltd Ord ADR,NYSE,172.97,Auto - Foreign,SIC-3711 Motor Vehicles & Passenger Car Bodies,4/28/2022
+DHIL,Diamond Hill Inv,NASDAQ,172.8,Finance - Investment Brokers,SIC-6282 Investment Advice,4/28/2022
+MMC,Marsh & Mclennan Companies,NYSE,171.71,Insurance - Brokers,"SIC-6411 Insurance Agents, Brokers & Service",4/28/2022
+MTB,M&T Bank Corp,NYSE,171.31,Banks - Major Regional,SIC-6022 State Commercial Banks,4/28/2022
+PNC,PNC Bank,NYSE,171.08,Banks - Major Regional,SIC-6021 National Commercial Banks,4/28/2022
+WM,Waste Management,NYSE,169.65,Waste Removal Svcs,SIC-4953 Refuse Systems,4/28/2022
+ARCH,Arch Resources Inc,NYSE,169.05,Coal,SIC-1221 Bituminous Coal & Lignite Mining,4/28/2022
+CDW,CDW Corp,NASDAQ,168.64,IT Services,SIC-5961 Retail-Catalog & Mail-Order Houses,4/28/2022
+ERIE,Erie Indemnity Company,NASDAQ,168.62,Insurance - Brokers,"SIC-6411 Insurance Agents, Brokers & Service",4/28/2022
+DLTR,Dollar Tree Inc,NASDAQ,167.11,Retail - Discount,SIC-5331 Retail-Variety Stores,4/28/2022
+FIVE,Five Below Inc,NASDAQ,167.07,Retail - Misc & Diversified,SIC-5331 Retail-Variety Stores,4/28/2022
+LHCG,LHC Group Inc,NASDAQ,166.94,Medical Services,SIC-8082 Services-Home Health Care Services,4/28/2022
+MSGS,Madison Square Garden Sports Corp,NYSE,166.03,Leisure & Recreation Services,SIC-7990 Services-Miscellaneous Amusement & Recreatio,4/28/2022
+WEX,Wex Inc,NYSE,165.89,Financial Transaction Services,"SIC-7389 Services-Business Services, NEC",4/28/2022
+SRE,Sempra,NYSE,165.5,Utility - Gas Distribution,SIC-4932 Gas & Other Services Combined,4/28/2022
+ENPH,Enphase Energy Inc,NASDAQ,164.47,Solar,SIC-3674 Semiconductors & Related Devices,4/28/2022
+AAPL,Apple Inc,NASDAQ,163.64,Computer - Mini,SIC-3571 Electronic Computers,4/28/2022
+KWR,Quaker Chemical Corp,NYSE,163.62,Chemical - Specialty,SIC-2990 Miscellaneous Products of Petroleum & Coal,4/28/2022
+PG,Procter & Gamble Company,NYSE,163.41,Soap and Cleaning Products,"SIC-2840 Soap, Detergents, Cleaning Preparations, Per",4/28/2022
+PKG,Packaging Corp of America,NYSE,162.85,Containers - Paper Products,SIC-2650 Paperboard Containers & Boxes,4/28/2022
+NDAQ,Nasdaq Inc,NASDAQ,162.55,Securities Exchanges,"SIC-6200 Security & Commodity Brokers, Dealers, Excha",4/28/2022
+NXST,Nexstar Media Group Inc,NASDAQ,162.18,Broadcast - Radio & TV,SIC-4833 Television Broadcasting Stations,4/28/2022
+CPT,Camden Property Trust,NYSE,162.15,REIT - Equity Trust Resident,SIC-6798 Real Estate Investment Trusts,4/28/2022
+AZPN,Aspen Technology,NASDAQ,162.12,Computer - Software,SIC-7371 Services-Computer Programming Services,4/28/2022
+CVX,Chevron Corp,NYSE,161.79,Oil - International Integrated,SIC-2911 Petroleum Refining,4/28/2022
+CNXC,Concentrix Corp,NASDAQ,161.55,Business Services,"SIC-7389 Services-Business Services, NEC",4/28/2022
+HLT,Hilton Inc,NYSE,161.22,Hotels & Motels,SIC-7011 Hotels & Motels,4/28/2022
+JAZZ,Jazz Pharma Plc,NASDAQ,161.19,Medical - Drugs,SIC-2834 Pharmaceutical Preparations,4/28/2022
+AWK,American Water Works,NYSE,160.68,Utility - Water Supply,SIC-4941 Water Supply,4/28/2022
+NUE,Nucor Corp,NYSE,160.65,Steel - Producers,"SIC-3312 Steel Works, Blast Furnaces & Rolling Mills",4/28/2022
+CYBR,Cyberark Soft Ord,NASDAQ,160.57,Security,SIC-7372 Services-Prepackaged Software,4/28/2022
+ADI,Analog Devices,NASDAQ,160.45,Semi Analog & Mixed,SIC-3674 Semiconductors & Related Devices,4/28/2022
+ALGT,Allegiant Travel Com,NASDAQ,160.33,Transportation - Airline,"SIC-4512 Air Transportation, Scheduled",4/28/2022
+SWAV,Shockwave Medical Inc,NASDAQ,160.27,Medical Instruments,SIC-3841 Surgical & Medical Instruments & Apparatus,4/28/2022
+CRVL,Corvel Cp,NASDAQ,160.01,Business Services,"SIC-6411 Insurance Agents, Brokers & Service",4/28/2022
+ABNB,Airbnb Inc Cl A,NASDAQ,159.74,Internet - Content,SIC-7340 Services-To Dwellings & Other Buildings,4/28/2022
+CDNS,Cadence Design Sys,NASDAQ,159.01,Computer - Software,SIC-7372 Services-Prepackaged Software,4/28/2022
+PAC,Grupo Aeroportuario Del Pacifico ADR,NYSE,158.82,Transportation - Services,"SIC-4581 Airports, Flying Fields & Airport Terminal S",4/28/2022
+BGNE,Beigene Ltd ADR,NASDAQ,158.45,Medical - Biomedical,SIC-2834 Pharmaceutical Preparations,4/28/2022
+NBR,Nabors Industries,NYSE,158.19,Oil & Gas - Drilling,SIC-1381 Drilling Oil & Gas Wells,4/28/2022
+ABC,Amerisourcebergen Corp,NYSE,157.75,Medical - Dental Suppliers,"SIC-5122 Wholesale-Drugs, Proprietaries & Druggists",4/28/2022
+AMR,Alpha Metallurgical Resources Inc,NYSE,157.74,Mining - Misc,SIC-1221 Bituminous Coal & Lignite Mining,4/28/2022
+LANC,Lancaster Colony Cor,NASDAQ,157.49,Food - Misc & Diversified,"SIC-2030 Canned, Frozen & Preserved Fruit, Veg & Food",4/28/2022
+LSTR,Landstar System,NASDAQ,157.26,Transportation - Truck,SIC-4213 Trucking (No Local),4/28/2022
+MIDD,Middleby Corp,NASDAQ,156.89,Machinery - General Industrial,SIC-3580 Refrigeration & Service Industry Machinery,4/28/2022
+ABBV,Abbvie Inc,NYSE,156.31,Large Cap Pharma,SIC-2834 Pharmaceutical Preparations,4/28/2022
+WMT,Walmart Inc,NYSE,156.21,Retail - Supermarket,SIC-5331 Retail-Variety Stores,4/28/2022
+FCN,Fti Consulting,NYSE,155.56,Consulting,SIC-8742 Services-Management Consulting Services,4/28/2022
+GTLS,Chart Industries IN,NYSE,155.33,Machinery - General Industrial,SIC-3443 Fabricated Plate Work (Boiler Shops),4/28/2022
+SYNA,Synaptics Inc,NASDAQ,155.29,Electronics - Semiconductors,SIC-3674 Semiconductors & Related Devices,4/28/2022
+UAN,Cvr Partners LP,NYSE,155.29,Fertilizers,SIC-2870 Agricultural Chemicals,4/28/2022
+BA,Boeing Company,NYSE,154.22,Aerospace - Defense,SIC-3721 Aircraft,4/28/2022
+VAC,Marriot Vacations Worldwide Cor,NYSE,153.93,Hotels & Motels,SIC-6531 Real Estate Agents & Managers (For Others),4/28/2022
+FRC,First Republic Bank,NYSE,153.67,Banks - West,"SIC-6029 Commercial Banks, NEC",4/28/2022
+RGEN,Repligen Cp,NASDAQ,153.64,Medical - Biomedical,"SIC-2836 Biological Products, (No Disgnostic Substanc",4/28/2022
+FNV,Franco Nev Corp,NYSE,153.09,Mining - Gold,SIC-1040 Gold and Silver Ores,4/28/2022
+JJSF,J J Snack Foods,NASDAQ,152.39,Food - Misc & Diversified,SIC-2052 Cookies & Crackers,4/28/2022
+DLR,Digital Realty Trust,NYSE,151.5,REIT - Equity Trust Other,SIC-6798 Real Estate Investment Trusts,4/28/2022
+THG,The Hanover Insurance Group,NYSE,150.91,Insurance - Proprty & Casualty,"SIC-6331 Fire, Marine & Casualty Insurance",4/28/2022
+IIPR,Innovative Industrial Properties,NYSE,150.78,REIT - Equity Trust Other,SIC-6500 Real Estate,4/28/2022
+BR,Broadridge Financial Solutions Llc,NYSE,150.22,Outsourcing,"SIC-7389 Services-Business Services, NEC",4/28/2022
+CW,Curtiss-Wright Corp,NYSE,148.84,Aerospace - Defense Equipment,SIC-3590 Misc Industrial & Commercial Machinery & Equ,4/28/2022
+CLX,Clorox Company,NYSE,148.34,Soap and Cleaning Products,"SIC-2842 Specialty Cleaning, Polishing and Sanitation",4/28/2022
+QCOM,Qualcomm Inc,NASDAQ,148.19,Wireless Equipment,SIC-3663 Radio & Tv Broadcasting & Communications Equ,4/28/2022
+RNR,Renaissancere Holdings Ltd,NYSE,147.92,Insurance - Proprty & Casualty,"SIC-6331 Fire, Marine & Casualty Insurance",4/28/2022
+ETN,Eaton Corp,NYSE,147.88,Machinery - Electrical,SIC-3590 Misc Industrial & Commercial Machinery & Equ,4/28/2022
+MMM,3M Company,NYSE,147.14,Conglomerates - Div Operations,SIC-3841 Surgical & Medical Instruments & Apparatus,4/28/2022
+PKI,Perkinelmer,NYSE,146.41,Industrial Scientific,SIC-3826 Laboratory Analytical Instruments,4/28/2022
+TT,Trane Technologies Plc,NYSE,145.67,Technology Services,SIC-3822 Auto Controls For Regulating Residential & C,4/28/2022
+CHH,Choice Hotels International,NYSE,145.33,Hotels & Motels,SIC-7011 Hotels & Motels,4/28/2022
+KEYS,Keysight Technologies Inc Comm,NYSE,145.18,Electronics - Measuring Inst,"SIC-3823 Industrial Instruments For Measurement, Disp",4/28/2022
+SITE,Siteone Landscape Supply,NYSE,145,Industrial Services,SIC-5040 Wholesale-Professional & Commercial Equipmen,4/28/2022
+HEI,Heico Corp,NYSE,144.22,Aerospace - Defense Equipment,SIC-3724 Aircraft Engines & Engine Parts,4/28/2022
+GPN,Global Payments Inc,NYSE,143.89,Financial Transaction Services,"SIC-7389 Services-Business Services, NEC",4/28/2022
+VRTV,Veritiv Corp,NYSE,143.81,Paper & Related Products,SIC-5110 Wholesale-Paper & Paper Products,4/28/2022
+TTEK,Tetra Tech Inc,NASDAQ,143.63,Pollution Controls,SIC-8711 Services-Engineering Services,4/28/2022
+BNTX,Biontech Se ADR,NASDAQ,143.4,Medical - Biomedical,"SIC-2836 Biological Products, (No Disgnostic Substanc",4/28/2022
+MNDY,Monday.com Ltd,NASDAQ,143.38,Internet - Software,SIC-7372 Services-Prepackaged Software,4/28/2022
+EXLS,Exlservice Holdings,NASDAQ,143.36,Outsourcing,"SIC-7389 Services-Business Services, NEC",4/28/2022
+ALNY,Alnylam Pharmaceuticals,NASDAQ,143.16,Medical - Biomedical,SIC-2834 Pharmaceutical Preparations,4/28/2022
+CE,Celanese Corp,NYSE,142.93,Chemical - Specialty,"SIC-2820 Plastic Material, Synth Resin/Rubber, Cellul",4/28/2022
+AFG,American Financial Group,NYSE,142.65,Insurance - Proprty & Casualty,"SIC-6331 Fire, Marine & Casualty Insurance",4/28/2022
+MRNA,Moderna Inc,NASDAQ,142.52,Medical - Biomedical,"SIC-2836 Biological Products, (No Disgnostic Substanc",4/28/2022
+J,Jacobs Engineering Group Inc,NYSE,142.11,Engineering & R&D Services,SIC-1600 Heavy Construction Other Than Bldg Const - C,4/28/2022
+LSI,Life Storage,NYSE,142.06,REIT - Equity Trust Other,SIC-6798 Real Estate Investment Trusts,4/28/2022
+KMB,Kimberly-Clark Corp,NYSE,141.99,Consumer Prdts - Misc Staple,SIC-2670 Converted Paper & Paperboard Prods (No Conta,4/28/2022
+WCN,Waste Connections Inc,NYSE,141.41,Waste Removal Svcs,SIC-4953 Refuse Systems,4/28/2022
+SJM,J.M. Smucker Company,NYSE,141.03,Food - Misc & Diversified,"SIC-2033 Canned, Fruits, Veg, Preserves, Jams & Jelli",4/28/2022
+QLYS,Qualys Inc,NASDAQ,140.52,Security,SIC-7372 Services-Prepackaged Software,4/28/2022
+DOV,Dover Corp,NYSE,139.49,Machinery - General Industrial,"SIC-3530 Construction, Mining & Materials Handling Ma",4/28/2022
+BH,Biglari Holdings Inc,NYSE,139.04,Retail - Restaurants,SIC-5812 Retail-Eating Places,4/28/2022
+BAP,Credicorp Ltd,NYSE,138.89,Banks - Foreign,"SIC-6029 Commercial Banks, NEC",4/28/2022
+WSM,Williams-Sonoma,NYSE,138.26,Retail - Home Furniture,"SIC-5700 Retail-Home Furniture, Furnishings & Equipme",4/28/2022
+SLAB,Silicon Labs Inc,NASDAQ,138.12,Semi Analog & Mixed,SIC-3674 Semiconductors & Related Devices,4/28/2022
+RSG,Republic Services,NYSE,138.11,Waste Removal Svcs,SIC-4953 Refuse Systems,4/28/2022
+CFR,Cullen/Frost Bankers,NYSE,137.32,Banks - Southwest,SIC-6021 National Commercial Banks,4/28/2022
+LNN,Lindsay Corp,NYSE,136.87,Machinery - Farm,SIC-3523 Farm Machinery & Equipment,4/28/2022
+OAS,Oasis Petroleum Inc,NASDAQ,136.64,Oil - US Exploration & Product,SIC-1311 Crude Petroleum & Natural Gas,4/28/2022
+CNMD,C O N M E D Cp,NYSE,136.4,Medical - Dental Suppliers,SIC-3845 Electromedical & Electrotherapeutic Apparatu,4/28/2022
+CINF,Cincinnati Financial,NASDAQ,136,Insurance - Proprty & Casualty,"SIC-6331 Fire, Marine & Casualty Insurance",4/28/2022
+LECO,Lincoln Elec Holdings,NASDAQ,135.85,Machinery - Tools & Related,SIC-3540 Metalworking Machinery & Equipment,4/28/2022
+DGX,Quest Diagnostics Inc,NYSE,135.83,Medical - Outpatient & Hm Care,SIC-8071 Services-Medical Laboratories,4/28/2022
+IBM,International Business Machines,NYSE,135.74,Computer - Integrated Systems,SIC-3570 Computer & Office Equipment,4/28/2022
+DTE,Dte Energy Company,NYSE,135.52,Utility - Electric Power,SIC-4911 Electric Services,4/28/2022
+FMC,FMC Corp,NYSE,134.7,Chemical - Diversified,SIC-2800 Chemicals & Allied Products,4/28/2022
+DRI,Darden Restaurants,NYSE,133.9,Retail - Restaurants,SIC-5812 Retail-Eating Places,4/28/2022
+GPC,Genuine Parts Company,NYSE,133.19,Auto - Truck Replacement Parts,SIC-5013 Wholesale-Motor Vehicle Supplies & New Parts,4/28/2022
+PRI,Primerica Inc,NYSE,132.8,Insurance - Life,SIC-6311 Life Insurance,4/28/2022
+MANH,Manhattan Assoc,NASDAQ,132.41,Computer - Software,SIC-7372 Services-Prepackaged Software,4/28/2022
+PAYX,Paychex Inc,NASDAQ,132.4,Outsourcing,"SIC-8700 Services-Engineering, Accounting, Research,",4/28/2022
+TMUS,T-Mobile US,NASDAQ,132.29,Wireless National,SIC-4812 Radiotelephone Communications,4/28/2022
+OLED,Universal Display,NASDAQ,132.03,Electronics - Misc Components,SIC-3670 Electronic Components & Accessories,4/28/2022
+AMED,Amedisys Inc,NASDAQ,131.89,Medical - Outpatient & Hm Care,SIC-8082 Services-Home Health Care Services,4/28/2022
+MEDP,Medpace Holdings Inc,NASDAQ,131.86,Medical Services,SIC-8731 Services-Commercial Physical & Biological Re,4/28/2022
+OKTA,Okta Inc Cl A,NASDAQ,131.7,Internet Software Services,SIC-7372 Services-Prepackaged Software,4/28/2022
+WTS,Watts Water Technologies,NYSE,131.69,Industrial Controls,SIC-3490 Miscellaneous Fabricated Metal Products,4/28/2022
+RGLD,Royal Gold Inc,NASDAQ,131.36,Mining - Gold,SIC-6795 Mineral Royalty Traders,4/28/2022
+PPG,PPG Industries,NYSE,130.85,Chemical - Diversified,"SIC-2851 Paints, Varnishes, Lacquers, Enamels & Allie",4/28/2022
+MHK,Mohawk Industries,NYSE,130.78,Textile - Home Furnishings,SIC-2273 Carpets & Rugs,4/28/2022
+ALL,Allstate Corp,NYSE,130.34,Insurance - Proprty & Casualty,"SIC-6331 Fire, Marine & Casualty Insurance",4/28/2022
+LEA,Lear Corp,NYSE,130.33,Auto - Truck Original Parts,SIC-3714 Motor Vehicle Parts & Accessories,4/28/2022
+ALG,Alamo Group,NYSE,130.24,Machinery - Farm,SIC-3523 Farm Machinery & Equipment,4/28/2022
+SGEN,Seagen Inc,NASDAQ,130.23,Medical - Biomedical,"SIC-2836 Biological Products, (No Disgnostic Substanc",4/28/2022
+HRI,Herc Holdings Inc,NYSE,130.04,Transportation - Equip & Lease,SIC-7350 Services-Miscellaneous Equipment Rental & Le,4/28/2022
+RRX,Regal Rexnord Corp,NYSE,130.01,Machinery - Electrical,SIC-3621 Motors & Generators,4/28/2022
+NOVT,Novanta Inc,NASDAQ,129.78,Electronics - Misc Components,"SIC-3690 Miscellaneous Electrical Machinery, Equipmen",4/28/2022
+EEFT,Euronet Worldwide,NASDAQ,129.7,Finance - Misc Services,"SIC-6099 Functions Related To Depository Banking, NEC",4/28/2022
+WLK,Westlake Corp,NYSE,129.64,Chemical - Plastics,SIC-2860 Industrial Organic Chemicals,4/28/2022
+FANG,Diamondback Energy,NASDAQ,129.47,Oil - US Exploration & Product,SIC-1311 Crude Petroleum & Natural Gas,4/28/2022
+COF,Capital One Financial Corp,NYSE,129.38,Finance - Consumer Loans,SIC-6021 National Commercial Banks,4/28/2022
+GME,Gamestop Corp,NYSE,129.31,Retail - Consumer Electronics,SIC-5734 Retail-Computer & Computer Software Stores,4/28/2022
+CPK,Chesapeake Utilities Corp,NYSE,129,Utility - Gas Distribution,SIC-4923 Natural Gas Transmission & Distribution,4/28/2022
+CHKP,Check Point Software,NASDAQ,128.83,Security,SIC-7372 Services-Prepackaged Software,4/28/2022
+FSV,Firstsrvce Sub VT Sh,NASDAQ,128.62,Real Estate Operations,SIC-6500 Real Estate,4/28/2022
+DDOG,Datadog Inc Cl A,NASDAQ,128.47,Internet - Software,SIC-7372 Services-Prepackaged Software,4/28/2022
+AME,Ametek Inc,NYSE,128.13,Electronic Test Equipment,"SIC-3823 Industrial Instruments For Measurement, Disp",4/28/2022
+FERG,Ferguson Plc,NYSE,127.61,Machinery - General Industrial,"SIC-5200 Retail-Building Materials, Hardware, Garden",4/28/2022
+BCPC,Balchem Cp,NASDAQ,127.59,Chemical - Specialty,SIC-2800 Chemicals & Allied Products,4/28/2022
+AGCO,Agco Corp,NYSE,127.31,Machinery - Farm,SIC-3523 Farm Machinery & Equipment,4/28/2022
+WCC,Wesco International,NYSE,127.25,Electronics - Parts Distrib,"SIC-5063 Wholesale-Electrical Apparatus & Equipment,",4/28/2022
+SWK,Stanley Black & Decker Inc,NYSE,127.13,Machinery - Tools & Related,"SIC-3420 Cutlery, Handtools & General Hardware",4/28/2022
+NKE,Nike Inc,NYSE,127.05,Shoes and Related Apparel,SIC-3021 Rubber & Plastics Footwear,4/28/2022
+TEL,Te Connectivity Ltd,NYSE,126.96,Electronics - Misc Components,"SIC-5065 Wholesale-Electronic Parts & Equipment, NEC",4/28/2022
+SPLK,Splunk Inc,NASDAQ,126.35,Internet - Software,SIC-7372 Services-Prepackaged Software,4/28/2022
+SI,Silvergate Capital Corp Cl A,NYSE,125.86,Banks - Southwest,SIC-6022 State Commercial Banks,4/28/2022
+EXP,Eagle Materials Inc,NYSE,125.81,Building - CMT & CNT & AG,"SIC-3241 Cement, Hydraulic",4/28/2022
+IFF,International Flavors & Fragrances,NYSE,125.17,Consumer Prdts - Misc Staple,SIC-2860 Industrial Organic Chemicals,4/28/2022
+ZBH,Zimmer Biomet Holdings,NYSE,124.61,Medical Products,"SIC-3842 Orthopedic, Prosthetic & Surgical Appliances",4/28/2022
+IRTC,Irhythm Technologies Inc,NASDAQ,124.49,Medical Information Systems,SIC-3841 Surgical & Medical Instruments & Apparatus,4/28/2022
+SPG,Simon Property Group,NYSE,124.41,REIT - Equity Trust Retail,SIC-6798 Real Estate Investment Trusts,4/28/2022
+UHS,Universal Health Services,NYSE,124.16,Medical - Hospitals,SIC-8062 Services-General Medical & Surgical Hospital,4/28/2022
+BXP,Boston Properties,NYSE,123.53,REIT - Equity Trust Other,SIC-6798 Real Estate Investment Trusts,4/28/2022
+EA,Electronic Arts Inc,NASDAQ,123.41,Toys & Game & Hobby,SIC-7372 Services-Prepackaged Software,4/28/2022
+JPM,JP Morgan Chase & Company,NYSE,123.34,Banks - Major Regional,SIC-6021 National Commercial Banks,4/28/2022
+TTWO,Take-Two Interactive,NASDAQ,123.23,Toys & Game & Hobby,SIC-7372 Services-Prepackaged Software,4/28/2022
+WD,Walker & Dunlop,NYSE,123.13,Finance - Mortgage & Rel Svs,SIC-6199 Finance Services,4/28/2022
+COIN,Coinbase Global Inc Cl A,NASDAQ,122.69,Securities Exchanges,SIC-6199 Finance Services,4/28/2022
+ETR,Entergy Corp,NYSE,122.32,Utility - Electric Power,SIC-4911 Electric Services,4/28/2022
+SPSC,Sps Commerce Inc,NASDAQ,121.98,Business Services,SIC-7372 Services-Prepackaged Software,4/28/2022
+MSA,Msa Safety Inc,NYSE,121.7,Protection - Safety,"SIC-3842 Orthopedic, Prosthetic & Surgical Appliances",4/28/2022
+FRT,Federal Realty Investment Trust,NYSE,121.49,REIT - Equity Trust Retail,SIC-6798 Real Estate Investment Trusts,4/28/2022
+CNI,Canadian National Railway,NYSE,121.16,Transportation - Rail,"SIC-4011 Railroads, Line-Haul Operating",4/28/2022
+A,Agilent Technologies,NYSE,121.06,Electronic Test Equipment,SIC-3826 Laboratory Analytical Instruments,4/28/2022
+ANET,Arista Networks Inc,NYSE,120.91,Communications Components,SIC-3576 Computer Communications Equipment,4/28/2022
+ZEN,Zendesk Inc,NYSE,120.77,Internet - Software,SIC-7374 Services-Computer Processing & Data Preparat,4/28/2022
+BIDU,Baidu Inc ADR,NASDAQ,120.55,Internet - Services,"SIC-7370 Services-Computer Programming, Data Processi",4/28/2022
+BFAM,Bright Horizons Family Solutions Inc,NYSE,120.46,Schools,SIC-8351 Services-Child Day Care Services,4/28/2022
+NVEE,Nv5 Global,NASDAQ,120.32,Consulting,SIC-7380 Services-Miscellaneous Business Services,4/28/2022
+PIPR,Piper Jaffray Companies,NYSE,119.58,Finance - Investment Brokers,"SIC-6211 Security Brokers, Dealers & Flotation Compan",4/28/2022
+YUM,Yum! Brands,NYSE,119.52,Retail - Restaurants,SIC-5812 Retail-Eating Places,4/28/2022
+ARW,Arrow Electronics,NYSE,119.35,Electronics - Parts Distrib,"SIC-5065 Wholesale-Electronic Parts & Equipment, NEC",4/28/2022
+ICE,Intercontinental Exchange,NYSE,119.25,Securities Exchanges,"SIC-6200 Security & Commodity Brokers, Dealers, Excha",4/28/2022
+ALLE,Allegion Plc,NYSE,119.2,Protection - Safety,"SIC-7381 Services-Detective, Guard & Armored Car Serv",4/28/2022
+TWLO,Twilio,NYSE,118.92,Internet - Software,SIC-7372 Services-Prepackaged Software,4/28/2022
+LBRDK,Liberty Broadbd C,NASDAQ,118.9,Cable TV,SIC-4841 Cable & Other Pay Television Services,4/28/2022
+JBT,John Bean Technologies Corp,NYSE,118.88,Machinery - Thermal Processing,SIC-3550 Special Industry Machinery (No Metalworking,4/28/2022
+PWR,Quanta Services,NYSE,118.84,Engineering & R&D Services,SIC-1731 Electrical Work,4/28/2022
+MKSI,Mks Instruments Inc,NASDAQ,118.51,Electrical - Manufacturing,"SIC-3823 Industrial Instruments For Measurement, Disp",4/28/2022
+MASI,Masimo Corp,NASDAQ,118.26,Medical Instruments,SIC-3845 Electromedical & Electrotherapeutic Apparatu,4/28/2022
+HEI.A,Heico Cp Cl A,NYSE,118.16,Aerospace - Defense Equipment,SIC-3724 Aircraft Engines & Engine Parts,4/28/2022
+ABT,Abbott Laboratories,NYSE,118.01,Medical Products,SIC-2834 Pharmaceutical Preparations,4/28/2022
+EOG,Eog Resources,NYSE,117.77,Oil - US Exploration & Product,SIC-1311 Crude Petroleum & Natural Gas,4/28/2022
+SWKS,Skyworks Solutions,NASDAQ,117.65,Semi Radio Frequency,SIC-3674 Semiconductors & Related Devices,4/28/2022
+HSKA,Heska Corp,NASDAQ,117.26,Medical - Biomedical,SIC-2835 In Vitro & In Vivo Diagnostic Substances,4/28/2022
+QRVO,Qorvo Inc,NASDAQ,117.08,Semi Radio Frequency,SIC-3674 Semiconductors & Related Devices,4/28/2022
+ASGN,On Assignment,NYSE,116.99,IT Services,SIC-7363 Services-Help Supply Services,4/28/2022
+BG,Bunge Ltd,NYSE,116.83,Agriculture Products,SIC-2070 Fats & Oils,4/28/2022
+ATO,Atmos Energy Corp,NYSE,116.81,Utility - Gas Distribution,SIC-4924 Natural Gas Distribution,4/28/2022
+CPRT,Copart Inc,NASDAQ,116.73,Auction Valuation Services,SIC-5500 Retail-Auto Dealers & Gasoline Stations,4/28/2022
+AN,Autonation Inc,NYSE,116.25,Retail - Wsale Auto & Trucks,SIC-5500 Retail-Auto Dealers & Gasoline Stations,4/28/2022
+AXON,Axon Enterprise Inc,NASDAQ,116.06,Protection - Safety,"SIC-3480 Ordnance & Accessories, (No Vehicles/Guided",4/28/2022
+CBRL,Cracker Barrel,NASDAQ,116.06,Retail - Restaurants,SIC-5812 Retail-Eating Places,4/28/2022
+DFS,Discover Financial Services,NYSE,115.98,Finance - Consumer Loans,SIC-6141 Personal Credit Institutions,4/28/2022
+AKAM,Akamai Technologies,NASDAQ,115.83,Internet - Services,"SIC-7389 Services-Business Services, NEC",4/28/2022
+RLI,Rli Corp,NYSE,115.54,Insurance - Proprty & Casualty,"SIC-6331 Fire, Marine & Casualty Insurance",4/28/2022
+VLO,Valero Energy Corp,NYSE,115.53,Oil - Refining and Marketing,SIC-2911 Petroleum Refining,4/28/2022
+DIS,Walt Disney Company,NYSE,115.29,Media Conglomerates,SIC-7990 Services-Miscellaneous Amusement & Recreatio,4/28/2022
+KRTX,Karuna Therapeutics Inc,NASDAQ,115,Medical - Biomedical,SIC-2834 Pharmaceutical Preparations,4/28/2022
+ENTG,Entegris Inc,NASDAQ,114.95,Electrical - Manufacturing,"SIC-3089 Plastics Products, NEC",4/28/2022
+AMAT,Applied Materials,NASDAQ,114.63,Semi-Eqpt Wafer Fabrication,SIC-3674 Semiconductors & Related Devices,4/28/2022
+OFLX,Omega Flex Inc,NASDAQ,114.5,Steel - Pipe & Tube,"SIC-3430 Heating Equip, Except Elec & Warm Air; & Plu",4/28/2022
+PTC,Ptc Inc,NASDAQ,114.39,Computer - Software,SIC-7372 Services-Prepackaged Software,4/28/2022
+LAMR,Lamar Advertis A,NASDAQ,114.14,REIT - Equity Trust Other,SIC-6798 Real Estate Investment Trusts,4/28/2022
+CIGI,Colliers Intl Grp IN,NASDAQ,114,Real Estate Operations,SIC-6500 Real Estate,4/28/2022
+DUK,Duke Energy Corp,NYSE,113.8,Utility - Electric Power,SIC-4931 Electric & Other Services Combined,4/28/2022
+LBRDA,Liberty Broadbd A,NASDAQ,113.56,Cable TV,SIC-4841 Cable & Other Pay Television Services,4/28/2022
+WWD,Woodward Inc,NASDAQ,113.5,Industrial Controls,SIC-3620 Electrical Industrial Apparatus,4/28/2022
+USLM,U S Lime & Mineral,NASDAQ,112.7,Building - CMT & CNT & AG,SIC-1400 Mining & Quarrying of Nonmetallic Minerals (,4/28/2022
+PRU,Prudential Financial Inc,NYSE,112.12,Insurance - Multi Line,SIC-6311 Life Insurance,4/28/2022
+ATR,Aptargroup,NYSE,112.1,Containers - Paper Products,"SIC-3089 Plastics Products, NEC",4/28/2022
+CM,Canadian Imperial Bank of Commerce,NYSE,111.97,Banks - Foreign,"SIC-6029 Commercial Banks, NEC",4/28/2022
+TER,Teradyne Inc,NASDAQ,111.68,Electronic Test Equipment,SIC-3825 Instruments For Meas & Testing of Electricit,4/28/2022
+CCK,Crown Cork & Seal Company,NYSE,111.12,Containers - Metal & Glass,SIC-3411 Metal Cans,4/28/2022
+VMW,Vmware Inc,NYSE,110.88,Computer - Software,SIC-7372 Services-Prepackaged Software,4/28/2022
+WIRE,Encore Wire Cp,NASDAQ,110.79,Wire & Cable Products,SIC-3350 Rolling Drawing & Extruding of Nonferrous Me,4/28/2022
+RGA,Reinsurance Group of America Inc,NYSE,110.77,Insurance - Life,SIC-6311 Life Insurance,4/28/2022
+EVR,Evercore Partners Inc,NYSE,110.75,Finance - Investment Brokers,SIC-6282 Investment Advice,4/28/2022
+GRMN,Garmin Ltd,NYSE,110.64,Electronics Products - Misc,"SIC-3812 Search, Detection, Navigation, Guidance, Aer",4/28/2022
+PGR,Progressive Corp,NYSE,110.42,Insurance - Proprty & Casualty,"SIC-6331 Fire, Marine & Casualty Insurance",4/28/2022
+CHRW,C.H. Robinson Ww,NASDAQ,110.34,Transportation - Services,SIC-4731 Arrangement of Transportation of Freight & C,4/28/2022
+NVO,Novo Nordisk A/S ADR,NYSE,110.19,Large Cap Pharma,SIC-2834 Pharmaceutical Preparations,4/28/2022
+DVA,Davita Healthcare Partners Inc,NYSE,109.91,Medical - Outpatient & Hm Care,"SIC-8090 Services-Misc Health & Allied Services, NEC",4/28/2022
+EW,Edwards Lifesciences Corp,NYSE,109.77,Medical Instruments,"SIC-3842 Orthopedic, Prosthetic & Surgical Appliances",4/28/2022
+NSP,Insperity Inc,NYSE,109.63,Staffing,SIC-7363 Services-Help Supply Services,4/28/2022
+BMO,Bank of Montreal,NYSE,109.19,Banks - Foreign,"SIC-6029 Commercial Banks, NEC",4/28/2022
+IDA,Idacorp Inc,NYSE,108.89,Utility - Electric Power,SIC-4911 Electric Services,4/28/2022
+BX,Blackstone Inc,NYSE,108.29,Finance - Misc Services,SIC-6282 Investment Advice,4/28/2022
+ASH,Ashland Global Holdings Inc,NYSE,108.22,Chemical - Specialty,SIC-5160 Wholesale-Chemicals & Allied Products,4/28/2022
+LYV,Live Nation Entertainment,NYSE,107.92,Leisure & Recreation Services,SIC-7900 Services-Amusement & Recreation Services,4/28/2022
+APTV,Aptiv Plc,NYSE,107.84,Technology Services,SIC-3714 Motor Vehicle Parts & Accessories,4/28/2022
+MODV,Modivcare Inc,NASDAQ,107.56,Medical Services,SIC-4700 Transportation Services,4/28/2022
+OMCL,Omnicell Inc,NASDAQ,107.4,Medical Information Systems,SIC-3571 Electronic Computers,4/28/2022
+EMN,Eastman Chemical Company,NYSE,107.39,Chemical - Diversified,"SIC-2821 Plastic Materials, Synth Resins & Nonvulcan",4/28/2022
+NTRS,Northern Trust Corp,NASDAQ,107.33,Banks - Major Regional,SIC-6022 State Commercial Banks,4/28/2022
+CSWI,Csw Industrials Inc,NASDAQ,107.21,Chemical - Specialty,SIC-2891 Adhesives & Sealants,4/28/2022
+MDT,Medtronic Inc,NYSE,107.15,Medical Products,SIC-3845 Electromedical & Electrotherapeutic Apparatu,4/28/2022
+PAG,Penske Automotive Group,NYSE,106.92,Retail - Wsale Auto & Trucks,SIC-5500 Retail-Auto Dealers & Gasoline Stations,4/28/2022
+RL,Ralph Lauren Corp,NYSE,106.76,Textile - Apparel,"SIC-2320 Mens & Boys Furnishings, Work Clothg, & Alli",4/28/2022
+SSD,Simpson Manufacturing Company,NYSE,106.33,Building & Construction - Misc,"SIC-3420 Cutlery, Handtools & General Hardware",4/28/2022
+CLH,Clean Harbors,NYSE,106.22,Waste Removal Svcs,SIC-4955 Hazardous Waste Management,4/28/2022
+APPF,Appfolio Cl A,NASDAQ,106.16,Internet - Software,SIC-7372 Services-Prepackaged Software,4/28/2022
+LYB,Lyondellbasell Industries NV,NYSE,106.1,Chemical - Diversified,SIC-2860 Industrial Organic Chemicals,4/28/2022
+GATX,GATX Corp,NYSE,105.93,Transportation - Equip & Lease,SIC-4700 Transportation Services,4/28/2022
+DAVA,Endava Plc ADR,NYSE,105.84,IT Services,SIC-7371 Services-Computer Programming Services,4/28/2022
+EME,Emcor Group,NYSE,105.39,Building - Heavy Construction,SIC-1731 Electrical Work,4/28/2022
+AGM,Federal Agricultural Mortgage Corp,NYSE,105.38,Finance - Mortgage & Rel Svs,SIC-6111 Federal & Federally-Sponsored Credit Agencie,4/28/2022
+WMS,Advanced Drainage Systems Inc,NYSE,105.31,Building & Construction - Misc,SIC-3086 Plastics Foam Products,4/28/2022
+VC,Visteon Corp,NASDAQ,105.21,Auto - Truck Original Parts,SIC-3714 Motor Vehicle Parts & Accessories,4/28/2022
+HES,Hess Corp,NYSE,105.15,Oil - US Integrated,SIC-2911 Petroleum Refining,4/28/2022
+LDOS,Leidos Holdings Inc,NYSE,105.03,Aerospace - Defense,SIC-7373 Services-Computer Integrated Systems Design,4/28/2022
+AIT,Applied Industrial Technologies,NYSE,104.98,Machinery - General Industrial,"SIC-5080 Wholesale-Machinery, Equipment & Supplies",4/28/2022
+PRFT,Perficient Inc,NASDAQ,104.9,Computer - Services,SIC-7371 Services-Computer Programming Services,4/28/2022
+FISV,Fiserv Inc,NASDAQ,104.74,Financial Transaction Services,"SIC-7389 Services-Business Services, NEC",4/28/2022
+SCL,Stepan Company,NYSE,104.71,Chemical - Diversified,"SIC-2840 Soap, Detergents, Cleaning Preparations, Per",4/28/2022
+SQ,Block Inc,NYSE,104.64,Technology Services,SIC-7372 Services-Prepackaged Software,4/28/2022
+ROST,Ross Stores Inc,NASDAQ,104.17,Retail - Discount,SIC-5651 Retail-Family Clothing Stores,4/28/2022
+RJF,Raymond James Financial,NYSE,104.04,Finance - Investment Brokers,"SIC-6211 Security Brokers, Dealers & Flotation Compan",4/28/2022
+USPH,U.S. Physical Therapy,NYSE,103.96,Medical - Outpatient & Hm Care,SIC-8000 Services-Health Services,4/28/2022
+EXPO,Exponent Inc,NASDAQ,103.88,Consulting,SIC-8742 Services-Management Consulting Services,4/28/2022
+FIS,Fidelity National Information Services,NYSE,103.79,Financial Transaction Services,"SIC-7389 Services-Business Services, NEC",4/28/2022
+MKC,Mccormick & Company,NYSE,103.73,Food - Misc & Diversified,SIC-2090 Miscellaneous Food Preparations & Kindred Pr,4/28/2022
+FIVN,Five9 Inc,NASDAQ,103.04,Internet - Software,SIC-7374 Services-Computer Processing & Data Preparat,4/28/2022
+TRI,Thomson Reuters Corp,NYSE,102.93,Technology Services,SIC-2741 Miscellaneous Publishing,4/28/2022
+HHC,Howard Hughes Corp,NYSE,102.9,Real Estate Developers,SIC-6798 Real Estate Investment Trusts,4/28/2022
+WEC,Wisconsin Energy Corp,NYSE,102.78,Utility - Electric Power,SIC-4931 Electric & Other Services Combined,4/28/2022
+RY,Royal Bank of Canada,NYSE,102.73,Banks - Foreign,"SIC-6029 Commercial Banks, NEC",4/28/2022
+SAP,SAP Ag ADR,NYSE,102.71,Computer - Software,SIC-7372 Services-Prepackaged Software,4/28/2022
+SPOT,Spotify Technology S.A.,NYSE,102.68,Technology Services,SIC-4832 Radio Broadcasting Stations,4/28/2022
+WK,Workiva Llc,NYSE,102.61,Internet - Software,SIC-7372 Services-Prepackaged Software,4/28/2022
+ZM,Zoom Video Communications Cl A,NASDAQ,102.56,Internet - Software,"SIC-7370 Services-Computer Programming, Data Processi",4/28/2022
+AEP,American Electric Power Company,NASDAQ,102.43,Utility - Electric Power,SIC-4911 Electric Services,4/28/2022
+PM,Philip Morris International Inc,NYSE,102.41,Tobacco,SIC-2111 Cigarettes,4/28/2022
+EXPD,Expeditors Intl,NASDAQ,102.37,Transportation - Services,SIC-4731 Arrangement of Transportation of Freight & C,4/28/2022
+HZNP,Horizon Therapeutics,NASDAQ,102.22,Medical - Biomedical,SIC-2834 Pharmaceutical Preparations,4/28/2022
+MKC.V,Mccormick & Co. Inc,NYSE,102.2,Food - Misc & Diversified,N/A,4/28/2022
+SNX,Synnex Corp,NYSE,102.01,Business Software Services,SIC-5045 Wholesale-Computers & Peripheral Equipment &,4/28/2022
+ETSY,Etsy Inc,NASDAQ,101.88,Internet - Services,"SIC-7389 Services-Business Services, NEC",4/28/2022
+RHI,Robert Half International Inc,NYSE,101.81,Staffing,SIC-7363 Services-Help Supply Services,4/28/2022
+GL,Globe Life Inc,NYSE,101.79,Finance - Misc Services,SIC-6311 Life Insurance,4/28/2022
+DKS,Dick's Sporting Goods Inc,NYSE,101.44,Retail - Misc & Diversified,SIC-5940 Retail-Miscellaneous Shopping Goods Stores,4/28/2022
+SMG,Scotts Miracle-Gro Company,NYSE,101.35,Fertilizers,SIC-2870 Agricultural Chemicals,4/28/2022
+NSIT,Insight Enterpr,NASDAQ,101.3,Retail - Mail Order,SIC-5961 Retail-Catalog & Mail-Order Houses,4/28/2022
+NTR,Nutrien Ltd,NYSE,101.3,Fertilizers,SIC-2870 Agricultural Chemicals,4/28/2022
+QDEL,Quidel Cp,NASDAQ,100.98,Medical Products,SIC-2835 In Vitro & In Vivo Diagnostic Substances,4/28/2022
+CVS,CVS Corp,NYSE,100.85,Retail - Drug Stores,SIC-5912 Retail-Drug Stores and Proprietary Stores,4/28/2022
+AMN,Amn Healthcare Services Inc,NYSE,100.75,Medical Services,SIC-7363 Services-Help Supply Services,4/28/2022
+FN,Fabrinet,NYSE,100.73,Electronics - Misc Components,SIC-3661 Telephone & Telegraph Apparatus,4/28/2022
+CTXS,Citrix Systems Inc,NASDAQ,100.71,Computer - Software,SIC-7372 Services-Prepackaged Software,4/28/2022
+CHD,Church & Dwight Company,NYSE,100.4,Soap and Cleaning Products,"SIC-2840 Soap, Detergents, Cleaning Preparations, Per",4/28/2022
+LCII,Lci Industries,NYSE,100.29,Auto - Truck Original Parts,SIC-3714 Motor Vehicle Parts & Accessories,4/28/2022
+KALU,Kaiser Aluminum,NASDAQ,100,Metal Production & Fabrication,SIC-3350 Rolling Drawing & Extruding of Nonferrous Me,4/28/2022
+FORTY,Formula Sys [1985] ADR,NASDAQ,99.93,Computer - Services,SIC-7371 Services-Computer Programming Services,4/28/2022
+NVMI,Nova Ltd,NASDAQ,99.76,Electronics - Semiconductors,SIC-3827 Optical Instruments & Lenses,4/28/2022
+RPD,Rapid7 Inc,NASDAQ,99.64,Internet - Software,SIC-7372 Services-Prepackaged Software,4/28/2022
+ATKR,Atkore Inc,NYSE,98.72,Wire & Cable Products,"SIC-3690 Miscellaneous Electrical Machinery, Equipmen",4/28/2022
+CR,Crane Company,NYSE,98.72,Conglomerates - Div Operations,SIC-3490 Miscellaneous Fabricated Metal Products,4/28/2022
+ICFI,Icf International,NASDAQ,98.59,Government Services,SIC-8742 Services-Management Consulting Services,4/28/2022
+LOPE,Grand Canyon Educati,NASDAQ,98.55,Schools,SIC-8200 Services-Educational Services,4/28/2022
+CF,Cf Industries Holdings,NYSE,98.54,Fertilizers,SIC-2870 Agricultural Chemicals,4/28/2022
+ASND,Ascendis Pharma ADR,NASDAQ,98.5,Medical - Biomedical,SIC-2834 Pharmaceutical Preparations,4/28/2022
+FRPT,Freshpet Inc CS,NASDAQ,98.49,Food - Misc & Diversified,SIC-2040 Grain Mill Products,4/28/2022
+TNDM,Tandem Diabetes Care,NASDAQ,98.43,Medical Instruments,SIC-3841 Surgical & Medical Instruments & Apparatus,4/28/2022
+DORM,Dorman Products Inc,NASDAQ,98.24,Auto - Truck Replacement Parts,SIC-3714 Motor Vehicle Parts & Accessories,4/28/2022
+H,Hyatt Hotels Corp,NYSE,98.13,Hotels & Motels,SIC-7011 Hotels & Motels,4/28/2022
+RTX,Raytheon Technologies Corp,NYSE,98.08,Aerospace - Defense Equipment,SIC-3724 Aircraft Engines & Engine Parts,4/28/2022
+CSR,Centerspace,NYSE,98.05,REIT - Equity Trust Resident,SIC-6798 Real Estate Investment Trusts,4/28/2022
+FWRD,Foward Air Corp,NASDAQ,98,Transportation - Truck,SIC-4731 Arrangement of Transportation of Freight & C,4/28/2022
+WING,Wingstop Inc,NASDAQ,97.78,Retail - Restaurants,SIC-5812 Retail-Eating Places,4/28/2022
+BHVN,Biohaven Pharmaceutical Holding Ltd,NYSE,97.74,Medical - Biomedical,SIC-2834 Pharmaceutical Preparations,4/28/2022
+PII,Polaris Industries Inc,NYSE,97.63,Auto - Domestic,SIC-3790 Miscellaneous Transportation Equipment,4/28/2022
+RHP,Ryman Hospitality Properties REIT,NYSE,97.58,REIT - Equity Trust Other,SIC-6798 Real Estate Investment Trusts,4/28/2022
+COP,Conocophillips,NYSE,97.55,Oil - US Integrated,SIC-2911 Petroleum Refining,4/28/2022
+SXI,Standex International Corp,NYSE,96.78,Machinery - General Industrial,SIC-3580 Refrigeration & Service Industry Machinery,4/28/2022
+GPOR,Gulfport Energy Corp,NYSE,96.75,Oil - US Exploration & Product,SIC-1311 Crude Petroleum & Natural Gas,4/28/2022
+LGIH,LGI Homes Inc,NASDAQ,96.46,Real Estate Developers,SIC-1531 Operative Builders,4/28/2022
+WOLF,Wolfspeed Inc,NYSE,96.16,Semi Discretes,SIC-3674 Semiconductors & Related Devices,4/28/2022
+IOSP,Innospec Inc,NASDAQ,96.09,Chemical - Diversified,SIC-2800 Chemicals & Allied Products,4/28/2022
+TSN,Tyson Foods,NYSE,95.69,Food - Meat Products,SIC-2015 Poultry Slaughtering and Processing,4/28/2022
+AEE,Ameren Corp,NYSE,95.45,Utility - Electric Power,SIC-4931 Electric & Other Services Combined,4/28/2022
+ED,Consolidated Edison Company of New York,NYSE,95.44,Utility - Electric Power,SIC-4931 Electric & Other Services Combined,4/28/2022
+NPO,Enpro Industries,NYSE,95.3,Machinery - General Industrial,"SIC-3050 Gaskets, Package & Sealing Devices & Rubber",4/28/2022
+NET,Cloudflare Inc Cl A,NYSE,95.25,Internet - Software,SIC-7372 Services-Prepackaged Software,4/28/2022
+TSM,Taiwan Semiconductor ADR,NYSE,95.22,Semi Fab Foundries,SIC-3674 Semiconductors & Related Devices,4/28/2022
+IPGP,Ipg Photonics Corp,NASDAQ,95.14,Lasers - Systems & Components,SIC-3674 Semiconductors & Related Devices,4/28/2022
+NXRT,Nexpoint Residential Trust Inc,NYSE,95,REIT - Equity Trust Resident,SIC-6798 Real Estate Investment Trusts,4/28/2022
+BOOT,Boot Barn Holdings Inc,NYSE,94.44,Retail - Apparel & Shoes,SIC-5661 Retail-Shoe Stores,4/28/2022
+WELL,Welltower Inc,NYSE,94.44,REIT - Equity Trust Other,SIC-6798 Real Estate Investment Trusts,4/28/2022
+OSK,Oshkosh Truck Corp,NYSE,94.09,Auto - Truck Original Parts,SIC-3711 Motor Vehicles & Passenger Car Bodies,4/28/2022
+IMKTA,Ingles Markets Inc,NASDAQ,94.05,Retail - Supermarket,SIC-5411 Retail-Grocery Stores,4/28/2022
+OXM,Oxford Industries,NYSE,93.92,Textile - Apparel,"SIC-2320 Mens & Boys Furnishings, Work Clothg, & Alli",4/28/2022
+MGPI,MGP Ingredients Inc,NASDAQ,93.85,Food - Misc & Diversified,"SIC-5180 Wholesale-Beer, Wine & Distilled Alcoholic B",4/28/2022
+CERN,Cerner Corp,NASDAQ,93.79,Medical Information Systems,SIC-7373 Services-Computer Integrated Systems Design,4/28/2022
+WAB,Wabtec Corp,NYSE,93.64,Transportation - Equip & Lease,SIC-3743 Railroad Equipment,4/28/2022
+BBY,Best Buy Company,NYSE,93.58,Retail - Consumer Electronics,"SIC-5731 Retail-Radio, Tv & Consumer Electronics Stor",4/28/2022
+UMBF,Ump Financial Corp,NASDAQ,93.56,Banks - Midwest,SIC-6021 National Commercial Banks,4/28/2022
+LGND,Ligand Pharm,NASDAQ,93.4,Medical - Biomedical,SIC-2834 Pharmaceutical Preparations,4/28/2022
+MAN,Manpower Inc,NYSE,93.07,Staffing,SIC-7363 Services-Help Supply Services,4/28/2022
+TNET,Trinet Group Inc,NYSE,92.65,Outsourcing,"SIC-7389 Services-Business Services, NEC",4/28/2022
+ADM,Archer Daniels Midland,NYSE,92.51,Agriculture Operations,SIC-2070 Fats & Oils,4/28/2022
+DUOL,Duolingo Inc Cl A,NASDAQ,92.33,Technology Services,SIC-7372 Services-Prepackaged Software,4/28/2022
+EMR,Emerson Electric Company,NYSE,92.31,Machinery - Electrical,SIC-3600 Electronic & Other Electrical Equipment (No,4/28/2022
+PYPL,Paypal Holdings,NASDAQ,92.09,Internet - Software,"SIC-7389 Services-Business Services, NEC",4/28/2022
+PZZA,Papa John's Intl,NASDAQ,92.04,Retail - Restaurants,SIC-5812 Retail-Eating Places,4/28/2022
+OC,Owens Corning Inc,NYSE,91.96,Building & Construction - Misc,"SIC-3290 Abrasive, Asbestos & Misc Non-metallic Miner",4/28/2022
+IX,Orix Corp ADR,NYSE,91.83,Finance - Misc Services,SIC-6159 Miscellaneous Business Credit Institution,4/28/2022
+NBIX,Neurocrine Bioscienc,NASDAQ,91.68,Medical - Drugs,"SIC-2836 Biological Products, (No Disgnostic Substanc",4/28/2022
+ROKU,Roku Inc,NASDAQ,91.63,Broadcast - Radio & TV,SIC-4841 Cable & Other Pay Television Services,4/28/2022
+NTES,Netease Inc ADR,NASDAQ,91.29,Internet Software Services,SIC-7372 Services-Prepackaged Software,4/28/2022
+BABA,Alibaba Group Holding ADR,NYSE,90.91,Internet Commerce,"SIC-7389 Services-Business Services, NEC",4/28/2022
+ZD,Ziff Davis Inc,NASDAQ,90.89,Internet - Software,SIC-4822 Telegraph & Other Message Communications,4/28/2022
+TRU,Transunion,NYSE,90.89,Business Information,"SIC-7320 Services-Consumer Credit Reporting, Collecti",4/28/2022
+WH,Wyndham Hotels & Resorts Inc,NYSE,90.71,Hotels & Motels,SIC-7011 Hotels & Motels,4/28/2022
+RYAAY,Ryanair Hlds Plc ADR,NASDAQ,90.49,Transportation - Airline,"SIC-4512 Air Transportation, Scheduled",4/28/2022
+HAS,Hasbro Inc,NASDAQ,90.46,Toys & Game & Hobby,,4/28/2022
+COUP,Coupa Software Inc,NASDAQ,90.41,Internet - Software,SIC-7372 Services-Prepackaged Software,4/28/2022
+NVS,Novartis Ag ADR,NYSE,90.22,Large Cap Pharma,SIC-2834 Pharmaceutical Preparations,4/28/2022
+ES,Eversource Energy,NYSE,90.2,Utility - Electric Power,SIC-4911 Electric Services,4/28/2022
+MSEX,Middlesex Water Company,NASDAQ,90.06,Utility - Water Supply,SIC-4941 Water Supply,4/28/2022
+CTLT,Catalent Inc,NYSE,89.9,Medical - Drugs,SIC-2834 Pharmaceutical Preparations,4/28/2022
+WTFC,Wintrust Financial Corp,NASDAQ,89.81,Banks - Midwest,SIC-6022 State Commercial Banks,4/28/2022
+MPC,Marathon Petroleum Corp,NYSE,89.69,Oil - Refining and Marketing,SIC-2911 Petroleum Refining,4/28/2022
+STLD,Steel Dynamics Inc,NASDAQ,89.65,Steel - Producers,"SIC-3312 Steel Works, Blast Furnaces & Rolling Mills",4/28/2022
+AMD,Adv Micro Devices,NASDAQ,89.64,Electronics - Semiconductors,SIC-3674 Semiconductors & Related Devices,4/28/2022
+GWRE,Guidewire Software Inc,NYSE,89.61,Business Software Services,SIC-7372 Services-Prepackaged Software,4/28/2022
+WFG,West Fraser Timber L,NYSE,89.54,Agriculture Products,"SIC-2421 Sawmills & Planting Mills, General",4/28/2022
+KMX,Carmax Inc,NYSE,89.1,Retail - Wholesale Auto Parts,SIC-5500 Retail-Auto Dealers & Gasoline Stations,4/28/2022
+MATX,Matson Inc,NYSE,88.85,Transportation - Services,SIC-4400 Water Transportation,4/28/2022
+MCB,Metropolitan Bank Holding Corp,NYSE,88.72,Banks - Northeast,SIC-6022 State Commercial Banks,4/28/2022
+CRI,Carter's Inc,NYSE,88.69,Shoes and Related Apparel,SIC-2300 Apparel & Other Finished Prods of Fabrics &,4/28/2022
+MRK,Merck & Company,NYSE,88.58,Large Cap Pharma,SIC-2834 Pharmaceutical Preparations,4/28/2022
+SYY,Sysco Corp,NYSE,88.32,Food - Misc & Diversified,SIC-5140 Wholesale-Groceries & Related Products,4/28/2022
+SWX,Southwest Gas Corp,NYSE,88.29,Utility - Gas Distribution,SIC-4923 Natural Gas Transmission & Distribution,4/28/2022
+COLM,Columbia Sprtswr,NASDAQ,88.26,Textile - Apparel,SIC-2300 Apparel & Other Finished Prods of Fabrics &,4/28/2022
+SPB,Spectrum Brands Holdings Inc,NYSE,88.12,Consumer Prdts - Misc Discr,"SIC-3690 Miscellaneous Electrical Machinery, Equipmen",4/28/2022
+AWI,Armstrong World Industries Inc,NYSE,87.94,Building & Construction - Misc,"SIC-3089 Plastics Products, NEC",4/28/2022
+MNST,Monster Beverage Cp,NASDAQ,87.81,Beverages - Soft,SIC-2086 Bottled & Canned Soft Drinks & Carbonated Wa,4/28/2022
+SAFT,Safety Ins Group Inc,NASDAQ,87.64,Insurance - Proprty & Casualty,"SIC-6331 Fire, Marine & Casualty Insurance",4/28/2022
+OGS,One Gas Inc,NYSE,87.57,Utility - Gas Distribution,SIC-4924 Natural Gas Distribution,4/28/2022
+RNG,Ringcentral Inc,NYSE,87.44,Internet Software Services,SIC-7374 Services-Computer Processing & Data Preparat,4/28/2022
+DASH,Doordash Inc Cl A,NYSE,87.39,Internet - Services,,4/28/2022
+GDDY,Godaddy Inc,NYSE,87.33,Internet Services - Delivery,SIC-7373 Services-Computer Integrated Systems Design,4/28/2022
+SONY,Sony Group Corp ADR,NYSE,87.3,Audio & Video Products,SIC-3651 Household Audio & Video Equipment,4/28/2022
+HLI,Houlihan Lokey,NYSE,87.24,Finance - Misc Services,SIC-6282 Investment Advice,4/28/2022
+PSX,Phillips 66,NYSE,87.21,Oil - Refining and Marketing,SIC-2911 Petroleum Refining,4/28/2022
+XOM,Exxon Mobil Corp,NYSE,87.2,Oil - International Integrated,SIC-2911 Petroleum Refining,4/28/2022
+DY,Dycom Industries,NYSE,87.15,Building - Heavy Construction,"SIC-1623 Water, Sewer, Pipeline, Comm & Power Line Co",4/28/2022
+MOG.B,Moog Inc Cl B,NYSE,87.1,Aerospace - Defense Equipment,N/A,4/25/2022
+IAC,Iac Interactivecorp,NASDAQ,87.06,Industrial Services,"SIC-7370 Services-Computer Programming, Data Processi",4/28/2022
+CWST,Casella Waste Sys,NASDAQ,86.92,Pollution Controls,SIC-4953 Refuse Systems,4/28/2022
+MTRN,Materion Corp,NYSE,86.79,Mining - Misc,SIC-3460 Metal Forgings & Stampings,4/28/2022
+REX,Rex American Resources Corp,NYSE,86.79,Biofuels,SIC-2860 Industrial Organic Chemicals,4/28/2022
+INGR,Ingredion Inc,NYSE,86.35,Food - Misc & Diversified,SIC-2040 Grain Mill Products,4/28/2022
+UTMD,Utah Medical Prod,NASDAQ,86.16,Medical Products,SIC-3841 Surgical & Medical Instruments & Apparatus,4/28/2022
+EQR,Equity Residential,NYSE,86.05,REIT - Equity Trust Resident,SIC-6798 Real Estate Investment Trusts,4/28/2022
+FIX,Comfort Systems USA,NYSE,86.02,Building Prdcts - Air Heating,SIC-1731 Electrical Work,4/28/2022
+RPM,RPM International Inc,NYSE,86.02,Paint & Related Products,"SIC-2851 Paints, Varnishes, Lacquers, Enamels & Allie",4/28/2022
+WPC,W.P. Carey & Co. Llc,NYSE,85.84,REIT - Equity Trust Other,SIC-6798 Real Estate Investment Trusts,4/28/2022
+CBRE,CBRE Group Inc,NYSE,85.61,Real Estate Operations,SIC-6500 Real Estate,4/28/2022
+DOCU,Docusign Inc,NASDAQ,85.37,Technology Services,SIC-7372 Services-Prepackaged Software,4/28/2022
+AMBA,Ambarella Inc,NASDAQ,85.23,Electronics - Semiconductors,SIC-3674 Semiconductors & Related Devices,4/28/2022
+BOKF,Bok Financial Corp,NASDAQ,85.18,Banks - Southwest,SIC-6021 National Commercial Banks,4/28/2022
+MSM,Msc Industrial Direct Company,NYSE,85.09,Industrial Services,SIC-5084 Wholesale-Industrial Machinery & Equipment,4/28/2022
+PCAR,Paccar Inc,NASDAQ,85.06,Auto - Domestic,SIC-3711 Motor Vehicles & Passenger Car Bodies,4/28/2022
+SXT,Sensient Technologies Corp,NYSE,84.98,Chemical - Specialty,SIC-2860 Industrial Organic Chemicals,4/28/2022
+FND,Floor & Decor Holdings Inc,NYSE,84.97,Building Products - Wood,SIC-5211 Retail-Lumber & Other Building Materials Dea,4/28/2022
+ADUS,Addus Homecare Corp,NASDAQ,84.88,Medical - Outpatient & Hm Care,SIC-8082 Services-Home Health Care Services,4/28/2022
+SIGI,Selective Ins Group,NASDAQ,84.88,Insurance - Proprty & Casualty,"SIC-6331 Fire, Marine & Casualty Insurance",4/28/2022
+JACK,Jack IN The Box Inc,NASDAQ,84.81,Retail - Restaurants,SIC-5812 Retail-Eating Places,4/28/2022
+FOXF,Fox Factory Cp,NASDAQ,84.75,Auto - Domestic,"SIC-3751 Motorcycles, Bicycles & Parts",4/28/2022
+MOG.A,Moog Inc Cl A,NYSE,84.73,Aerospace - Defense Equipment,SIC-3590 Misc Industrial & Commercial Machinery & Equ,4/28/2022
+MGRC,Mcgrath Rentcorp,NASDAQ,84.71,Finance - Leasing Companies,"SIC-7359 Services-Equipment Rental & Leasing, NEC",4/28/2022
+POWI,Power Integratn,NASDAQ,84.7,Semi Power,SIC-3674 Semiconductors & Related Devices,4/28/2022
+SE,Sea Ltd ADR,NYSE,84.7,Internet - Software,SIC-7380 Services-Miscellaneous Business Services,4/28/2022
+SAIC,Science Applications International,NYSE,84.67,IT Services,SIC-7373 Services-Computer Integrated Systems Design,4/28/2022
+CMA,Comerica Inc,NYSE,84.66,Banks - Major Regional,SIC-6021 National Commercial Banks,4/28/2022
+CHK,Chesapeake Energy Corp,NASDAQ,84.46,Other Alt Energy,SIC-1311 Crude Petroleum & Natural Gas,4/28/2022
+TREE,Lendingtree Inc,NASDAQ,84.43,Finance - Mortgage & Rel Svs,SIC-6163 Loan Brokers,4/28/2022
+CATC,Cambridge Bancorp,NASDAQ,84.38,Banks - Northeast,SIC-6022 State Commercial Banks,4/28/2022
+TXRH,Texas Roadhouse Inc,NASDAQ,84.37,Retail - Restaurants,SIC-5812 Retail-Eating Places,4/28/2022
+MTH,Meritage Corp,NYSE,84.34,Building - Residential & Comm,SIC-1531 Operative Builders,4/28/2022
+EVA,Enviva Partners LP,NYSE,84.13,Building Products - Wood,SIC-2400 Lumber & Wood Products (No Furniture),4/28/2022
+CTSH,Cognizant Tech Sol,NASDAQ,83.97,Business Software Services,SIC-7371 Services-Computer Programming Services,4/28/2022
+NNI,Nelnet Inc,NYSE,83.91,Finance - Consumer Loans,SIC-6141 Personal Credit Institutions,4/28/2022
+D,Dominion Resources,NYSE,83.87,Utility - Electric Power,SIC-4911 Electric Services,4/28/2022
+NCBS,Nicolet Bnkshr,NASDAQ,83.77,Banks - Northeast,SIC-6021 National Commercial Banks,4/28/2022
+TFII,Tfi International Inc,NYSE,83.54,Transportation - Services,SIC-4210 Trucking & Courier Services (No Air),4/28/2022
+BAH,Booz Allen Hamilton Holding Corp,NYSE,83.46,Government Services,SIC-8742 Services-Management Consulting Services,4/28/2022
+XYL,Xylem Inc,NYSE,83.41,Machinery - General Industrial,SIC-3561 Pumps & Pumping Equipment,4/28/2022
+MS,Morgan Stanley,NYSE,83.4,Finance - Investment Brokers,"SIC-6211 Security Brokers, Dealers & Flotation Compan",4/28/2022
+W,Wayfair Inc,NYSE,83.39,Internet Commerce,SIC-5961 Retail-Catalog & Mail-Order Houses,4/28/2022
+HSIC,Henry Schein Inc,NASDAQ,83.37,Medical - Dental Suppliers,"SIC-5047 Wholesale-Medical, Dental & Hospital Equipme",4/28/2022
+BANF,Bancfirst Corp,NASDAQ,83.34,Banks - Southwest,SIC-6021 National Commercial Banks,4/28/2022
+CRAI,Cra International,NASDAQ,83.34,Consulting,SIC-8111 Services-Legal Services,4/28/2022
+LITE,Lumentum Holdings,NASDAQ,83.26,Lasers - Systems & Components,"SIC-3669 Communications Equipment, NEC",4/28/2022
+SIMO,Silicon Motion Techn ADR,NASDAQ,83.25,Electronics - Semiconductors,SIC-3674 Semiconductors & Related Devices,4/28/2022
+IPI,Intrepid Potash Inc,NYSE,83.06,Fertilizers,SIC-1400 Mining & Quarrying of Nonmetallic Minerals (,4/28/2022
+IBP,Installed Building Products,NYSE,82.96,Building & Construction - Misc,SIC-1520 General Bldg Contractors - Residential Bldgs,4/28/2022
+IPAR,Inter Parfums Inc,NASDAQ,82.96,Cosmetics & Toiletries,"SIC-2844 Perfumes, Cosmetics & Other Toilet Preparati",4/28/2022
+BLL,Ball Corp,NYSE,82.93,Containers - Metal & Glass,SIC-3411 Metal Cans,4/28/2022
+CRMT,America's Car-Mart,NASDAQ,82.73,Retail - Wsale Auto & Trucks,SIC-5500 Retail-Auto Dealers & Gasoline Stations,4/28/2022
+BMRN,Biomarin Pharmaceuticals,NASDAQ,82.64,Medical - Biomedical,SIC-2834 Pharmaceutical Preparations,4/28/2022
+PLXS,Plexus Cp,NASDAQ,82.6,Electronic Manufacturing,SIC-3672 Printed Circuit Boards,4/28/2022
+REXR,Rexford Industrial Realty Inc,NYSE,82.51,REIT - Equity Trust Other,SIC-6798 Real Estate Investment Trusts,4/28/2022
+DAC,Danaos Corp,NYSE,82.45,Transportation - Ship,SIC-4412 Deep Sea Foreign Transportation of Freight,4/28/2022
+MYRG,MYR Group Inc,NASDAQ,82.22,Electrical Construction,"SIC-1623 Water, Sewer, Pipeline, Comm & Power Line Co",4/28/2022
+STX,Seagate Technology Hldgs Plc,NASDAQ,82.17,Technology Services,SIC-3572 Computer Storage Devices,4/28/2022
+BMI,Badger Meter,NYSE,82.14,Industrial Controls,SIC-3824 Totalizing Fluid Meters & Counting Devices,4/28/2022
+ENSG,The Ensign Group IN,NASDAQ,81.97,Medical - Nursing Homes,SIC-8051 Services-Skilled Nursing Care Facilities,4/28/2022
+SFBS,Servisfirst Bancs,NYSE,81.93,Finance - Savings & Loan,SIC-6022 State Commercial Banks,4/28/2022
+TTC,Toro Company,NYSE,81.87,Tools - Hand Held,SIC-3524 Lawn & Garden Tractors & Home Lawn & Gardens,4/28/2022
+PLNT,Planet Fitness,NYSE,81.76,Leisure & Recreation Services,SIC-7997 Services-Membership Sports & Recreation Club,4/28/2022
+AVAV,Aerovironment Inc,NASDAQ,81.72,Aerospace - Defense Equipment,SIC-3721 Aircraft,4/28/2022
+MTCH,Match Group Inc,NASDAQ,81.6,Internet Commerce,"SIC-7370 Services-Computer Programming, Data Processi",4/28/2022
+CNC,Centene Corp,NYSE,81.59,Medical - HMO,SIC-6324 Hospital & Medical Service Plans,4/28/2022
+MANT,Mantech Intl Cp A,NASDAQ,81.47,Computer - Services,SIC-8741 Services-Management Services,4/28/2022
+AWR,American States Water Company,NYSE,81.36,Utility - Water Supply,SIC-4941 Water Supply,4/28/2022
+DOOO,Brp Inc,NASDAQ,81.35,Auto - Truck Original Parts,SIC-3790 Miscellaneous Transportation Equipment,4/28/2022
+GIB,CGI Group,NYSE,81.26,Computer - Services,SIC-8742 Services-Management Consulting Services,4/28/2022
+CL,Colgate-Palmolive Company,NYSE,81.22,Soap and Cleaning Products,"SIC-2844 Perfumes, Cosmetics & Other Toilet Preparati",4/28/2022
+ESTC,Elastic N.V.,NYSE,81.07,Technology Services,SIC-7372 Services-Prepackaged Software,4/28/2022
+WMK,Weis Markets,NYSE,81.07,Retail - Supermarket,SIC-5411 Retail-Grocery Stores,4/28/2022
+PSMT,Pricesmart Inc,NASDAQ,81.01,Retail - Discount,SIC-5331 Retail-Variety Stores,4/28/2022
+ORA,Ormat Technologies,NYSE,80.96,Other Alt Energy,SIC-4911 Electric Services,4/28/2022
+WIX,Wix.com Ltd,NASDAQ,80.82,IT Services,"SIC-7370 Services-Computer Programming, Data Processi",4/28/2022
+WNS,Wns Ltd ADR,NYSE,80.8,Business Services,"SIC-7389 Services-Business Services, NEC",4/28/2022
+BPOP,Popular Inc,NASDAQ,80.76,Banks - Southeast,SIC-6022 State Commercial Banks,4/28/2022
+RCL,Royal Caribbean Cruises Ltd,NYSE,80.69,Leisure & Recreation Services,SIC-4400 Water Transportation,4/28/2022
+DOX,Amdocs Ltd Ord,NASDAQ,80.57,IT Services,SIC-7371 Services-Computer Programming Services,4/28/2022
+ELS,Equity Lifestyle Properties,NYSE,80.43,REIT - Equity Trust Resident,SIC-6798 Real Estate Investment Trusts,4/28/2022
+AIN,Albany International Corp,NYSE,80.35,Textile - Products,"SIC-2221 Broadwoven Fabric Mills, Man Made Fiber & Si",4/28/2022
+ENV,Envestnet Inc,NYSE,79.88,Financial Transaction Services,"SIC-7389 Services-Business Services, NEC",4/28/2022
+MIME,Mimecast Ltd Ord,NASDAQ,79.72,Internet - Software,SIC-7372 Services-Prepackaged Software,4/28/2022
+DOOR,Masonite Worldwide Holdings,NYSE,79.57,Building Products - Wood,"SIC-2430 Millwood, Veneer, Plywood, & Structural Wood",4/28/2022
+PNFP,Pinnacle Finl Ptnrs,NASDAQ,79.5,Banks - Southeast,SIC-6021 National Commercial Banks,4/28/2022
+LIVN,Livanova Plc OR Sh,NASDAQ,79.38,Medical Instruments,SIC-3845 Electromedical & Electrotherapeutic Apparatu,4/28/2022
+ITGR,Integer Holdings Corp,NYSE,79.15,Medical Instruments,"SIC-3690 Miscellaneous Electrical Machinery, Equipmen",4/28/2022
+AMRK,A-Mark Precious Meta,NASDAQ,79.13,Precious Metals & Jewelry,"SIC-5094 Wholesale-Jewelry, Watches, Precious Stones",4/28/2022
+UFPI,Universal Forest Prd,NASDAQ,79.1,Building Products - Wood,"SIC-2421 Sawmills & Planting Mills, General",4/28/2022
+PNRG,Primeenergy Cp,NASDAQ,79,Oil - US Exploration & Product,SIC-1311 Crude Petroleum & Natural Gas,4/28/2022
+JBSS,John B Sanfilippo,NASDAQ,78.88,Food - Misc & Diversified,SIC-2060 Sugar & Confectionery Products,4/28/2022
+AVLR,Avalara Inc,NYSE,78.81,Internet - Software,SIC-7372 Services-Prepackaged Software,4/28/2022
+WAL,Western Alliance Bancorp,NYSE,78.69,Banks - West,SIC-6022 State Commercial Banks,4/28/2022
+OMC,Omnicom Group Inc,NYSE,78.67,Advertising Marketing Services,SIC-7311 Services-Advertising Agencies,4/28/2022
+INDB,Independent Bk Corp,NASDAQ,78.64,Banks - Northeast,SIC-6022 State Commercial Banks,4/28/2022
+LEN,Lennar Corp,NYSE,78.59,Building - Residential & Comm,SIC-1520 General Bldg Contractors - Residential Bldgs,4/28/2022
+SSTK,Shutterstock Inc,NYSE,78.55,Internet - Content,SIC-7374 Services-Computer Processing & Data Preparat,4/28/2022
+MGEE,Mge Energy Inc,NASDAQ,78.53,Utility - Electric Power,"SIC-4900 Electric, Gas & Sanitary Services",4/28/2022
+CHCO,City Holding Company,NASDAQ,78.3,Banks - Southeast,SIC-6021 National Commercial Banks,4/28/2022
+DLB,Dolby Laboratories,NYSE,78.16,Audio & Video Products,SIC-6794 Patent Owners & Lessors,4/28/2022
+UPST,Upstart Holdings Inc,NASDAQ,78.1,IT Services,SIC-6199 Finance Services,4/28/2022
+FCFS,Firstcash Holdings Inc,NASDAQ,77.94,Financial Transaction Services,SIC-5900 Retail-Miscellaneous Retail,4/28/2022
+GE,General Electric Company,NYSE,77.73,Conglomerates - Div Operations,SIC-3600 Electronic & Other Electrical Equipment (No,4/28/2022
+AEIS,Advanced Energy,NASDAQ,77.56,Semi-Eqpt Wafer Fabrication,"SIC-3679 Electronic Components, NEC",4/28/2022
+TRNO,Terreno Realty Corp,NYSE,77.56,REIT - Equity Trust Other,SIC-6500 Real Estate,4/28/2022
+SSB,Southstate Corp,NASDAQ,77.5,Banks - Southeast,SIC-6022 State Commercial Banks,4/28/2022
+CPA,Copa Holdings S.A.,NYSE,77.3,Transportation - Airline,"SIC-4512 Air Transportation, Scheduled",4/28/2022
+BMY,Bristol-Myers Squibb Company,NYSE,77.2,Medical - Biomedical,SIC-2834 Pharmaceutical Preparations,4/28/2022
+NVCR,Novocure Ltd Ord Sh,NASDAQ,77.18,Medical Services,SIC-3841 Surgical & Medical Instruments & Apparatus,4/28/2022
+JOUT,Johnson Outdoors,NASDAQ,77.15,Leisure & Recreational Prdcts,,4/28/2022
+DAR,Darling International Inc,NYSE,77.04,Food - Misc & Diversified,SIC-2070 Fats & Oils,4/28/2022
+CRUS,Cirrus Logic Inc,NASDAQ,77.01,Electronics - Semiconductors,SIC-3674 Semiconductors & Related Devices,4/28/2022
+OSIS,O S I Systems Inc,NASDAQ,76.88,Electronics - Misc Components,SIC-3674 Semiconductors & Related Devices,4/28/2022
+USNA,Usana Health Sciences Inc,NYSE,76.87,Medical - Drugs,SIC-2833 Medicinal Chemicals & Botanical Products,4/28/2022
+GRP.U,Granite Real Estate Invt TR,NYSE,76.85,REIT - Equity Trust Other,SIC-6798 Real Estate Investment Trusts,4/28/2022
+BCC,Boise Cascade L.L.C.,NYSE,76.73,Building Products - Wood,SIC-5030 Wholesale-Lumber & Other Construction Materi,4/28/2022
+THO,Thor Industries,NYSE,76.72,Building - Mobile Homes & RV,SIC-3716 Motor Homes,4/28/2022
+ATVI,Activision Blizzard,NASDAQ,76.7,Toys & Game & Hobby,SIC-7372 Services-Prepackaged Software,4/28/2022
+BOH,Bank of Hawaii Corp,NYSE,76.66,Banks - West,SIC-6022 State Commercial Banks,4/28/2022
+SBUX,Starbucks Corp,NASDAQ,76.58,Retail - Restaurants,SIC-5810 Retail-Eating & Drinking Places,4/28/2022
+NGG,National Grid Transco Plc ADR,NYSE,76.53,Utility - Electric Power,SIC-4922 Natural Gas Transmission,4/28/2022
+ARCB,Arcbest Corp,NASDAQ,76.43,Transportation - Truck,SIC-4213 Trucking (No Local),4/28/2022
+POST,Post Holdings Inc,NYSE,76.38,Food - Misc & Diversified,SIC-2040 Grain Mill Products,4/28/2022
+BC,Brunswick Corp,NYSE,76.36,Leisure & Recreational Prdcts,SIC-3510 Engines & Turbines,4/28/2022
+TRGP,Targa Resources,NYSE,76.26,Oil Refining & Marketing MLP,SIC-4922 Natural Gas Transmission,4/28/2022
+ORCL,Oracle Corp,NYSE,76.14,Computer - Software,SIC-7372 Services-Prepackaged Software,4/28/2022
+OTIS,Otis Worldwide Corp,NYSE,76.07,Building & Construction - Misc,SIC-3600 Electronic & Other Electrical Equipment (No,4/28/2022
+FBHS,Fortune Brands Home & Security,NYSE,76.04,Retail - Home Furniture,"SIC-2430 Millwood, Veneer, Plywood, & Structural Wood",4/28/2022
+NARI,Inari Medical Inc,NASDAQ,75.99,Medical Instruments,SIC-3841 Surgical & Medical Instruments & Apparatus,4/28/2022
+TTEC,Teletech Hlds,NASDAQ,75.92,Technology Services,SIC-7363 Services-Help Supply Services,4/28/2022
+DIOD,Diodes Inc,NASDAQ,75.71,Electronics - Semiconductors,SIC-3674 Semiconductors & Related Devices,4/28/2022
+SO,Southern Company,NYSE,75.58,Utility - Electric Power,SIC-4911 Electric Services,4/28/2022
+CP,Canadian Pacific Railway,NYSE,75.57,Transportation - Rail,"SIC-4011 Railroads, Line-Haul Operating",4/28/2022
+BKH,Black Hills Corp,NYSE,75.53,Utility - Electric Power,SIC-4911 Electric Services,4/28/2022
+WLL,Whiting Petroleum Corp,NYSE,75.51,Oil - US Exploration & Product,SIC-1311 Crude Petroleum & Natural Gas,4/28/2022
+FMX,Fomento Economico Mexicano S.A.B. DE C.V. ADR,NYSE,75.4,Beverages - Soft,SIC-2086 Bottled & Canned Soft Drinks & Carbonated Wa,4/28/2022
+INCY,Incyte Corp,NASDAQ,75.4,Medical - Biomedical,SIC-8731 Services-Commercial Physical & Biological Re,4/28/2022
+MSGE,Madison Square Garden Entertainment Corp,NYSE,75.33,Leisure & Recreation Services,SIC-7900 Services-Amusement & Recreation Services,4/28/2022
+PCRX,Pacira Pharm Inc,NASDAQ,75.32,Medical - Drugs,SIC-2834 Pharmaceutical Preparations,4/28/2022
+TW,Tradeweb Markets Inc,NASDAQ,75.25,Finance - Investment Brokers,"SIC-6200 Security & Commodity Brokers, Dealers, Excha",4/28/2022
+LPI,Laredo Petroleum Holdings Inc,NYSE,75.11,Oil - US Exploration & Product,SIC-1311 Crude Petroleum & Natural Gas,4/28/2022
+AZTA,Azenta Inc,NASDAQ,75.03,Medical Information Systems,"SIC-3559 Special Industry Machinery, NEC",4/28/2022
+MMS,Maximus Inc,NYSE,75.02,Government Services,"SIC-7389 Services-Business Services, NEC",4/28/2022
+NTAP,Netapp Inc,NASDAQ,75,Computer - Storage Devices,SIC-3572 Computer Storage Devices,4/28/2022
+XEL,XCEL Energy Inc,NASDAQ,74.88,Utility - Electric Power,SIC-4931 Electric & Other Services Combined,4/28/2022
+PVH,Phillips-Van Heusen Corp,NYSE,74.81,Textile - Apparel,"SIC-2320 Mens & Boys Furnishings, Work Clothg, & Alli",4/28/2022
+SIG,Signet Jewelers Ltd,NYSE,74.68,Retail - Jewelry,SIC-5944 Retail-Jewelry Stores,4/28/2022
+SR,Spire Inc,NYSE,74.67,Utility - Gas Distribution,SIC-4924 Natural Gas Distribution,4/28/2022
+ALV,Autoliv Inc,NYSE,74.52,Auto - Truck Original Parts,SIC-3714 Motor Vehicle Parts & Accessories,4/28/2022
+PNW,Pinnacle West Capital Corp,NYSE,74.51,Utility - Electric Power,SIC-4911 Electric Services,4/28/2022
+SQM,Sociedad Quimica Y Minera S.A. ADR,NYSE,74.41,Fertilizers,SIC-1400 Mining & Quarrying of Nonmetallic Minerals (,4/28/2022
+ESTA,Establishment Labs Holdings Inc,NASDAQ,74.37,Medical Services,"SIC-3842 Orthopedic, Prosthetic & Surgical Appliances",4/28/2022
+EWBC,East West Bancorp,NASDAQ,74.34,Banks - West,SIC-6022 State Commercial Banks,4/28/2022
+THC,Tenet Healthcare Corp,NYSE,74.2,Medical - Hospitals,SIC-8062 Services-General Medical & Surgical Hospital,4/28/2022
+SRPT,Sarepta Therapeutics,NASDAQ,74.16,Medical - Biomedical,SIC-2834 Pharmaceutical Preparations,4/28/2022
+NPK,National Presto Industries,NYSE,74.03,Conglomerates - Div Operations,"SIC-3480 Ordnance & Accessories, (No Vehicles/Guided",4/28/2022
+BBSI,Barrett Business S,NASDAQ,73.99,Outsourcing,SIC-7363 Services-Help Supply Services,4/28/2022
+DIN,Dineequity Inc,NYSE,73.96,Retail - Restaurants,SIC-5812 Retail-Eating Places,4/28/2022
+INDT,Indus Realty Trust Inc [Md],NASDAQ,73.71,REIT - Equity Trust Other,SIC-6500 Real Estate,4/28/2022
+APH,Amphenol Corp,NYSE,73.55,Electronics - Connectors,SIC-3678 Electronic Connectors,4/28/2022
+NEE,Nextera Energy,NYSE,73.49,Utility - Electric Power,SIC-4911 Electric Services,4/28/2022
+TRNS,Transcat Inc,NASDAQ,73.49,Industrial Controls,SIC-3825 Instruments For Meas & Testing of Electricit,4/28/2022
+NEM,Newmont Mining Corp,NYSE,73.28,Mining - Misc,SIC-1040 Gold and Silver Ores,4/28/2022
+KRC,Kilroy Realty Corp,NYSE,73.2,REIT - Equity Trust Other,SIC-6798 Real Estate Investment Trusts,4/28/2022
+ONTO,Onto Innovation Inc,NYSE,73.17,Nanotechnology,"SIC-3829 Measuring & Controlling Devices, NEC",4/28/2022
+TD,Toronto Dominion Bank,NYSE,73.16,Banks - Foreign,"SIC-6029 Commercial Banks, NEC",4/28/2022
+ALC,Alcon Inc,NYSE,73.1,Medical Instruments,SIC-3851 Ophthalmic Goods,4/28/2022
+LKFN,Lakeland Finl Corp,NASDAQ,72.95,Banks - Midwest,SIC-6022 State Commercial Banks,4/28/2022
+BIPC,Brookfield Infrastructure Partners LP Cl A,NYSE,72.88,Finance - Misc Services,SIC-4923 Natural Gas Transmission & Distribution,4/28/2022
+DHI,D.R. Horton,NYSE,72.86,Building - Residential & Comm,SIC-1531 Operative Builders,4/28/2022
+MTZ,Mastec Inc,NYSE,72.81,Building - Heavy Construction,"SIC-1623 Water, Sewer, Pipeline, Comm & Power Line Co",4/28/2022
+O,Realty Income Corp,NYSE,72.71,REIT - Equity Trust Retail,SIC-6798 Real Estate Investment Trusts,4/28/2022
+SLG,SL Green Realty Corp,NYSE,72.58,REIT - Equity Trust Other,SIC-6798 Real Estate Investment Trusts,4/28/2022
+KNTK,Kinetik Holdings Inc,NASDAQ,72.45,Oil - Field Services,SIC-4922 Natural Gas Transmission,4/28/2022
+GIS,General Mills,NYSE,72.27,Food - Misc & Diversified,SIC-2040 Grain Mill Products,4/28/2022
+FSLR,First Solar Inc,NASDAQ,72.26,Solar,SIC-3674 Semiconductors & Related Devices,4/28/2022
+TXT,Textron Inc,NYSE,72.05,Aerospace - Defense,SIC-3720 Aircraft & Parts,4/28/2022
+REG,Regency Centers Corp,NASDAQ,71.93,REIT - Equity Trust Retail,SIC-6798 Real Estate Investment Trusts,4/28/2022
+FELE,Franklin Electric Company,NASDAQ,71.91,Machinery - Electrical,SIC-3621 Motors & Generators,4/28/2022
+KFRC,Kforce Inc,NASDAQ,71.85,Staffing,SIC-7363 Services-Help Supply Services,4/28/2022
+BFC,Bank First National Corp [Wisconsin],NASDAQ,71.77,Banks - Northeast,SIC-6021 National Commercial Banks,4/28/2022
+ACM,Aecom Technology Corp,NYSE,71.75,Engineering & R&D Services,SIC-8711 Services-Engineering Services,4/28/2022
+ITT,ITT Inc,NYSE,71.7,Conglomerates - Div Operations,SIC-3561 Pumps & Pumping Equipment,4/28/2022
+PEGA,Pegasystems Inc,NASDAQ,71.66,Computer - Software,SIC-7374 Services-Computer Processing & Data Preparat,4/28/2022
+PDCE,Pdc Energy Inc,NASDAQ,71.56,Oil - US Exploration & Product,SIC-1311 Crude Petroleum & Natural Gas,4/28/2022
+RIO,Rio Tinto Plc ADR,NYSE,71.51,Mining - Misc,SIC-1000 Metal Mining,4/28/2022
+HOLX,Hologic Inc,NASDAQ,71.4,Medical Instruments,SIC-3844 X-Ray Apparatus & Tubes & Related Irradiatio,4/28/2022
+MCRI,Monarch Casino,NASDAQ,71.3,Gaming,SIC-7011 Hotels & Motels,4/28/2022
+NFG,National Fuel Gas Company,NYSE,71.28,Utility - Gas Distribution,SIC-4924 Natural Gas Distribution,4/28/2022
+HIG,Hartford Financial Services Group,NYSE,71.27,Insurance - Multi Line,"SIC-6331 Fire, Marine & Casualty Insurance",4/28/2022
+RARE,Ultragenyx Pharmaceu,NASDAQ,71.17,Medical - Biomedical,SIC-2834 Pharmaceutical Preparations,4/28/2022
+PEG,Public Service Enterprise Group Inc,NYSE,71.15,Utility - Electric Power,SIC-4931 Electric & Other Services Combined,4/28/2022
+R,Ryder System,NYSE,70.96,Transportation - Equip & Lease,SIC-7510 Services-Auto Rental & Leasing (No Drivers),4/28/2022
+CMS,Cms Energy Corp,NYSE,70.87,Utility - Electric Power,SIC-4931 Electric & Other Services Combined,4/28/2022
+BAX,Baxter International Inc,NYSE,70.8,Medical Products,SIC-3841 Surgical & Medical Instruments & Apparatus,4/28/2022
+EIX,Edison International,NYSE,70.8,Utility - Electric Power,SIC-4911 Electric Services,4/28/2022
+WYNN,Wynn Resorts Ltd,NASDAQ,70.74,Gaming,SIC-7011 Hotels & Motels,4/28/2022
+ADC,Agree Realty Corp,NYSE,70.73,REIT - Equity Trust Retail,SIC-6798 Real Estate Investment Trusts,4/28/2022
+TBK,Triumph Bancorp,NASDAQ,70.58,Banks - Southeast,SIC-6022 State Commercial Banks,4/28/2022
+MDGL,Madrigal Pharmaceuticals Inc,NASDAQ,70.55,Medical - Drugs,SIC-2834 Pharmaceutical Preparations,4/28/2022
+AA,Alcoa Corp,NYSE,70.52,Metal Products - Distribution,SIC-3334 Primary Production of Aluminium,4/28/2022
+IBTX,Independent Bank Group,NASDAQ,70.48,Banks - Southeast,SIC-6022 State Commercial Banks,4/28/2022
+SYNH,Syneos Health Inc,NASDAQ,70.46,Medical Information Systems,SIC-8731 Services-Commercial Physical & Biological Re,4/28/2022
+PDS,Precision Drilling Corp,NYSE,70.34,Oil & Gas - Drilling,SIC-1381 Drilling Oil & Gas Wells,4/28/2022
+MU,Micron Technology,NASDAQ,70.18,Semi Memory,SIC-3674 Semiconductors & Related Devices,4/28/2022
+U,Unity Software Inc,NYSE,69.93,Internet - Software,SIC-7372 Services-Prepackaged Software,4/28/2022
+CBSH,Commerce Bancshares,NASDAQ,69.89,Banks - Midwest,SIC-6022 State Commercial Banks,4/28/2022
+UFPT,U F P Tech Inc,NASDAQ,69.88,Containers - Paper Products,SIC-3841 Surgical & Medical Instruments & Apparatus,4/28/2022
+CGNX,Cognex Cp,NASDAQ,69.82,Electronic Test Equipment,"SIC-3823 Industrial Instruments For Measurement, Disp",4/28/2022
+AAWW,Atlas Air Ww,NASDAQ,69.78,Transportation - Air Freight,"SIC-4522 Air Transportation, Nonscheduled",4/28/2022
+EVRG,Evergy Inc,NYSE,69.73,Other Alt Energy,SIC-4931 Electric & Other Services Combined,4/28/2022
+K,Kellogg Company,NYSE,69.55,Food - Misc & Diversified,SIC-2040 Grain Mill Products,4/28/2022
+RGR,Sturm Ruger & Company,NYSE,69.46,Leisure & Recreational Prdcts,"SIC-3480 Ordnance & Accessories, (No Vehicles/Guided",4/28/2022
+ACHC,Acadia Healthcr Company,NASDAQ,69.36,Medical - Hospitals,"SIC-8093 Services-Specialty Outpatient Facilities, NE",4/28/2022
+SNEX,Stonex Group Inc,NASDAQ,69.35,Finance - Misc Services,"SIC-6200 Security & Commodity Brokers, Dealers, Excha",4/28/2022
+SCHW,The Charles Schwab Corp,NYSE,69.12,Finance - Investment Brokers,"SIC-6211 Security Brokers, Dealers & Flotation Compan",4/28/2022
+BXC,Bluelinx Holdings Inc,NYSE,69.06,Building Products - Wood,"SIC-5031 Wholesale-Lumber, Plywood, Millwork & Wood P",4/28/2022
+SSNC,SS&C Technologies,NASDAQ,69.04,Computer - Software,SIC-7372 Services-Prepackaged Software,4/28/2022
+TRUP,Trupanion Inc,NASDAQ,68.99,Insurance - Accident & Health,SIC-6324 Hospital & Medical Service Plans,4/28/2022
+PFBC,Preferred Bank LA,NASDAQ,68.87,Banks - West,SIC-6022 State Commercial Banks,4/28/2022
+TNC,Tennant Company,NYSE,68.87,Machinery - General Industrial,SIC-3580 Refrigeration & Service Industry Machinery,4/28/2022
+STT,State Street Corp,NYSE,68.84,Banks - Major Regional,SIC-6022 State Commercial Banks,4/28/2022
+SEAS,Seaworld Entertainment Inc Company,NYSE,68.81,Leisure & Recreation Services,SIC-7990 Services-Miscellaneous Amusement & Recreatio,4/28/2022
+HLIO,Helios Technologies Inc,NYSE,68.8,Machinery - General Industrial,SIC-3490 Miscellaneous Fabricated Metal Products,4/28/2022
+WRB,W.R. Berkley Corp,NYSE,68.75,Insurance - Proprty & Casualty,"SIC-6331 Fire, Marine & Casualty Insurance",4/28/2022
+BF.B,Brown Forman Inc Cl B,NYSE,68.7,Beverages - Alcohol,SIC-2080 Beverages,4/28/2022
+PLL,Piedmont Lithium Inc ADR,NASDAQ,68.63,Mining - Misc,SIC-1400 Mining & Quarrying of Nonmetallic Minerals (,4/28/2022
+TTGT,Techtarget Inc,NASDAQ,68.63,Internet - Content,"SIC-7389 Services-Business Services, NEC",4/28/2022
+FUL,H. B. Fuller Company,NYSE,68.41,Chemical - Specialty,SIC-2891 Adhesives & Sealants,4/28/2022
+KRNT,Kornit Digital Ord,NASDAQ,68.39,Printing - Commercial,SIC-3555 Printing Trades Machinery & Equipment,4/28/2022
+EHC,Encompass Health Corp,NYSE,68.36,Medical - Outpatient & Hm Care,SIC-8060 Services-Hospitals,4/28/2022
+PJT,Pjt Partners Inc Cl A,NYSE,68.23,Finance - Misc Services,SIC-6282 Investment Advice,4/28/2022
+MCHP,Microchip Technology,NASDAQ,68.18,Semi Analog & Mixed,SIC-3674 Semiconductors & Related Devices,4/28/2022
+KEX,Kirby Corp,NYSE,68.13,Transportation - Ship,SIC-4400 Water Transportation,4/28/2022
+BHP,Bhp Billiton Ltd ADR,NYSE,68.11,Mining - Misc,SIC-1000 Metal Mining,4/28/2022
+BL,Blackline Inc,NASDAQ,68.07,Internet - Software,SIC-7372 Services-Prepackaged Software,4/28/2022
+TRMB,Trimble Navigation,NASDAQ,67.95,Electronics Products - Misc,"SIC-3829 Measuring & Controlling Devices, NEC",4/28/2022
+THRM,Gentherm Inc,NASDAQ,67.93,Auto - Truck Original Parts,SIC-3714 Motor Vehicle Parts & Accessories,4/28/2022
+NEP,Nextera Energy Partners LP,NYSE,67.83,Other Alt Energy,SIC-4911 Electric Services,4/28/2022
+CROX,Crocs Inc,NASDAQ,67.82,Textile - Apparel,SIC-3021 Rubber & Plastics Footwear,4/28/2022
+DOW,Dow Inc,NYSE,67.81,Chemical - Diversified,"SIC-2821 Plastic Materials, Synth Resins & Nonvulcan",4/28/2022
+MET,Metlife Inc,NYSE,67.77,Insurance - Multi Line,SIC-6311 Life Insurance,4/28/2022
+LW,Lamb Weston Holdings Inc,NYSE,67.76,Food - Misc & Diversified,"SIC-2030 Canned, Frozen & Preserved Fruit, Veg & Food",4/28/2022
+DEN,Denbury Inc,NYSE,67.72,Oil - US Exploration & Product,SIC-1311 Crude Petroleum & Natural Gas,4/28/2022
+SCI,Service Corp International,NYSE,67.6,Funeral Services & Related,SIC-7200 Services-Personal Services,4/28/2022
+DD,Dupont Denemours Inc,NYSE,67.58,Chemical - Diversified,"SIC-2821 Plastic Materials, Synth Resins & Nonvulcan",4/28/2022
+CZR,Caesars Entertainment Inc,NASDAQ,67.39,Leisure & Recreation Services,SIC-7011 Hotels & Motels,4/28/2022
+LEN.B,Lennar Corp Cl B,NYSE,67.27,Building - Residential & Comm,SIC-1520 General Bldg Contractors - Residential Bldgs,4/28/2022
+BJ,Bj's Wholesale Club Holdings Inc,NYSE,67.25,Consumer Services - Misc,SIC-5331 Retail-Variety Stores,4/28/2022
+ENS,Enersys Inc,NYSE,67.23,Machinery - Electrical,"SIC-3690 Miscellaneous Electrical Machinery, Equipmen",4/28/2022
+AZN,Astrazeneca Plc ADR,NASDAQ,67.22,Large Cap Pharma,SIC-2834 Pharmaceutical Preparations,4/28/2022
+AYX,Alteryx Inc,NYSE,67.2,Internet - Software,SIC-7372 Services-Prepackaged Software,4/28/2022
+ENTA,Enanta Pharmaceutica,NASDAQ,67.04,Medical - Drugs,SIC-2834 Pharmaceutical Preparations,4/28/2022
+PB,Prosperity Bancshares,NYSE,66.95,Banks - Southwest,SIC-6022 State Commercial Banks,4/28/2022
+OKE,Oneok Inc,NYSE,66.92,Oil Gas Prod Pipeline MLP,SIC-4923 Natural Gas Transmission & Distribution,4/28/2022
+STRA,Strayer Education,NASDAQ,66.86,Schools,SIC-8200 Services-Educational Services,4/28/2022
+IHG,Intercontinental Hotels Group ADR,NYSE,66.64,Hotels & Motels,SIC-7011 Hotels & Motels,4/28/2022
+HUBG,Hub Group Inc A,NASDAQ,66.6,Transportation - Services,SIC-4731 Arrangement of Transportation of Freight & C,4/28/2022
+CBT,Cabot Corp,NYSE,66.57,Chemical - Diversified,SIC-2890 Miscellaneous Chemical Products,4/28/2022
+LPX,Louisiana-Pacific Corp,NYSE,66.54,Building Products - Wood,SIC-2400 Lumber & Wood Products (No Furniture),4/28/2022
+GMED,Globus Medical Inc,NYSE,66.53,Medical Instruments,SIC-3841 Surgical & Medical Instruments & Apparatus,4/28/2022
+CBU,Community Bank System,NYSE,66.45,Banks - Northeast,SIC-6021 National Commercial Banks,4/28/2022
+ENOV,Enovis Corp,NYSE,66.37,Medical Information Systems,SIC-3561 Pumps & Pumping Equipment,4/28/2022
+NEWR,New Relic Inc,NYSE,66.37,Internet - Software,SIC-7372 Services-Prepackaged Software,4/28/2022
+BKI,Black Knight Inc,NYSE,66.23,Business Information,SIC-7372 Services-Prepackaged Software,4/28/2022
+MDLZ,Mondelez Intl Inc,NASDAQ,66.22,Food - Misc & Diversified,SIC-2000 Food and Kindred Products,4/28/2022
+KO,Coca-Cola Company,NYSE,66.19,Beverages - Soft,SIC-2080 Beverages,4/28/2022
+SEE,Sealed Air Corp,NYSE,66.12,Containers - Paper Products,"SIC-2820 Plastic Material, Synth Resin/Rubber, Cellul",4/28/2022
+LOGI,Logitech Int S.A.,NASDAQ,66,Computers - Peripheral Equpt,"SIC-3577 Computer Peripheral Equipment, NEC",4/28/2022
+SF,Stifel Financial Corp,NYSE,65.84,Finance - Investment Brokers,"SIC-6211 Security Brokers, Dealers & Flotation Compan",4/28/2022
+BRO,Brown & Brown,NYSE,65.77,Insurance - Brokers,"SIC-6411 Insurance Agents, Brokers & Service",4/28/2022
+HCI,Homeowners Choice,NYSE,65.55,Insurance - Proprty & Casualty,"SIC-6331 Fire, Marine & Casualty Insurance",4/28/2022
+CSGP,Costar Group Inc,NASDAQ,65.46,IT Services,"SIC-7389 Services-Business Services, NEC",4/28/2022
+MOS,Mosaic Company,NYSE,65.32,Fertilizers,SIC-2870 Agricultural Chemicals,4/28/2022
+VOYA,VOYA Financial Inc,NYSE,65.16,Insurance - Life,SIC-6311 Life Insurance,4/28/2022
+CTO,Cto Realty Growth Inc,NYSE,65.05,REIT - Equity Trust Other,SIC-6798 Real Estate Investment Trusts,4/28/2022
+PLAN,Anaplan Inc,NYSE,64.95,Internet - Software,SIC-7372 Services-Prepackaged Software,4/28/2022
+ACC,American Campus Communities Inc,NYSE,64.7,REIT - Equity Trust Resident,SIC-6798 Real Estate Investment Trusts,4/28/2022
+GCO,Genesco Inc,NYSE,64.65,Retail - Apparel & Shoes,SIC-5661 Retail-Shoe Stores,4/28/2022
+FWONK,Liberty Media F1 Series K,NASDAQ,64.59,Media Conglomerates,SIC-4833 Television Broadcasting Stations,4/28/2022
+L,Loews Corp,NYSE,64.58,Insurance - Multi Line,"SIC-6331 Fire, Marine & Casualty Insurance",4/28/2022
+CVNA,Carvana Co. Cl A,NYSE,64.37,Internet Commerce,SIC-5500 Retail-Auto Dealers & Gasoline Stations,4/28/2022
+GH,Guardant Health Inc,NASDAQ,64.36,Medical - Biomedical,SIC-8071 Services-Medical Laboratories,4/28/2022
+MRTX,Mirati Therapeutics,NASDAQ,64.27,Medical - Biomedical,SIC-2834 Pharmaceutical Preparations,4/28/2022
+BNS,Bank of Nova Scotia,NYSE,64.21,Banks - Foreign,SIC-6022 State Commercial Banks,4/28/2022
+ESE,Esco Technologies Inc,NYSE,64.18,Machinery - Electrical,"SIC-3669 Communications Equipment, NEC",4/28/2022
+GGG,Graco Inc,NYSE,64.18,Machinery - General Industrial,SIC-3561 Pumps & Pumping Equipment,4/28/2022
+NVRO,Nevro Corp,NYSE,64.16,Medical Instruments,SIC-3841 Surgical & Medical Instruments & Apparatus,4/28/2022
+RICK,RCI Hospitality Hold,NASDAQ,64.09,Leisure & Recreation Services,SIC-5812 Retail-Eating Places,4/28/2022
+HQY,Healthequity,NASDAQ,64.05,Medical Services,"SIC-7389 Services-Business Services, NEC",4/28/2022
+BLDR,Builders Firstsource,NYSE,63.97,Building Prds Retail - Wsale,SIC-5211 Retail-Lumber & Other Building Materials Dea,4/28/2022
+SBR,Sabine Royalty Trust,NYSE,63.97,Oil - US Royalty Trusts,SIC-6792 Oil Royalty Traders,4/28/2022
+SAIL,Sailpoint Technologies Holdings Inc,NYSE,63.84,Technology Services,SIC-7372 Services-Prepackaged Software,4/28/2022
+EGLE,Eagle Bulk Ship,NASDAQ,63.8,Transportation - Ship,SIC-4412 Deep Sea Foreign Transportation of Freight,4/28/2022
+BF.A,Brown Forman Inc Cl A,NYSE,63.74,Beverages - Alcohol,SIC-5181 Beer and Ale,4/28/2022
+SPT,Sprout Social Inc Cl A,NASDAQ,63.67,Internet - Services,,4/28/2022
+FR,First Industrial Realty Trust,NYSE,63.65,REIT - Equity Trust Other,SIC-6798 Real Estate Investment Trusts,4/28/2022
+BIP,Brookfield Infrastructure Partners LP,NYSE,63.62,Utility - Electric Power,SIC-4400 Water Transportation,4/28/2022
+CVLT,Commvault Systems,NASDAQ,63.56,Computer - Software,SIC-7372 Services-Prepackaged Software,4/28/2022
+MMSI,Merit Medical Sys,NASDAQ,63.55,Medical - Dental Suppliers,SIC-3841 Surgical & Medical Instruments & Apparatus,4/28/2022
+DSGX,Descartes Sys Group,NASDAQ,63.39,Computer - Software,SIC-7372 Services-Prepackaged Software,4/28/2022
+MTX,Minerals Technologies Inc,NYSE,63.38,Chemical - Specialty,SIC-2810 Industrial Inorganic Chemicals,4/28/2022
+KFY,Korn/Ferry International,NYSE,63.37,Staffing,SIC-7361 Services-Employment Agencies,4/28/2022
+TJX,TJX Companies,NYSE,63.34,Retail - Discount,SIC-5651 Retail-Family Clothing Stores,4/28/2022
+PATK,Patrick Inds Inc,NASDAQ,63.13,Building - Mobile Homes & RV,SIC-3714 Motor Vehicle Parts & Accessories,4/28/2022
+SCCO,Southern Copper Corp,NYSE,63,Mining - Non Ferrous,SIC-1000 Metal Mining,4/28/2022
+KRYS,Krystal Biotech Inc,NASDAQ,62.99,Medical - Biomedical,"SIC-2836 Biological Products, (No Disgnostic Substanc",4/28/2022
+CSGS,C S G Sys Intl,NASDAQ,62.79,Computer - Services,SIC-7374 Services-Computer Processing & Data Preparat,4/28/2022
+LNC,Lincoln National Corp,NYSE,62.71,Insurance - Life,SIC-6311 Life Insurance,4/28/2022
+CNQ,Canadian Natural Resources,NYSE,62.63,Oil - C$ Exploration & Product,SIC-1311 Crude Petroleum & Natural Gas,4/28/2022
+WPP,Wpp Plc ADR,NYSE,62.5,Advertising Marketing Services,SIC-7311 Services-Advertising Agencies,4/28/2022
+MGA,Magna International,NYSE,62.44,Auto - Truck Original Parts,SIC-3714 Motor Vehicle Parts & Accessories,4/28/2022
+TRTN,Triton International Ltd,NYSE,62.42,Transportation - Equip & Lease,"SIC-7359 Services-Equipment Rental & Leasing, NEC",4/28/2022
+IART,Integra Lifesciences,NASDAQ,62.35,Medical Instruments,SIC-3841 Surgical & Medical Instruments & Apparatus,4/28/2022
+IIVI,I I V I Inc,NASDAQ,62.3,Machinery - Electrical,SIC-3827 Optical Instruments & Lenses,4/28/2022
+SON,Sonoco Products Company,NYSE,62.11,Containers - Paper Products,SIC-2650 Paperboard Containers & Boxes,4/28/2022
+IBKR,Interactive Brokers,NASDAQ,61.84,Finance - Investment Brokers,"SIC-6211 Security Brokers, Dealers & Flotation Compan",4/28/2022
+ALRM,Alarm.com,NASDAQ,61.76,Protection - Safety,SIC-7372 Services-Prepackaged Software,4/28/2022
+BYD,Boyd Gaming Corp,NYSE,61.75,Gaming,SIC-7011 Hotels & Motels,4/28/2022
+GXO,Gxo Logistics Inc,NYSE,61.74,Transportation - Air Freight,SIC-4700 Transportation Services,4/28/2022
+VICR,Vicor Cp,NASDAQ,61.65,Electronics - Misc Components,"SIC-3679 Electronic Components, NEC",4/28/2022
+GILD,Gilead Sciences Inc,NASDAQ,61.56,Medical - Biomedical,"SIC-2836 Biological Products, (No Disgnostic Substanc",4/28/2022
+CCOI,Cogent Comm Hlds,NASDAQ,61.55,Wireless National,"SIC-4899 Communications Services, NEC",4/28/2022
+NSA,National Storage Affiliates Tru,NYSE,61.54,REIT - Equity Trust Other,SIC-6798 Real Estate Investment Trusts,4/28/2022
+JCI,Johnson Controls Intl,NYSE,61.5,Protection - Safety,SIC-3585 Air-Cond & Warm Air Heatg Equip & Comm & Ind,4/28/2022
+CMP,Compass Minerals Intl Inc,NYSE,61.49,Chemical - Diversified,SIC-1400 Mining & Quarrying of Nonmetallic Minerals (,4/28/2022
+SMTC,Semtech Corp,NASDAQ,61.39,Semi Analog & Mixed,SIC-3674 Semiconductors & Related Devices,4/28/2022
+GEF,Greif Bros. Corp,NYSE,61.37,Containers - Paper Products,"SIC-3412 Metal Shipping Barrels, Drums, Kegs & Pails",4/28/2022
+CEG,Constellation Energy Corp,NASDAQ,61.31,Other Alt Energy,N/A,4/28/2022
+LNT,Alliant Energy Corp,NASDAQ,61.23,Utility - Electric Power,SIC-4931 Electric & Other Services Combined,4/28/2022
+GSHD,Goosehead Insurance Inc Cl A,NASDAQ,61.22,Insurance - Multi Line,"SIC-6411 Insurance Agents, Brokers & Service",4/28/2022
+TREX,Trex Company,NYSE,61.17,Building Products - Wood,SIC-2400 Lumber & Wood Products (No Furniture),4/28/2022
+TCX,Tucows Inc Cl A,NASDAQ,61.16,Internet - Content,SIC-7374 Services-Computer Processing & Data Preparat,4/28/2022
+REGI,Renewable Energy,NASDAQ,61.14,Biofuels,SIC-2860 Industrial Organic Chemicals,4/28/2022
+ALE,Allete Inc,NYSE,61.08,Utility - Electric Power,SIC-4931 Electric & Other Services Combined,4/28/2022
+MRVL,Marvell Technology Inc,NASDAQ,61.06,Technology Services,SIC-3674 Semiconductors & Related Devices,4/28/2022
+TTD,Trade Desk Inc,NASDAQ,60.8,Internet - Services,"SIC-7370 Services-Computer Programming, Data Processi",4/28/2022
+NGVT,Ingevity Corp,NYSE,60.79,Chemical - Specialty,SIC-2800 Chemicals & Allied Products,4/28/2022
+SJW,SJW Corp,NYSE,60.71,Utility - Water Supply,SIC-4941 Water Supply,4/28/2022
+WWE,World Wrestling Entertainment,NYSE,60.65,Movie & TV Production & Dist,SIC-7812 Services-Motion Picture & Video Tape Product,4/28/2022
+JOBS,51Job Inc ADR,NASDAQ,60.63,Publishing - Periodicals,SIC-7361 Services-Employment Agencies,4/28/2022
+BECN,Beacon Roofing Suppl,NASDAQ,60.45,Building Prds Retail - Wsale,SIC-5030 Wholesale-Lumber & Other Construction Materi,4/28/2022
+CUTR,Cutera Inc,NASDAQ,60.45,Lasers - Systems & Components,SIC-3845 Electromedical & Electrotherapeutic Apparatu,4/28/2022
+BPMC,Blueprint Medicines Corp,NASDAQ,60.23,Medical - Biomedical,SIC-2834 Pharmaceutical Preparations,4/28/2022
+WABC,Westamerica Bancorp,NASDAQ,60.2,Banks - West,SIC-6021 National Commercial Banks,4/28/2022

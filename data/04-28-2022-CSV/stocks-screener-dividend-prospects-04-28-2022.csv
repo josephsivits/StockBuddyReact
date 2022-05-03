@@ -1,0 +1,42 @@
+Symbol,Name,Exchange,Last,Industry,"SIC Description",Time,"Div Payout%","5Y Div%","Cash Flow %(q)","Cash Flow %(a)",Signal,Direction,"1M High Date"
+ADM,"Archer Daniels Midland",NYSE,91.75,"Agriculture Operations","SIC-2070 Fats & Oils","11:34 ET",28.19%,23.33%,+12.68%,+376.40%,Buy,Strengthening,2022-04-21
+AEE,"Ameren Corp",NYSE,94.81,"Utility - Electric Power","SIC-4931 Electric & Other Services Combined","11:32 ET",57.05%,2.80%,+39.35%,-3.82%,Buy,Average,2022-04-21
+AJG,"Arthur J. Gallagher & Company",NYSE,175.72,"Insurance - Brokers","SIC-6411 Insurance Agents, Brokers & Service","11:33 ET",34.67%,26.32%,+49.33%,-2.76%,Buy,Average,2022-04-21
+AON,"AON Plc",NYSE,312.77,"Insurance - Brokers","SIC-6411 Insurance Agents, Brokers & Service","11:33 ET",16.35%,54.26%,+74.42%,-21.60%,Buy,Average,2022-04-21
+BMY,"Bristol-Myers Squibb Company",NYSE,76.64,"Medical - Biomedical","SIC-2834 Pharmaceutical Preparations","11:34 ET",19.40%,28.95%,+33.39%,+15.34%,Buy,Strongest,2022-04-21
+CAG,"Conagra Brands Inc",NYSE,35.53,"Food - Misc & Diversified","SIC-2000 Food and Kindred Products","11:34 ET",53.56%,4.00%,+187.14%,-20.32%,Buy,Average,2022-04-21
+CAH,"Cardinal Health",NYSE,59.19,"Medical - Dental Suppliers",,"11:34 ET",39.99%,21.12%,+184.98%,+23.93%,Buy,Average,2022-04-21
+CASY,"Casey's General Stor",NASDAQ,206.46,"Retail - Convenience Stores","SIC-5500 Retail-Auto Dealers & Gasoline Stations","11:32 ET",15.90%,50.00%,+17.82%,+59.44%,Buy,Average,2022-04-21
+CHMG,"Chemung Financial Cp",NASDAQ,46.55,"Banks - Southeast","SIC-6022 State Commercial Banks","10:54 ET",21.67%,14.42%,+33.41%,+23.73%,Buy,Average,2022-04-25
+CL,"Colgate-Palmolive Company",NYSE,80.96,"Soap and Cleaning Products","SIC-2844 Perfumes, Cosmetics & Other Toilet Preparati","11:34 ET",55.55%,15.48%,+49.84%,-10.59%,Buy,Strengthening,2022-04-22
+CPB,"Campbell Soup Company",NYSE,47.5,"Food - Misc & Diversified","SIC-2000 Food and Kindred Products","11:33 ET",54.65%,16.80%,+165.97%,-25.86%,Buy,"Top 1%",2022-04-21
+CVBF,"Cvb Financial Corp",NASDAQ,23.44,"Banks - West","SIC-6022 State Commercial Banks","11:33 ET",37.72%,100.00%,+42.95%,+5.48%,Buy,Average,2022-04-21
+CVLY,"Codorus Valley Bncp",NASDAQ,23.67,"Banks - Northeast","SIC-6035 Savings Institution, Federally Chartered","10:51 ET",35.77%,25.58%,+11.27%,+133.75%,Buy,Strengthening,2022-04-26
+DDS,Dillard's,NYSE,297.55,"Retail - Regional Dept Stores","SIC-5311 Retail-Department Stores","11:34 ET",35.05%,"5,507.14%",+75.81%,+406.04%,Buy,Strongest,2022-04-21
+DG,"Dollar General Corp",NYSE,245.88,"Retail - Discount","SIC-5331 Retail-Variety Stores","11:34 ET",16.33%,68.00%,+28.70%,-26.07%,Buy,Average,2022-04-21
+EXC,"Exelon Corp",NASDAQ,48.09,"Utility - Electric Power","SIC-4931 Electric & Other Services Combined","11:34 ET",54.06%,21.43%,-27.26%,-28.88%,Buy,Average,2022-04-21
+FBIZ,"First Business Finan",NASDAQ,34.04,"Banks - Midwest","SIC-6022 State Commercial Banks","11:30 ET",17.06%,50.00%,+45.36%,+35.10%,Buy,Average,2022-04-21
+GCBC,"Greene County Bncp",NASDAQ,52.97,"Finance - Savings & Loan","SIC-6036 Savings Institutions, Not Federally Chartere","11:20 ET",15.11%,29.73%,+93.62%,+3.85%,Buy,Strongest,2022-04-28
+GIS,"General Mills",NYSE,71.74,"Food - Misc & Diversified","SIC-2040 Grain Mill Products","11:34 ET",53.88%,13.48%,+48.76%,-18.85%,Buy,Strongest,2022-04-21
+GPK,"Graphic Packaging Holding Company",NYSE,21.3,"Containers - Paper Products","SIC-2650 Paperboard Containers & Boxes","11:33 ET",26.44%,30.43%,+32.68%,-26.16%,Buy,Strongest,2022-04-21
+HCKT,"Hackett Grp Inc",NASDAQ,23.94,Consulting,"SIC-8742 Services-Management Consulting Services","11:31 ET",35.52%,53.85%,+75.10%,+5.20%,Buy,Average,2022-04-21
+HSY,"Hershey Foods Corp",NYSE,225.89,"Food - Confectionery",,"11:34 ET",47.12%,42.08%,+48.38%,+22.55%,Buy,Strengthening,2022-04-21
+HUBB,"Hubbell Inc B",NYSE,199.73,"Machinery - Elect Utilities","SIC-3670 Electronic Components & Accessories","11:33 ET",47.29%,54.05%,+67.44%,-20.73%,Buy,Average,2022-04-26
+JNJ,"Johnson & Johnson",NYSE,183.21,"Large Cap Pharma","SIC-2834 Pharmaceutical Preparations","11:34 ET",42.27%,33.02%,+32.42%,-0.54%,Buy,Strengthening,2022-04-25
+K,"Kellogg Company",NYSE,69.2,"Food - Misc & Diversified","SIC-2040 Grain Mill Products","11:33 ET",55.32%,13.24%,+48.56%,-14.35%,Buy,Strongest,2022-04-22
+MA,"Mastercard Inc",NYSE,373.92,"Financial Transaction Services","SIC-7389 Services-Business Services, NEC","11:34 ET",20.81%,131.58%,+50.83%,+30.99%,Buy,Average,2022-04-28
+MDLZ,"Mondelez Intl Inc",NASDAQ,65.23,"Food - Misc & Diversified","SIC-2000 Food and Kindred Products","11:34 ET",45.96%,84.72%,+52.24%,+4.47%,Buy,Strengthening,2022-04-21
+MGRC,"Mcgrath Rentcorp",NASDAQ,83.99,"Finance - Leasing Companies","SIC-7359 Services-Equipment Rental & Leasing, NEC","11:32 ET",46.59%,69.61%,+43.62%,+8.44%,Buy,Average,2022-04-21
+OPOF,"Old Point Finl Cp",NASDAQ,26.57,"Banks - Southeast","SIC-6021 National Commercial Banks","09:30 ET",31.04%,25.00%,+31.63%,+368.29%,Buy,Strengthening,2022-04-26
+PG,"Procter & Gamble Company",NYSE,161.65,"Soap and Cleaning Products","SIC-2840 Soap, Detergents, Cleaning Preparations, Per","11:34 ET",57.73%,21.80%,+33.24%,+5.56%,Buy,Strengthening,2022-04-21
+PKG,"Packaging Corp of America",NYSE,161,"Containers - Paper Products","SIC-2650 Paperboard Containers & Boxes","11:33 ET",42.52%,69.49%,+55.54%,+5.94%,Buy,Strengthening,2022-04-21
+PLD,"Prologis Inc",NYSE,168.17,"REIT - Equity Trust Other","SIC-6798 Real Estate Investment Trusts","11:33 ET",53.24%,50.00%,+31.41%,+2.01%,Buy,Strengthening,2022-04-21
+RSG,"Republic Services",NYSE,137.01,"Waste Removal Svcs","SIC-4953 Refuse Systems","11:33 ET",42.42%,42.74%,+30.35%,+12.75%,Buy,Strengthening,2022-04-27
+SJM,"J.M. Smucker Company",NYSE,140.2,"Food - Misc & Diversified","SIC-2033 Canned, Fruits, Veg, Preserves, Jams & Jelli","11:33 ET",44.29%,35.09%,+145.16%,+24.72%,Buy,Strengthening,2022-04-21
+SLGN,"Silgan Holdings",NASDAQ,44.52,"Containers - Metal & Glass",,"11:34 ET",16.32%,64.71%,"+9,733.91%",-7.58%,Buy,Strengthening,2022-04-21
+STZ,"Constellation Brands Inc",NYSE,249.43,"Beverages - Alcohol","SIC-2080 Beverages","11:34 ET",29.37%,90.00%,+10.69%,-3.60%,Buy,Average,2022-04-21
+TCFC,"The Community Fin Cp",NASDAQ,41.65,"Banks - Northeast","SIC-6022 State Commercial Banks","10:54 ET",12.91%,45.00%,+9.03%,+18.30%,Buy,Strongest,2022-04-27
+WLK,"Westlake Corp",NYSE,126.59,"Chemical - Plastics","SIC-2860 Industrial Organic Chemicals","11:34 ET",7.21%,54.05%,+46.24%,+84.58%,Buy,Average,2022-04-21
+WM,"Waste Management",NYSE,168.8,"Waste Removal Svcs","SIC-4953 Refuse Systems","11:34 ET",47.21%,40.24%,+29.61%,+27.48%,Buy,Strengthening,2022-04-28
+WRB,"W.R. Berkley Corp",NYSE,68.04,"Insurance - Proprty & Casualty","SIC-6331 Fire, Marine & Casualty Insurance","11:33 ET",37.37%,100.00%,+43.27%,+35.09%,Buy,Average,2022-04-21
+"Downloaded from Barchart.com as of 04-28-2022 10:34am CDT"

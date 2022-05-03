@@ -25,7 +25,7 @@ const AboutModal = ({visible, setVisible}) => {
         <Text>The Stock Investment Visualization Interface Tool Software (SIVITS) Mobile Application was designed to allow users to make more educated financial decisions with the aim to allow users to make educated financial decisions by configurating them to a set of criteria deemed appropriate and applicable for stock option investments for the NYSE and NASDAQ.</Text>
         <Text style={styles.disclosureText}>DISCLOSURE</Text>
         <Text>This app should be used in conjunction with broader market knowledge. The suggestions  given on this app is calculated by various different methods, which are not to be taken as literal financial advice. For full documentation,</Text>
-        <TouchableOpacity onPress={() => WebBrowser.openBrowserAsync('https://www.github.com/')}>
+        <TouchableOpacity onPress={() => WebBrowser.openBrowserAsync('https://docs.google.com/document/d/1ZZM16B7TIETrq-XjYcYLg2IywMCg3mfI/edit')}>
           <Text style={{color:'#78AEF5', fontSize:18, fontWeight:'bold', fontStyle:'italic',paddingBottom:15, marginTop:10}}>Tap Here</Text>
         </TouchableOpacity>
         <Text style={{paddingTop:30}}>Created by Joseph Sivits for his senior capstone under BatKnights LLC at Concordia University Chicago.</Text>

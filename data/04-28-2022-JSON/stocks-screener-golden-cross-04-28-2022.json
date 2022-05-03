@@ -1,0 +1,101 @@
+[
+  {
+    "Symbol": "AXSM",
+    "Name": "Axsome Thera",
+    "Exchange": "NASDAQ",
+    "Last": 30.37,
+    "Industry": "Medical - Biomedical",
+    "SIC Description": "SIC-2834 Pharmaceutical Preparations",
+    "Time": "11:30 ET",
+    "New 50-200D MACD": "Buy",
+    "20D Avg Vol": 1533798
+  },
+  {
+    "Symbol": "BNFT",
+    "Name": "Benefitfocus",
+    "Exchange": "NASDAQ",
+    "Last": 11.06,
+    "Industry": "Internet - Software",
+    "SIC Description": "SIC-7372 Services-Prepackaged Software",
+    "Time": "11:29 ET",
+    "New 50-200D MACD": "Buy",
+    "20D Avg Vol": 89182
+  },
+  {
+    "Symbol": "CBD",
+    "Name": "Companhia Brasileira DE Distribuicao ADR",
+    "Exchange": "NYSE",
+    "Last": 4.2,
+    "Industry": "Retail - Supermarket",
+    "SIC Description": "SIC-5411 Retail-Grocery Stores",
+    "Time": "11:29 ET",
+    "New 50-200D MACD": "Buy",
+    "20D Avg Vol": 655770
+  },
+  {
+    "Symbol": "HALO",
+    "Name": "Halozyme Therapeutic",
+    "Exchange": "NASDAQ",
+    "Last": 41.52,
+    "Industry": "Medical - Biomedical",
+    "SIC Description": "SIC-2836 Biological Products, (No Disgnostic Substanc",
+    "Time": "11:31 ET",
+    "New 50-200D MACD": "Buy",
+    "20D Avg Vol": 852580
+  },
+  {
+    "Symbol": "HCII",
+    "Name": "Hudson Executive Investment Corp II Cl A",
+    "Exchange": "NASDAQ",
+    "Last": 9.83,
+    "Industry": "Unclassified",
+    "SIC Description": "SIC-6770 Blank Checks",
+    "Time": "09:30 ET",
+    "New 50-200D MACD": "Buy",
+    "20D Avg Vol": 24425
+  },
+  {
+    "Symbol": "PBPB",
+    "Name": "Potbelly Corp",
+    "Exchange": "NASDAQ",
+    "Last": 6.5,
+    "Industry": "Retail - Restaurants",
+    "SIC Description": "SIC-5812 Retail-Eating Places",
+    "Time": "11:15 ET",
+    "New 50-200D MACD": "Buy",
+    "20D Avg Vol": 25847
+  },
+  {
+    "Symbol": "PING",
+    "Name": "Ping Identity Holding Corp",
+    "Exchange": "NYSE",
+    "Last": 26.75,
+    "Industry": "IT Services",
+    "SIC Description": "SIC-7372 Services-Prepackaged Software",
+    "Time": "11:30 ET",
+    "New 50-200D MACD": "Buy",
+    "20D Avg Vol": 1042106
+  },
+  {
+    "Symbol": "WSO",
+    "Name": "Watsco Inc",
+    "Exchange": "NYSE",
+    "Last": 278.53,
+    "Industry": "Building Prdcts - Air Heating",
+    "SIC Description": "SIC-5070 Wholesale-Hardware & Plumbing & Heating Equi",
+    "Time": "11:31 ET",
+    "New 50-200D MACD": "Buy",
+    "20D Avg Vol": 294171
+  },
+  {
+    "Symbol": "Downloaded from Barchart.com as of 04-28-2022 10:31am CDT",
+    "Name": "",
+    "Exchange": "",
+    "Last": "",
+    "Industry": "",
+    "SIC Description": "",
+    "Time": "",
+    "New 50-200D MACD": "",
+    "20D Avg Vol": ""
+  }
+]
